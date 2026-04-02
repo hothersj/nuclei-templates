@@ -3,7 +3,6 @@ id: nuget-api-key
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: NuGet API Key
   author: DhiyaneshDK

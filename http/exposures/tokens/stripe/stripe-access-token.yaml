@@ -3,7 +3,6 @@ id: stripe-access-token
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: Stripe Access Token
   author: DhiyaneshDK

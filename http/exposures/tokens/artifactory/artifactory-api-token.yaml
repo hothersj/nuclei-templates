@@ -3,7 +3,6 @@ id: artifactory-api-token
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: Artifactory API Token Disclosure
   author: Ice3man

@@ -1,0 +1,501 @@
+file,template_id,name,family,cwe_matches,confidence_score
+http/exposures/backups/backup-directory-listing.yaml,backup-directory-listing,Backup Directory Listing - Detect,exposure,CWE-548;CWE-552,7
+http/exposures/backups/batflat-sqlite-exposure.yaml,batflat-sqlite-exposure,Batflat SQLite Database - Exposure,exposure,CWE-219;CWE-552;CWE-922,7
+http/exposures/backups/exposed-mysql-initial.yaml,exposed-mysql-initial,mysql.initial Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/backups/froxlor-database-backup.yaml,froxlor-database-backup,Froxlor Server Management Backup File - Detect,exposure,CWE-219;CWE-538;CWE-922,7
+http/exposures/backups/generic-php-files.yaml,generic-php-files,Generic PHP Backup Information Disclosure,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/backups/php-backup-files.yaml,php-backup-files,PHP Source - Backup File Information Disclosure,exposure,CWE-219;CWE-260,7
+http/exposures/backups/sweetrice-backup-disclosure.yaml,sweetrice-backup-disclosure,SweetRice CMS 1.5.1 - Backup Disclosure,exposure,CWE-538;CWE-548;CWE-552,7
+http/exposures/backups/wordpress-db-exposure.yaml,wordpress-db-exposure,WordPress Database Backup File - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/backups/zip-backup-files.yaml,zip-backup-files,Compressed Backup File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/3cx-config.yaml,3cx-config,3CX Config - File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/airflow-configuration-exposure.yaml,airflow-configuration-exposure,Apache Airflow Configuration Page - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/amazon-docker-config.yaml,amazon-docker-config,Dockerrun AWS Configuration Page - Detect,exposure,CWE-219;CWE-312,7
+http/exposures/configs/ansible-config-disclosure.yaml,ansible-config-disclosure,Ansible Configuration Page - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/apache-config.yaml,apache-config,Apache Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/apache-hive-config.yaml,apache-hive-config,Apache Hive Configuration - Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/appveyor-configuration-file.yaml,appveyor-configuration-file,AppVeyor Configuration Page - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/aws-config.yaml,aws-config,AWS Configuration - Detect,exposure,CWE-260;CWE-538,7
+http/exposures/configs/aws-credentials.yaml,aws-credentials,AWS Credentials - Detect,exposure,CWE-260;CWE-538;CWE-552,7
+http/exposures/configs/awstats-config.yaml,awstats-config,AWStats Config - Detect,exposure,CWE-219;CWE-548,7
+http/exposures/configs/awstats-script.yaml,awstats-script,AWStats Script Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/azure-functions-hostjson-exposure.yaml,azure-functions-hostjson-exposure,Azure Functions host.json Configuration Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/babel-config-exposure.yaml,babel-config-exposure,Babel Configuration - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/bash-config-exposure.yaml,bash-config-exposure,Bash Configuration - Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/behat-config.yaml,behat-config,Behat Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/blazor-boot.yaml,blazor-boot,Blazor Boot File Disclosure,exposure,CWE-538;CWE-922,7
+http/exposures/configs/bugzilla-config.yaml,bugzilla-config,Bugzilla - Config Exposed,exposure,CWE-219;CWE-538,7
+http/exposures/configs/cakefile-exposure.yaml,cakefile-exposure,Cakefile - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/cakephp-config.yaml,cakephp-config,CakePHP Configuration File - Detect,exposure,CWE-260;CWE-538;CWE-922,7
+http/exposures/configs/circleci-config.yaml,circleci-config,CircleCI Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/circleci-ssh-config.yaml,circleci-ssh-config,CircleCI SSH Configuration - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/codeception-config.yaml,codeception-config,Codeception YAML Configuration File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/codeclimate-config-exposure.yaml,codeclimate-config-exposure,CodeClimate Configuration File - Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/codekit-config-exposure.yaml,codekit-config-exposure,CodeKit Configuration Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/collibra-properties.yaml,collibra-properties,Collibra Properties Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/configs/composer-config.yaml,composer-config,Composer Config - Detect,exposure,CWE-219;CWE-538,7
+http/exposures/configs/config-json-exposure-fuzz.yaml,config-json-exposure-fuzz,Exposed JSON Configuration Files,exposure,CWE-200;CWE-260;CWE-552,7
+http/exposures/configs/config-json.yaml,config-json,Configuration File - Detect,exposure,CWE-219;CWE-260;CWE-312,7
+http/exposures/configs/config-properties.yaml,config-properties,Config Properties Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/configs/config-rb.yaml,config-rb,Ruby Configuration File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/configuration-listing.yaml,configuration-listing,Sensitive Configuration Files Listing - Detect,exposure,CWE-548;CWE-552,7
+http/exposures/configs/cpanel-backup-exclude-exposure.yaml,cpanel-backup-exclude-exposure,cPanel Backup Exclusion Configuration - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/cpanel-config.yaml,cpanel-config,cPanel Configuration - File Disclosure,exposure,CWE-219;CWE-260,7
+http/exposures/configs/cypress-web-config.yaml,cypress-web-config,Cypress Oxygen Configuration Page - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/dbeaver-credentials.yaml,dbeaver-credentials,DBeaver - Credentials Discovery,exposure,CWE-219;CWE-260;CWE-522,7
+http/exposures/configs/deployment-ini.yaml,deployment-ini,FTP Deployment Config File - Exposure,exposure,CWE-219;CWE-256;CWE-260,7
+http/exposures/configs/dockerrun-aws-json-exposure.yaml,dockerrun-aws-json-exposure,AWS Elastic Beanstalk Dockerrun.aws.json - Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/editor-exposure.yaml,editor-exposure,Editor Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/esmtprc-config.yaml,esmtprc-config,eSMTP - Config Discovery,exposure,CWE-219;CWE-260;CWE-312,7
+http/exposures/configs/exposed-bitkeeper.yaml,exposed-bitkeeper,BitKeeper Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/exposed-bzr.yaml,exposed-bzr,Bazaar Configuration - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/exposed-darcs.yaml,exposed-darcs,Darcs Configuration - Detect,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/configs/exposed-filezilla-config.yaml,exposed-filezilla-config,Exposed FileZilla Configuration File - Exposure,exposure,CWE-260;CWE-538;CWE-552,7
+http/exposures/configs/exposed-gitignore.yaml,exposed-gitignore,Gitignore Config - Detect,exposure,CWE-219;CWE-538,7
+http/exposures/configs/exposed-gitmodules.yaml,exposed-gitmodules,.gitmodules File Exposed,exposure,CWE-219;CWE-552,7
+http/exposures/configs/exposed-hg.yaml,exposed-hg,HG Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/exposed-svn.yaml,exposed-svn,SVN Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/fastcgi-config.yaml,fastcgi-config,FastCGI Configuration - File Disclosure,exposure,CWE-201;CWE-219;CWE-552,7
+http/exposures/configs/firebase-config-exposure.yaml,firebase-config-exposure,Firebase Configuration File - Detect,exposure,CWE-219;CWE-538;CWE-540,7
+http/exposures/configs/flow-config-exposure.yaml,flow-config-exposure,Flow Configuration - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/ftp-credentials-exposure.yaml,ftp-credentials-exposure,FTP Credentials Exposure,exposure,CWE-260;CWE-538;CWE-552,7
+http/exposures/configs/gcloud-config-default.yaml,gcloud-config-default,Google Cloud Default Config - Detect,exposure,CWE-219;CWE-312;CWE-552,7
+http/exposures/configs/git-config.yaml,git-config,Git Configuration - Detect,exposure,CWE-260;CWE-552,7
+http/exposures/configs/git-credentials-disclosure.yaml,git-credentials-disclosure,Git Credentials - Detect,exposure,CWE-260;CWE-538,7
+http/exposures/configs/github-workflows-disclosure.yaml,github-workflows-disclosure,Github Workflow Disclosure,exposure,CWE-219;CWE-312,7
+http/exposures/configs/golangci-config.yaml,golangci-config,GolangCI-Lint Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/gruntfile-exposure.yaml,gruntfile-exposure,Gruntfile Config - Detect,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/configs/guard-config.yaml,guard-config,Guardfile Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/hikvision-info-leak.yaml,hikvision-info-leak,Hikvision Configuration File - Detect,exposure,CWE-219;CWE-260,7
+http/exposures/configs/httpd-config.yaml,httpd-config,Apache httpd Config File - Detect,exposure,CWE-219;CWE-538,7
+http/exposures/configs/jakefile-disclosure.yaml,jakefile-disclosure,Jakefile Build Configuration - Disclosure,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/configs/javascript-env-config.yaml,javascript-env-config,JavaScript Environment Configuration - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/jsconfig-json.yaml,jsconfig-json,Visual Studio Code jsconfig.json - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/karma-config-js.yaml,karma-config-js,Karma Configuration File - Detect,exposure,CWE-219;CWE-538,7
+http/exposures/configs/kubernetes-kustomization-disclosure.yaml,kubernetes-kustomization-disclosure,Kubernetes Kustomize Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/kyan-credential-exposure.yaml,kyan-credential-exposure,Kyan Credential - Exposure,exposure,CWE-219;CWE-312,7
+http/exposures/configs/laravel-env.yaml,laravel-env,Laravel - Sensitive Information Disclosure,exposure,CWE-200;CWE-219;CWE-260;CWE-522;CWE-552,7
+http/exposures/configs/magento-config-disclosure.yaml,magento-config-disclosure,Magento Configuration Panel - Detect,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/configs/makefile-exposure.yaml,makefile-exposure,Makefile - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/mercurial-hgignore.yaml,mercurial-hgignore,Mercurial Ignore - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/msmtp-config.yaml,msmtp-config,Msmtp - Config Exposure,exposure,CWE-219;CWE-260,7
+http/exposures/configs/mysql-config-exposure.yaml,mysql-config-exposure,MySQL Conifg - Exposure,exposure,CWE-219;CWE-260;CWE-552,7
+http/exposures/configs/neo4j-neodash-config.yaml,neo4j-neodash-config,Neo4j Neodash Config - Exposure,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/configs/netbeans-config.yaml,netbeans-config,Netbeans Config - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/netlify-headers-config-exposure.yaml,netlify-headers-config-exposure,Netlify Headers Configuration - Exporsure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/netrc.yaml,netrc,Netrc - Config File Discovery,exposure,CWE-260;CWE-312;CWE-552,7
+http/exposures/configs/nginx-config.yaml,nginx-config,Nginx Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/node-repl-history-disclosure.yaml,node-repl-history-disclosure,Node.js REPL History Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/oracle-ebs-credentials.yaml,oracle-ebs-credentials,Oracle E-Business System Credentials Page - Detect,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/configs/ovhcloud-backup-config.yaml,ovhcloud-backup-config,OVHcloud Backup Configuration - Exposure,exposure,CWE-219;CWE-260;CWE-312,7
+http/exposures/configs/ovpn-config-exposed.yaml,ovpn-config-exposed,OVPN Configuration Download Page - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/owncloud-config.yaml,owncloud-config,owncloud Config - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/package-json.yaml,package-json,NPM package.json Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/phinx-config.yaml,phinx-config,Phinx Configuration Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/php-fpm-config.yaml,php-fpm-config,PHP-FPM Configuration Page - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/phpci-yml.yaml,phpci-yml,"PHPCI Configuration Exposure ""phpci.yml"" Exposure",exposure,CWE-219;CWE-538,7
+http/exposures/configs/phpcs-config.yaml,phpcs-config,PHP_CodeSniffer Configuration Exposure - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/phpsec-config.yaml,phpsec-config,phpspec Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/pipfile-config.yaml,pipfile-config,Pipfile Config - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/platformio-ini.yaml,platformio-ini,Platformio Config File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/plesk-stat.yaml,plesk-stat,Webalizer Log Analyzer Configuration - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/pre-commit-config.yaml,pre-commit-config,Pre-commit Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/prettier-ignore-disclosure.yaml,prettier-ignore-disclosure,Prettier - Ignore File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/procfile-config.yaml,procfile-config,Procfile Config - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/proftpd-config.yaml,proftpd-config,ProFTPD Configuration File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/protractor-config.yaml,protractor-config,Protractor Configuration Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/proxy-wpad-exposure.yaml,proxy-wpad-exposure,Web Proxy Auto-Discovery Configuration File - Detect,exposure,CWE-219;CWE-538,7
+http/exposures/configs/psalm-config.yaml,psalm-config,Psalm Configuration Exposure - Detect,exposure,CWE-219;CWE-538,7
+http/exposures/configs/pubspec-config.yaml,pubspec-config,Pubspec YAML Configuration File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/pyproject-toml.yaml,pyproject-toml,pyproject.toml Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/python-setup-config.yaml,python-setup-config,Python Setup Configuration - Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/qdpm-info-leak.yaml,qdpm-info-leak,qdPM 9.2 - DB Credentials Exposure,exposure,CWE-219;CWE-260,7
+http/exposures/configs/rackup-config-ru.yaml,rackup-config-ru,Rackup Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/rails-database-config.yaml,rails-database-config,Ruby on Rails Database Configuration File - Detect,exposure,CWE-260;CWE-538;CWE-552,7
+http/exposures/configs/rakefile-disclosure.yaml,rakefile-disclosure,Rakefile - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/redis-config.yaml,redis-config,Redis Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/rexify-config-exposure.yaml,rexify-config-exposure,Rexify Configuration - Exposure,exposure,CWE-219;CWE-260,7
+http/exposures/configs/robomongo-credential.yaml,robomongo-credential,RoboMongo Credential - Exposure,exposure,CWE-256;CWE-260;CWE-538,7
+http/exposures/configs/rollup-js-config.yaml,rollup-js-config,Rollup.js Configuration - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/rubocop-config.yaml,rubocop-config,Rubocop Configuration - Detect,exposure,CWE-219;CWE-552;CWE-922,7
+http/exposures/configs/ruijie-information-disclosure.yaml,ruijie-information-disclosure,Ruijie Login Panel - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/ruijie-nbr1300g-exposure.yaml,ruijie-nbr1300g-exposure,Ruijie NBR1300G Cli Password Leak - Detect,exposure,CWE-259;CWE-312,7
+http/exposures/configs/s3cfg-config.yaml,s3cfg-config,S3CFG Configuration - Detect,exposure,CWE-219;CWE-260;CWE-552,7
+http/exposures/configs/s3cmd-config.yaml,s3cmd-config,S3CMD Configuration - Detect,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/configs/samba-config.yaml,samba-config,Samba Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/scrutinizer-config.yaml,scrutinizer-config,Scrutinizer Config - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/sftp-credentials-exposure.yaml,sftp-credentials-exposure,SFTP Configuration File - Credentials Exposure,exposure,CWE-219;CWE-260;CWE-312,7
+http/exposures/configs/sftp-deployment-config.yaml,sftp-deployment-config,Atom SFTP Configuration File - Detect,exposure,CWE-260;CWE-312;CWE-552,7
+http/exposures/configs/smtp-credentials-exposure.yaml,smtp-credentials-exposure,SMTP Credentials Exposure - Detection,exposure,CWE-260;CWE-312,7
+http/exposures/configs/sphinxsearch-config.yaml,sphinxsearch-config,Sphinx Search Config - Exposure,exposure,CWE-219;CWE-256;CWE-260,7
+http/exposures/configs/stestr-config.yaml,stestr-config,Stestr Configuration File - Detect,exposure,CWE-219;CWE-260;CWE-552,7
+http/exposures/configs/svnserve-config.yaml,svnserve-config,Svnserve Configuration File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/symfony-database-config.yaml,symfony-database-config,Symfony Database Configuration File - Detect,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/configs/symfony-lock-exposure.yaml,symfony-lock-exposure,Symfony Lock File - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/symfony-security-config.yaml,symfony-security-config,Symfony Security Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/tox-ini.yaml,tox-ini,Tox Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/ventrilo-config.yaml,ventrilo-config,Ventrilo Configuration File - Detect,exposure,CWE-260;CWE-538;CWE-552,7
+http/exposures/configs/vite-config.yaml,vite-config,Vite Configuration - File Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/configs/webpack-config.yaml,webpack-config,Webpack Configuration File - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/configs/websheets-config.yaml,websheets-config,Websheets Configuration File - Detect,exposure,CWE-260;CWE-312;CWE-538,7
+http/exposures/configs/wgetrc-config.yaml,wgetrc-config,Wgetrc Configuration File - Detect,exposure,CWE-219;CWE-552,7
+http/exposures/configs/wordpress-wp-env-exposure.yaml,wordpress-wp-env-exposure,WordPress Configuration wp-env - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/configs/zend-config-file.yaml,zend-config-file,Zend Configuration File,exposure,CWE-260;CWE-312;CWE-538,7
+http/exposures/configs/zipkin-config-exposure.yaml,zipkin-config-exposure,Zipkin Configuration - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/files/angular-json.yaml,angular-json,Angular JSON File Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/apdisk-disclosure.yaml,apdisk-disclosure,Apdisk - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/appsettings-file-disclosure.yaml,appsettings-file-disclosure,Application Setting file disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/aspnet-launchsettings-exposure.yaml,aspnet-launchsettings-exposure,ASP.NET Launch Settings - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/atom-sync-remote.yaml,atom-sync-remote,Atom Synchronization Exposure,exposure,CWE-260;CWE-538;CWE-922,7
+http/exposures/files/auth-json.yaml,auth-json,Auth.json File - Disclosure,exposure,CWE-219;CWE-260;CWE-312,7
+http/exposures/files/aws-buildspec-exposure.yaml,aws-buildspec-exposure,AWS CodeBuild Build Spec - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/azure-pipelines-exposed.yaml,azure-pipelines-exposed,Azure Pipelines Configuration File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/azuredeploy-json.yaml,azuredeploy-json,Azure Resource Manager Template - File Exposure,exposure,CWE-538;CWE-922,7
+http/exposures/files/bitbucket-oauth-exposure.yaml,bitbucket-oauth-exposure,Bitbucket OAuth Credentials Exposure,exposure,CWE-522;CWE-552,7
+http/exposures/files/bitbucket-pipelines.yaml,bitbucket-pipelines,BitBucket Pipelines Configuration Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/files/bower-json.yaml,bower-json,bower.json File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/build-properties.yaml,build-properties,Build Properties File Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/bun-lock.yaml,bun-lock,Bun Lock File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/cargo-lock-package.yaml,cargo-lock-package,Cargo Lock Packages Disclosure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/files/cargo-toml-file.yaml,cargo-toml-file,Cargo TOML File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/cloud-config.yaml,cloud-config,Cloud Config File Exposure,exposure,CWE-219;CWE-538;CWE-922,7
+http/exposures/files/composer-auth-json.yaml,composer-auth-json,Composer-auth Json File Disclosure,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/files/core-dump.yaml,core-dump,Exposed Core Dump - File Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/credentials-json.yaml,credentials-json,Credentials File Disclosure,exposure,CWE-260;CWE-538;CWE-922,7
+http/exposures/files/database-credentials.yaml,database-credentials,Database Credentials File Exposure,exposure,CWE-260;CWE-538;CWE-541,7
+http/exposures/files/desktop-ini-exposure.yaml,desktop-ini-exposure,desktop.ini exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/django-secret-key.yaml,django-secret-key,Django Secret Key Exposure,exposure,CWE-219;CWE-312,7
+http/exposures/files/dnsmasq-config.yaml,dnsmasq-config,Dnsmasq Config - File Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/docker-cloud.yaml,docker-cloud,Docker Cloud Yaml - File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/dot-credentials-exposure.yaml,dot-credentials-exposure,Dot Credentials - Exposure,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/files/ds-store-file.yaml,ds-store-file,DS_Store File - Exposed,exposure,CWE-219;CWE-552,7
+http/exposures/files/dwsync-exposure.yaml,dwsync-exposure,Dreamweaver Dwsync.xml Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/files/eclipse-project-exposure.yaml,eclipse-project-exposure,Eclipse .project Configuration - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/elastic-kibana-config.yaml,elastic-kibana-config,Elastic Kibana Config - File Disclosure,exposure,CWE-219;CWE-260,7
+http/exposures/files/environment-rb.yaml,environment-rb,Environment Ruby File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/exposed-alps-spring.yaml,exposed-alps-spring,Exposed Spring Data REST Application-Level Profile Semantics (ALPS),exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/exposed-pki-cert.yaml,exposed-pki-cert,Exposed Internal PKI Infrastructure - Detect,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/ftpconfig.yaml,ftpconfig,Atom remote-ssh ftpconfig Exposure,exposure,CWE-219;CWE-256;CWE-260,7
+http/exposures/files/gcloud-access-token.yaml,gcloud-access-token,Google Cloud Access Token,exposure,CWE-219;CWE-538;CWE-922,7
+http/exposures/files/gcloud-credentials.yaml,gcloud-credentials,Google Cloud Credentials,exposure,CWE-219;CWE-538;CWE-922,7
+http/exposures/files/generic-db.yaml,generic-db,Generic Database File - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/get-access-token-json.yaml,get-access-token-json,Get Access Token Json,exposure,CWE-538;CWE-922,7
+http/exposures/files/git-mailmap.yaml,git-mailmap,Git Mailmap File Disclosure,exposure,CWE-219;CWE-359;CWE-552,7
+http/exposures/files/github-page-config.yaml,github-page-config,Github pages config file,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/gitlab-ci-yml.yaml,gitlab-ci-yml,GitLab CI YAML - Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/files/gitpod-dockerfile-exposure.yaml,gitpod-dockerfile-exposure,Gitpod Dockerfile - Exposure,exposure,CWE-219;CWE-922,7
+http/exposures/files/go-mod-disclosure.yaml,go-mod-disclosure,Go.mod Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/gradle-libs.yaml,gradle-libs,Gradle Library Version Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/gunicorn-config-file.yaml,gunicorn-config-file,Gunicorn Config File - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/haproxy-config-file.yaml,haproxy-config-file,Haproxy Config - File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/icecast-config.yaml,icecast-config,Icecast Config - File Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/iceflow-vpn-disclosure.yaml,iceflow-vpn-disclosure,ICEFlow VPN Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/ioncube-loader-wizard.yaml,ioncube-loader-wizard,ioncube Loader Wizard Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/javascript-env.yaml,javascript-env,JavaScript Environment Configuration - Detect,exposure,CWE-200;CWE-219;CWE-552;CWE-798,7
+http/exposures/files/joe-deadjoe-file-exposure.yaml,joe-deadjoe-file-exposure,Joe Editor DEADJOE File - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/files/jolokia-config-exposure.yaml,jolokia-config-exposure,Jolokia Configuration - Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/files/kubernetes-etcd-keys.yaml,kubernetes-etcd-keys,Kubernetes etcd Keys - Exposure,exposure,CWE-538;CWE-922,7
+http/exposures/files/lighttpd-config-file.yaml,lighttpd-config-file,Lighttpd Config File - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/log4-properties.yaml,log4-properties,Log4j Properties - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/next-js-config-file.yaml,next-js-config-file,Next JS Config - File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/npm-anonymous-cli.yaml,npm-anonymous-cli,NPM Anonymous CLI Metrics Exposure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/files/npm-shrinkwrap-exposure.yaml,npm-shrinkwrap-exposure,Node Shrinkwrap Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/npmrc-authtoken.yaml,npmrc-authtoken,Hardcoded .npmrc AuthToken,exposure,CWE-219;CWE-260;CWE-522,7
+http/exposures/files/nuget-package-config.yaml,nuget-package-config,NuGet Package.config File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/nuxtjs-config-file.yaml,nuxtjs-config-file,Nuxtjs Config File - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/oauth-credentials-json.yaml,oauth-credentials-json,Oauth Credentials Json,exposure,CWE-260;CWE-538,7
+http/exposures/files/openstack-user-secrets.yaml,openstack-user-secrets,OpenStack User Secrets Exposure,exposure,CWE-219;CWE-260,7
+http/exposures/files/pantheon-upstream.yaml,pantheon-upstream,Pantheon upstream.yml Disclosure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/files/pear-registry-exposed.yaml,pear-registry-exposed,PEAR Registry Files Exposed,exposure,CWE-219;CWE-552,7
+http/exposures/files/php-cs-cache.yaml,php-cs-cache,PHP-CS-Fixer Cache - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/php-ini.yaml,php-ini,Php.ini File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/php-user-ini-disclosure.yaml,php-user-ini-disclosure,Php User.ini Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/phpunit-result-cache-exposure.yaml,phpunit-result-cache-exposure,PHPUnit Result Cache File Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/files/phpunit.yaml,phpunit,phpunit.xml File Disclosure,exposure,CWE-219;CWE-312;CWE-552,7
+http/exposures/files/pipeline-configuration.yaml,pipeline-configuration,Pipeline Configuration Exposure,exposure,CWE-219;CWE-552;CWE-922,7
+http/exposures/files/pipfile-lock.yaml,pipfile-lock,Pipfile.lock Disclosure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/files/pnpm-lock.yaml,pnpm-lock,PNPM Lock Yaml File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/postgres-credentials-exposure.yaml,postgres-credentials-exposure,PostgreSQL Credentials - Exposure,exposure,CWE-219;CWE-256;CWE-260,7
+http/exposures/files/postgres-history-exposure.yaml,postgres-history-exposure,PostgreSQL History - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/files/putty-private-key-disclosure.yaml,putty-private-key-disclosure,Putty Private Key Disclosure,exposure,CWE-522;CWE-538;CWE-922,7
+http/exposures/files/pyproject-disclosure.yaml,pyproject-disclosure,Pyproject Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/python-history-disclosure.yaml,python-history-disclosure,Python History File Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/python-requirements-disclosure.yaml,python-requirements-disclosure,Python Requirements File Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/python-venv-exposure.yaml,python-venv-exposure,Python Virtual Environment  Directory Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/rails-history-exposure.yaml,rails-history-exposure,Rails/Ruby Console History - Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/files/rails-secret-token-disclosure.yaml,rails-secret-token-disclosure,Ruby on Rails Secret Token Disclosure,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/files/readme-md.yaml,readme-md,README.md file disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/redmine-config.yaml,redmine-config,Redmine Configuration File - Detect,exposure,CWE-219;CWE-260;CWE-538,7
+http/exposures/files/redmine-settings.yaml,redmine-settings,Redmine settings.yml File Disclosure,exposure,CWE-219;CWE-260,7
+http/exposures/files/routes-ini.yaml,routes-ini,routes.ini File Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/files/ruby-rail-storage.yaml,ruby-rail-storage,Ruby on Rails storage.yml File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/rubygems-credentials-exposure.yaml,rubygems-credentials-exposure,Ruby Gem::ConfigFile Credential - Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/files/salesforce-credentials.yaml,salesforce-credentials,Salesforce Credentials - Detect,exposure,CWE-538;CWE-540;CWE-798,7
+http/exposures/files/sass-lint.yaml,sass-lint,Sass Lint File Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/secret-token-rb.yaml,secret-token-rb,Secret Token Ruby - File Disclosure,exposure,CWE-260;CWE-312;CWE-552,7
+http/exposures/files/sendgrid-env.yaml,sendgrid-env,SendGrid Env File Exposure,exposure,CWE-200;CWE-219;CWE-522;CWE-552,7
+http/exposures/files/service-account-credentials.yaml,service-account-credentials,Service Account Credentials File Disclosure,exposure,CWE-522;CWE-538;CWE-922,7
+http/exposures/files/socks5-vpn-config.yaml,socks5-vpn-config,Socks5 VPN - Sensitive File Disclosure,exposure,CWE-260;CWE-552,7
+http/exposures/files/sqlite-history-exposure.yaml,sqlite-history-exposure,SQLite History - Exposure,exposure,CWE-219;CWE-312,7
+http/exposures/files/styleci-yml-disclosure.yaml,styleci-yml-disclosure,StyleCi Yaml File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/svn-wc-db.yaml,svn-wc-db,SVN wc.db File Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/files/symfony-properties-ini.yaml,symfony-properties-ini,Symfony properties.ini File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/symfony-security.yaml,symfony-security,Symfony security.yml File Disclosure,exposure,CWE-219;CWE-312,7
+http/exposures/files/testignore-disclosure.yaml,testignore-disclosure,Testignore - File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/thumbs-db-disclosure.yaml,thumbs-db-disclosure,Thumbs DB Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/token-info-json.yaml,token-info-json,Token Info Json File,exposure,CWE-219;CWE-312;CWE-522,7
+http/exposures/files/token-json.yaml,token-json,Token Json File Disclosure,exposure,CWE-219;CWE-538;CWE-922,7
+http/exposures/files/travis-ci-disclosure.yaml,travis-ci-disclosure,Travis CI Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/vagrantfile-exposure.yaml,vagrantfile-exposure,Vagrantfile Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/files/vercel-config-file.yaml,vercel-config-file,Vercel Config File - File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/viminfo-disclosure.yaml,viminfo-disclosure,Viminfo - File Disclosure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/files/vscode-launch.yaml,vscode-launch,Visual Studio Code launch.json Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/files/vscode-mcp-json.yaml,vscode-mcp-json,"Visual Studio Code MCP Configuration (""mcp.json"") Exposure",exposure,CWE-219;CWE-538,7
+http/exposures/files/vscode-settings.yaml,vscode-settings,Visual Studio Code Settings - Credential Exposure,exposure,CWE-260;CWE-538;CWE-552,7
+http/exposures/files/vscode-sftp.yaml,vscode-sftp,VSCode SFTP File Exposure,exposure,CWE-260;CWE-538,7
+http/exposures/files/webpack-mix-js.yaml,webpack-mix-js,Webpack Mix File Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/files/webpack-sourcemap-disclosure.yaml,webpack-sourcemap-disclosure,Webpack Sourcemap Disclosure,exposure,CWE-219;CWE-540,7
+http/exposures/files/wget-hsts-list-exposure.yaml,wget-hsts-list-exposure,WGET HSTS List Exposure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/files/wp-cli-exposure.yaml,wp-cli-exposure,WP-CLI Yaml File Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/wp-links-opml.yaml,wp-links-opml,WordPress wp-links-opml.php - Version Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/files/wp-w3-total-cache-exposure.yaml,wp-w3-total-cache-exposure,WordPress W3 Total Cache - Cache Files Exposure,exposure,CWE-219;CWE-548,7
+http/exposures/files/ws-ftp-ini.yaml,ws-ftp-ini,WS FTP File Disclosure,exposure,CWE-219;CWE-260,7
+http/exposures/files/yarn-integrity-disclosure.yaml,yarn-integrity-disclosure,Yarn Integrity File Disclosure,exposure,CWE-219;CWE-538,7
+http/exposures/files/yarn-lock.yaml,yarn-lock,Yarn Lock File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/access-log-file.yaml,access-log-file,Publicly accessible access-log file,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/badarg-log.yaml,badarg-log,Badarg Log File Exposure,exposure,CWE-200;CWE-219;CWE-497;CWE-552,7
+http/exposures/logs/bitrix-log-file-disclosure.yaml,bitrix-log-file-disclosure,Bitrix Site Manager - Log File Disclosure,exposure,CWE-312;CWE-532;CWE-538,7
+http/exposures/logs/cacti-log-exposure.yaml,cacti-log-exposure,Cacti Log - Exposure,exposure,CWE-200;CWE-219;CWE-497;CWE-552,7
+http/exposures/logs/development-logs.yaml,development-logs,Discover development log files,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/elmah-log-file.yaml,elmah-log-file,ELMAH Exposure,exposure,CWE-209;CWE-532;CWE-538,7
+http/exposures/logs/error-logs.yaml,error-logs,Common Error Log Files,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/firebase-debug-log.yaml,firebase-debug-log,Firebase Debug Log File Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/logs/git-exposure.yaml,git-exposure,Git Metadata Directory Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/logs/git-logs-exposure.yaml,git-logs-exposure,Git Logs Disclosure,exposure,CWE-219;CWE-312,7
+http/exposures/logs/idea-logs-exposure.yaml,idea-logs-exposure,Public .idea Folder containing http logs,exposure,CWE-219;CWE-552,7
+http/exposures/logs/laravel-log-file.yaml,laravel-log-file,Laravel log file publicly accessible,exposure,CWE-209;CWE-532;CWE-538,7
+http/exposures/logs/magento-debug-log-exposure.yaml,magento-debug-log-exposure,Magento Debug Log - Exposure,exposure,CWE-219;CWE-538,7
+http/exposures/logs/npm-debug-log.yaml,npm-debug-log,NPM Debug Log Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/logs/npm-log-file.yaml,npm-log-file,Publicly accessible NPM Log file,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/logs/opencart-error-log.yaml,opencart-error-log,OpenCart Error Log Disclosure,exposure,CWE-209;CWE-538,7
+http/exposures/logs/oracle-ebs-sqllog-disclosure.yaml,oracle-ebs-sqllog-disclosure,Oracle EBS - SQL Log Disclosure,exposure,CWE-538;CWE-552,7
+http/exposures/logs/oracle-ebs-sqllog-exposure.yaml,oracle-ebs-sqllog-exposure,Oracle EBS SQL Log - Exposure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/logs/production-log.yaml,production-log,Production Log File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/production-logs.yaml,production-logs,Discover production log files,exposure,CWE-219;CWE-312,7
+http/exposures/logs/roundcube-log-disclosure.yaml,roundcube-log-disclosure,Roundcube Log Disclosure,exposure,CWE-219;CWE-552,7
+http/exposures/logs/teampass-ldap.yaml,teampass-ldap,Teampass LDAP Debug Config - Detect,exposure,CWE-260;CWE-532;CWE-552,7
+http/exposures/logs/webalizer-xtended-stats.yaml,webalizer-xtended-stats,Webalizer Xtended Statistics Exposed,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/wp-app-log.yaml,wp-app-log,Discover wp-app.log Files,exposure,CWE-200;CWE-219;CWE-552,7
+http/exposures/logs/wp-easy-google-fonts-log-disclosure.yaml,wp-easy-google-fonts-log-disclosure,WordPress Easy Google Fonts - Error Log Disclosure,exposure,CWE-219;CWE-538;CWE-552,7
+http/exposures/logs/wp-enable-media-replace-log.yaml,wp-enable-media-replace-log,WordPress Plugin Enable Media Replace - Log File Exposure,exposure,CWE-312;CWE-538;CWE-552,7
+http/exposures/logs/wp-flexible-shipping-log.yaml,wp-flexible-shipping-log,WordPress Flexible Shipping - Log File Exposure,exposure,CWE-538;CWE-922,7
+http/exposures/logs/wp-importer-log-disclosure.yaml,wp-importer-log-disclosure,WordPress Importer - Error Log Disclosure,exposure,CWE-209;CWE-219;CWE-532,7
+http/exposures/logs/wp-newsletter-log-exposure.yaml,wp-newsletter-log-exposure,WordPress Newsletter - Log File Exposure,exposure,CWE-219;CWE-552,7
+http/exposures/logs/wp-pretty-link-log-disclosure.yaml,wp-pretty-link-log-disclosure,WordPress Pretty Link - Error Log Disclosure,exposure,CWE-209;CWE-532;CWE-538,7
+http/exposures/logs/wp-wps-hide-login-log.yaml,wp-wps-hide-login-log,WordPress WPS Hide Login - Error Log Disclosure,exposure,CWE-209;CWE-538,7
+http/exposures/logs/wp-wpstatistics-log.yaml,wp-wpstatistics-log,WordPress Plugin WP Statistics Error Log Disclosure,exposure,CWE-219;CWE-532,7
+http/exposures/logs/zen-cart-log-exposure.yaml,zen-cart-log-exposure,Zen Cart Log File Exposure,exposure,CWE-538;CWE-548;CWE-552,7
+http/exposures/tokens/adobe/adobe-oauth-secret.yaml,adobe-oauth-secret,Adobe OAuth Client Secret,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/age/age-secret-key.yaml,age-secret-key,Age Identity (X22519 secret key),exposure,CWE-201;CWE-312,7
+http/exposures/tokens/alibaba/alibaba-secretkey-id.yaml,alibaba-secretkey-id,Alibaba Secret Key ID,exposure,CWE-201;CWE-522;CWE-798,7
+http/exposures/tokens/amazon/amazon-mws-auth-token.yaml,amazon-mws-auth-token,Amazon MWS Auth Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/amazon/aws-secret-key.yaml,aws-secret-key,AWS Secret Key,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/asana/asana-client-secret.yaml,asana-client-secret,Asana Client Secret,exposure,CWE-201;CWE-798;CWE-922,7
+http/exposures/tokens/atlassian/atlassian-token.yaml,atlassian-token,Atlassian API Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/azure/azure-apim-secretkey.yaml,azure-apim-secretkey,Azure - APIM Secret Key,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/azure/azure-instrumentation-key-exposure.yaml,azure-instrumentation-key-exposure,Azure Instrumentation Key - Exposure,exposure,CWE-200;CWE-522,7
+http/exposures/tokens/beamer/beamer-token.yaml,beamer-token,Beamer API Token,exposure,CWE-201;CWE-540;CWE-798,7
+http/exposures/tokens/bitly/bitly-secret-key.yaml,bitly-secret-key,Bitly Secret Key Disclosure,exposure,CWE-522;CWE-798,7
+http/exposures/tokens/clojars/clojars-token.yaml,clojars-token,Clojars Token,exposure,CWE-312;CWE-522;CWE-552,7
+http/exposures/tokens/codecov/codecov-accesstoken.yaml,codecov-accesstoken,Codecov Access Token,exposure,CWE-312;CWE-538,7
+http/exposures/tokens/coinbase/coinbase-accesstoken.yaml,coinbase-accesstoken,Coinbase Access Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/confluent/confluent-accesstoken.yaml,confluent-accesstoken,Confluent Access Token,exposure,CWE-201;CWE-538;CWE-922,7
+http/exposures/tokens/confluent/confluent-secretkey.yaml,confluent-secretkey,Confluent Secret Key,exposure,CWE-522;CWE-798,7
+http/exposures/tokens/databricks/databricks-token.yaml,databricks-token,Databricks API Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/datadog/datadog-accesstoken.yaml,datadog-accesstoken,Datadog Access Token,exposure,CWE-201;CWE-522;CWE-540,7
+http/exposures/tokens/digitalocean/axiom-digitalocean-key-exposure.yaml,axiom-digitalocean-key-exposure,DigitalOcean Key Exposure via Axiom,exposure,CWE-219;CWE-260,7
+http/exposures/tokens/digitalocean/digitalocean-refresh.yaml,digitalocean-refresh,DigitalOcean Refresh Token,exposure,CWE-312;CWE-522;CWE-552,7
+http/exposures/tokens/digitalocean/tugboat-config-exposure.yaml,tugboat-config-exposure,Tugboat Configuration File Exposure,exposure,CWE-219;CWE-260;CWE-522,7
+http/exposures/tokens/discord/discord-clientsecret.yaml,discord-clientsecret,Discord Client Secret,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/discord/discord-token.yaml,discord-token,Discord API Token,exposure,CWE-312;CWE-522;CWE-922,7
+http/exposures/tokens/discord/discord-webhook.yaml,discord-webhook,Discord Webhook Disclosure,exposure,CWE-312;CWE-522;CWE-922,7
+http/exposures/tokens/docker/docker-hub-pat.yaml,docker-hub-pat,Docker Hub Personal Access Token,exposure,CWE-201;CWE-522;CWE-552,7
+http/exposures/tokens/doppler/doppler-audit-token.yaml,doppler-audit-token,Doppler Audit Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/doppler/doppler-service-account-token.yaml,doppler-service-account-token,Doppler Service Account Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/doppler/doppler-service-token.yaml,doppler-service-token,Doppler Service Token,exposure,CWE-201;CWE-540,7
+http/exposures/tokens/doppler/doppler-token.yaml,doppler-token,Doppler API Token,exposure,CWE-312;CWE-522;CWE-798,7
+http/exposures/tokens/droneci/droneci-accesstoken.yaml,droneci-accesstoken,Droneci Access Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/dropbox/dropbox-access-token.yaml,dropbox-access-token,Dropbox Access Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/dropbox/dropbox-long-token.yaml,dropbox-long-token,Dropbox Long Lived API Token,exposure,CWE-312;CWE-522;CWE-540,7
+http/exposures/tokens/dropbox/dropbox-short-token.yaml,dropbox-short-token,Dropbox Short Lived API Token,exposure,CWE-312;CWE-552;CWE-922,7
+http/exposures/tokens/dropbox/dropbox-token.yaml,dropbox-token,Dropbox API Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/duffel/duffel-token.yaml,duffel-token,Duffel API Token,exposure,CWE-201;CWE-552;CWE-922,7
+http/exposures/tokens/dynatrace/dynatrace-api-token.yaml,dynatrace-api-token,Dynatrace API Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/easypost/easypost-testtoken.yaml,easypost-testtoken,Easypost Test API Token,exposure,CWE-522;CWE-798,7
+http/exposures/tokens/etsy/etsy-accesstoken.yaml,etsy-accesstoken,Etsy Access Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/facebook/facebook-access-token.yaml,facebook-access-token,Facebook Access Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/facebook/facebook-token.yaml,facebook-token,Facebook API Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/fastly/fastly-token.yaml,fastly-token,Fastly API Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/figma/figma-personal-token.yaml,figma-personal-token,Figma Personal Access Token,exposure,CWE-538;CWE-540;CWE-922,7
+http/exposures/tokens/finicity/finicity-clientsecret.yaml,finicity-clientsecret,Finicity Client Secret,exposure,CWE-312;CWE-798,7
+http/exposures/tokens/finicity/finicity-token.yaml,finicity-token,Finicity API Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/finnhub/finnhub-accesstoken.yaml,finnhub-accesstoken,finnhub Access Token,exposure,CWE-312;CWE-522;CWE-540,7
+http/exposures/tokens/firebase-fcm-server-key-disclosure.yaml,firebase-fcm-server-key-disclosure,Firebase Cloud Messaging - Server Key Disclosure,exposure,CWE-538;CWE-540;CWE-798,7
+http/exposures/tokens/flickr/flickr-accesstoken.yaml,flickr-accesstoken,Flickr Access Token,exposure,CWE-201;CWE-538;CWE-798,7
+http/exposures/tokens/freshbooks/freshbooks-accesstoken.yaml,freshbooks-accesstoken,Freshbooks Access Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/generic/credentials-disclosure.yaml,credentials-disclosure,Credentials Disclosure Check,exposure,CWE-200;CWE-522,7
+http/exposures/tokens/generic/jwt-token.yaml,jwt-token,JWT Token Disclosure,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/github/github-app.yaml,github-app,GitHub App Token,exposure,CWE-522;CWE-798,7
+http/exposures/tokens/github/github-oauth-access.yaml,github-oauth-access,GitHub OAuth Access Token,exposure,CWE-522;CWE-922,7
+http/exposures/tokens/github/github-personal-access.yaml,github-personal-access,GitHub Personal Access Token,exposure,CWE-312;CWE-522;CWE-922,7
+http/exposures/tokens/github/github-refresh.yaml,github-refresh,GitHub Refresh Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/gitlab/gitlab-personal-token.yaml,gitlab-personal-token,GitLab Personal Access Token,exposure,CWE-538;CWE-798;CWE-922,7
+http/exposures/tokens/gitlab/gitlab-pipeline-token.yaml,gitlab-pipeline-token,GitLab Pipeline Trigger Token,exposure,CWE-538;CWE-922,7
+http/exposures/tokens/gitlab/gitlab-runner-token.yaml,gitlab-runner-token,GitLab Runner Registration Token,exposure,CWE-522;CWE-523,7
+http/exposures/tokens/gitter/gitter-token.yaml,gitter-token,Gitter Access Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/google/google-calendar-link.yaml,google-calendar-link,Google Calendar URI Disclosure,exposure,CWE-201;CWE-359,7
+http/exposures/tokens/google/google-oauth-prefixed.yaml,google-oauth-prefixed,Google OAuth Client Secret (prefixed),exposure,CWE-201;CWE-522,7
+http/exposures/tokens/grafana/grafana-serviceaccount-token.yaml,grafana-serviceaccount-token,Grafana Service Account Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/hashicorp/hashicorp-token.yaml,hashicorp-token,Hashicorp API Token,exposure,CWE-312;CWE-538,7
+http/exposures/tokens/heroku/heroku-oauth2-token.yaml,heroku-oauth2-token,Heroku OAuth2 Token,exposure,CWE-522;CWE-922,7
+http/exposures/tokens/huggingface/huggingface-user-access-token.yaml,huggingface-user-access-token,HuggingFace User Access Token,exposure,CWE-522;CWE-523,7
+http/exposures/tokens/linkedin/linkedin-secret-key.yaml,linkedin-secret-key,LinkedIn Secret Key,exposure,CWE-522;CWE-798,7
+http/exposures/tokens/mapbox/mapbox-token-disclosure.yaml,mapbox-token-disclosure,Mapbox Token Disclosure,exposure,CWE-522;CWE-540;CWE-798,7
+http/exposures/tokens/microsoft/microsoft-teams-webhook.yaml,microsoft-teams-webhook,Microsoft Teams Webhook Disclosure,exposure,CWE-798;CWE-922,7
+http/exposures/tokens/newrelic/newrelic-admin-api-key.yaml,newrelic-admin-api-key,Admin API Key Disclosure,exposure,CWE-538;CWE-540;CWE-798,7
+http/exposures/tokens/newrelic/newrelic-insights-key.yaml,newrelic-insights-key,Insights Keys Disclosure,exposure,CWE-540;CWE-798,7
+http/exposures/tokens/newrelic/newrelic-rest-api-key.yaml,newrelic-rest-api-key,REST API Key Disclosure,exposure,CWE-522;CWE-540,7
+http/exposures/tokens/nextjs/cipher-secret-key.yaml,cipher-secret-key,Cipher Secret Key Exposure,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/npm/npm-access-token.yaml,npm-access-token,NPM Access Token (fine-grained),exposure,CWE-522;CWE-538;CWE-922,7
+http/exposures/tokens/okta/okta-api-token.yaml,okta-api-token,Okta API Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/paypal/braintree-access-token.yaml,braintree-access-token,PayPal Braintree Access Token Disclosure,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/picatic/picatic-api-key.yaml,picatic-api-key,Picatic API Key Disclosure,exposure,CWE-201;CWE-540,7
+http/exposures/tokens/pinata/pinata-api-key.yaml,pinata-api-key,Pinata API Key - Expose,exposure,CWE-538;CWE-540,7
+http/exposures/tokens/pypi/pypi-upload-token.yaml,pypi-upload-token,PyPI Upload Token,exposure,CWE-201;CWE-312;CWE-522,7
+http/exposures/tokens/rapid/rapidapi-access-token.yaml,rapidapi-access-token,RapidAPI Access Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/react/react-app-password.yaml,react-app-password,React App Password,exposure,CWE-256;CWE-540;CWE-798,7
+http/exposures/tokens/readme/readme-api-token.yaml,readme-api-token,Readme API Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/salesforce/salesforce-access-token.yaml,salesforce-access-token,Salesforce Access Token,exposure,CWE-201;CWE-312;CWE-522,7
+http/exposures/tokens/scalingo/scalingo-api-token.yaml,scalingo-api-token,Scalingo API Token,exposure,CWE-200;CWE-522,7
+http/exposures/tokens/segment/segment-public-token.yaml,segment-public-token,Segment Public API Token,exposure,CWE-522;CWE-922,7
+http/exposures/tokens/sendbird/sendbird-access-token.yaml,sendbird-access-token,SendBird Access Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/sendgrid/sendgrid-api-key.yaml,sendgrid-api-key,Sendgrid API Key Disclosure,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/sendinblue/sendinblue-api-token.yaml,sendinblue-api-token,Sendinblue API Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/sentry/sentry-access-token.yaml,sentry-access-token,Sentry Access Token,exposure,CWE-201;CWE-540;CWE-798,7
+http/exposures/tokens/shippo/shippo-api-token.yaml,shippo-api-token,Shippo API Token,exposure,CWE-201;CWE-540;CWE-798,7
+http/exposures/tokens/shopify/shopify-app-secret.yaml,shopify-app-secret,Shopify App Secret,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/shopify/shopify-customapp-token.yaml,shopify-customapp-token,Shopify Access Token (Custom App),exposure,CWE-312;CWE-522;CWE-922,7
+http/exposures/tokens/shopify/shopify-legacy-token.yaml,shopify-legacy-token,Shopify Access Token (Legacy Private App),exposure,CWE-201;CWE-522,7
+http/exposures/tokens/shopify/shopify-public-token.yaml,shopify-public-token,Shopify Access Token (Public App),exposure,CWE-312;CWE-922,7
+http/exposures/tokens/shopify/shopify-shared-secret-exposure.yaml,shopify-shared-secret-exposure,Shopify Shared Secret,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/sidekiq/sidekiq-secret.yaml,sidekiq-secret,Sidekiq Secret Token,exposure,CWE-201;CWE-522;CWE-798,7
+http/exposures/tokens/slack/slack-app-token.yaml,slack-app-token,Slack App Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/slack/slack-bot-token.yaml,slack-bot-token,Slack Bot token,exposure,CWE-538;CWE-922,7
+http/exposures/tokens/slack/slack-config-access-token.yaml,slack-config-access-token,Slack Config Access Token,exposure,CWE-312;CWE-522;CWE-798,7
+http/exposures/tokens/slack/slack-config-refresh-token.yaml,slack-config-refresh-token,Slack Config Refresh Token,exposure,CWE-312;CWE-522;CWE-538,7
+http/exposures/tokens/slack/slack-legacy-bot-token.yaml,slack-legacy-bot-token,Slack Legacy Bot Token,exposure,CWE-522;CWE-538;CWE-922,7
+http/exposures/tokens/slack/slack-user-token.yaml,slack-user-token,Slack User token disclosure,exposure,CWE-312;CWE-538;CWE-552,7
+http/exposures/tokens/sonarqube/sonarqube-cloud-token.yaml,sonarqube-cloud-token,SonarQube Cloud Token Disclosure,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/square/square-access.yaml,square-access,Square Access Token,exposure,CWE-312;CWE-522;CWE-922,7
+http/exposures/tokens/squarespace/squarespace-access-token.yaml,squarespace-access-token,Squarespace Access Token,exposure,CWE-540;CWE-798,7
+http/exposures/tokens/sumologic/sumologic-access-id.yaml,sumologic-access-id,Sumologic Access ID,exposure,CWE-522;CWE-538;CWE-798,7
+http/exposures/tokens/sumologic/sumologic-access-token.yaml,sumologic-access-token,Sumologic Access Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/synk/snyk-api-token.yaml,snyk-api-token,Snyk API Token,exposure,CWE-522;CWE-538,7
+http/exposures/tokens/telegram/telegram-bot-token.yaml,telegram-bot-token,Telegram Bot Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/thingsboard/thingsboard-access-token.yaml,thingsboard-access-token,ThingsBoard Access Token,exposure,CWE-522;CWE-922,7
+http/exposures/tokens/travisci/travisci-access-token.yaml,travisci-access-token,TravisCI Access Token,exposure,CWE-200;CWE-522,7
+http/exposures/tokens/twitch/twitch-api-token.yaml,twitch-api-token,Twitch API Secret Token,exposure,CWE-201;CWE-523,7
+http/exposures/tokens/twitter/twitter-api-secret.yaml,twitter-api-secret,Twitter API Secret Token,exposure,CWE-201;CWE-798,7
+http/exposures/tokens/twitter/twitter-bearer-token.yaml,twitter-bearer-token,Twitter Bearer Token,exposure,CWE-201;CWE-312,7
+http/exposures/tokens/typeform/typeform-api-token.yaml,typeform-api-token,Typeform API Token,exposure,CWE-522;CWE-798,7
+http/exposures/tokens/vault/vault-batch-token.yaml,vault-batch-token,Vault Batch Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/vault/vault-service-token.yaml,vault-service-token,Vault Service Token,exposure,CWE-201;CWE-522,7
+http/exposures/tokens/yandex/yandex-access-token.yaml,yandex-access-token,Yandex Access Token,exposure,CWE-201;CWE-540;CWE-798,7
+http/exposures/tokens/yandex/yandex-aws-access-token.yaml,yandex-aws-access-token,Yandex AWS Access Token,exposure,CWE-312;CWE-522,7
+http/exposures/tokens/zendesk/zendesk-key.yaml,zendesk-key,Zendesk Secret Key,exposure,CWE-522;CWE-538;CWE-540,7
+http/exposures/tokens/zoho/zoho-webhook-token.yaml,zoho-webhook-token,Zoho Webhook Disclosure,exposure,CWE-201;CWE-522,7
+http/miscellaneous/htaccess-config.yaml,htaccess-config,HTaccess config file,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/aem/aem-custom-script.yaml,aem-custom-script,Adobe AEM Custom Scripts Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/aem/aem-secrets.yaml,aem-secrets,AEM Secrets - Sensitive Information Disclosure,exposure,CWE-200;CWE-552,7
+http/misconfiguration/aem/aem-setpreferences-xss.yaml,aem-setpreferences-xss,Adobe Experience Manager - Cross-Site Scripting,xss,CWE-79;CWE-80,7
+http/misconfiguration/aem/aem-sling-userinfo.yaml,aem-sling-userinfo,Adobe AEM Sling User Info Servlet Exposure,exposure,CWE-201;CWE-359,7
+http/misconfiguration/aem/aem-userinfo-servlet.yaml,aem-userinfo-servlet,AEM UserInfo Servlet Credentials Exposure,exposure,CWE-201;CWE-359,7
+http/misconfiguration/aem/aem-xss-childlist-selector.yaml,aem-xss-childlist-selector,Adobe Experience Manager - Cross-Site Scripting,xss,CWE-79;CWE-83,7
+http/misconfiguration/aem/crxde-lite.yaml,crxde-lite,CRXDE Lite - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/akamai/akamai-arl-xss.yaml,akamai-arl-xss,Open Akamai ARL - Cross-Site Scripting,xss,CWE-79;CWE-83,7
+http/misconfiguration/apache-struts-showcase.yaml,apache-struts-showcase,Apache Struts - ShowCase Application Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/apache/apache-hbase-unauth.yaml,apache-hbase-unauth,Apache Hbase Unauth,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/bitbucket-public-repository.yaml,bitbucket-public-repository,Atlassian Bitbucket Public Repository Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/browserconfig-xml.yaml,browserconfig-xml,"Browser Configuration ""browserconfig.xml"" Exposure",exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/buildpath-file-disclosure.yaml,buildpath-file-disclosure,.buildpath - File Disclosure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/cakephp-debugkit-exposure.yaml,cakephp-debugkit-exposure,CakePHP - Debug Kit Toolbar Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/cloud-metadata.yaml,cloud-metadata,GCP/AWS Metadata Disclosure,exposure,CWE-201;CWE-213,7
+http/misconfiguration/cobbler-exposed-directory.yaml,cobbler-exposed-directory,Exposed Cobbler Directories,exposure,CWE-548;CWE-552,7
+http/misconfiguration/corebos-htaccess.yaml,corebos-htaccess,CoreBos - .htaccess File Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/dlink-n300-backup.yaml,dlink-n300-backup,DSL-124 Wireless N300 ADSL2+ - Backup File Disclosure,exposure,CWE-552;CWE-922,7
+http/misconfiguration/drupal/drupal-source-code-disclosure.yaml,drupal-source-code-disclosure,Drupal - Source Code Disclosure,exposure,CWE-219;CWE-260;CWE-552,7
+http/misconfiguration/ecology-info-leak.yaml,ecology-info-leak,Ecology - Information Exposure,exposure,CWE-260;CWE-538,7
+http/misconfiguration/envoy-metadata-disclosure.yaml,envoy-metadata-disclosure,Envoy Proxy - Metadata Disclosure,exposure,CWE-201;CWE-213,7
+http/misconfiguration/eslint-ignore-exposure.yaml,eslint-ignore-exposure,Eslint Ignore File Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/everything-listing.yaml,everything-listing,Everything Server Exposure,exposure,CWE-548;CWE-552,7
+http/misconfiguration/fastly-debug-headers.yaml,fastly-debug-headers,Fastly CDN Debug Headers Exposure,exposure,CWE-201;CWE-213,7
+http/misconfiguration/gitlist-disclosure.yaml,gitlist-disclosure,GitList Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/glpi-directory-listing.yaml,glpi-directory-listing,GLPI - Directory Listing and Session Exposure,exposure,CWE-548;CWE-552,7
+http/misconfiguration/gocd/gocd-cruise-configuration.yaml,gocd-cruise-configuration,GoCd Cruise Configuration disclosure,exposure,CWE-312;CWE-522,7
+http/misconfiguration/google-calendar-exposure.yaml,google-calendar-exposure,Google Calendar - Exposure,exposure,CWE-213;CWE-359,7
+http/misconfiguration/graphql/graphql-field-suggestion.yaml,graphql-field-suggestion,GraphQL Field Suggestion Information Disclosure,exposure,CWE-209;CWE-213,7
+http/misconfiguration/graphql/graphql-voyager.yaml,graphql-voyager,GraphQL Voyager - Exposed,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/hfs-exposure.yaml,hfs-exposure,HFS Panel - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/ibm-friendly-path-exposure.yaml,ibm-friendly-path-exposure,IBM Websphere Friendly Path Exposure,exposure,CWE-213;CWE-552,7
+http/misconfiguration/ibm/ibm-cloud-bucket-exposure.yaml,ibm-cloud-bucket-exposure,IBM Cloud Object Storage - Bucket Exposure,exposure,CWE-548;CWE-552,7
+http/misconfiguration/installer/akeeba-installer.yaml,akeeba-installer,Akeeba Backup Installer - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/blesta-installer.yaml,blesta-installer,Blesta Installer Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/clipbucket-installer.yaml,clipbucket-installer,ClipBucket Installer - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/easy-viserlabs-installer.yaml,easy-viserlabs-installer,Easy Installer by ViserLab - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/easy-wi-installer.yaml,easy-wi-installer,Easy-WI Installation Page - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/glpi-installer.yaml,glpi-installer,GLPI Installation Page - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/openemr-setup-installer.yaml,openemr-setup-installer,OpenEMR Setup Installation Page - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/processwire-installer.yaml,processwire-installer,ProcessWire 3.x Installer Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/subrion-installer.yaml,subrion-installer,Subrion CMS Web Installer - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/ubersmith-installer.yaml,ubersmith-installer,Ubersmith Setup Page - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/installer/xbackbone-installer.yaml,xbackbone-installer,XBackBone Installer - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/jenkins/jenkins-users-exposure.yaml,jenkins-users-exposure,Jenkins Users - Exposure,exposure,CWE-201;CWE-359,7
+http/misconfiguration/joomla-fpd.yaml,joomla-fpd,Joomla! - Full Path Disclosure,exposure,CWE-201;CWE-209,7
+http/misconfiguration/kanboard-database-exposure.yaml,kanboard-database-exposure,Kanboard - SQLite Database Exposure,exposure,CWE-219;CWE-922,7
+http/misconfiguration/laravel-sessions-exposure.yaml,laravel-sessions-exposure,Laravel Sessions Folder Exposure,exposure,CWE-548;CWE-552;CWE-922,7
+http/misconfiguration/mamp-phpinfo-exposure.yaml,mamp-phpinfo-exposure,MAMP - PHP Info Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/microsoft/ms-front-page-misconfig.yaml,ms-front-page-misconfig,Microsoft FrontPage Configuration - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/mysql-history.yaml,mysql-history,Mysql History - File Disclosure,exposure,CWE-219;CWE-312;CWE-538,7
+http/misconfiguration/openbmcs/openbmcs-secret-disclosure.yaml,openbmcs-secret-disclosure,OpenBMCS 2.4 - Information Disclosure,exposure,CWE-538;CWE-548,7
+http/misconfiguration/openstack-config.yaml,openstack-config,Openstack - Infomation Disclosure,exposure,CWE-201;CWE-213,7
+http/misconfiguration/perforce-repository.yaml,perforce-repository,Perforce Repository Disclosure,exposure,CWE-219;CWE-552;CWE-922,7
+http/misconfiguration/php/php-composer-binary.yaml,php-composer-binary,PHP Composer Binary - Exposure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/phpnow-works.yaml,phpnow-works,PHPnow works - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/private-key-exposure.yaml,private-key-exposure,Private key exposure via helper detector,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/renovate-config-exposure.yaml,renovate-config-exposure,Renovate Configuration Exposure,exposure,CWE-219;CWE-538;CWE-922,7
+http/misconfiguration/root-path-disclosure.yaml,root-path-disclosure,ROOT - Path Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/s3-username-disclosure.yaml,s3-username-disclosure,x-amz-meta-s3cmd-attrs Header Username Disclosure,exposure,CWE-359;CWE-538;CWE-922,7
+http/misconfiguration/sendmail-forward-exposure.yaml,sendmail-forward-exposure,Sendmail .forward File - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/service-pwd.yaml,service-pwd,service.pwd - Sensitive Information Disclosure,exposure,CWE-260;CWE-538;CWE-922,7
+http/misconfiguration/sitecore-lfi.yaml,sitecore-lfi,Sitecore 9.3 - Webroot File Read,lfi_traversal,CWE-22;CWE-73,7
+http/misconfiguration/springboot/springboot-logfile.yaml,springboot-logfile,Detects Springboot Logfile Actuator,exposure,CWE-538;CWE-922,7
+http/misconfiguration/stylelint-ignore-disclosure.yaml,stylelint-ignore-disclosure,Stylelint - Ignore File Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/symfony/symfony-conflicting-misconfig.yaml,symfony-conflicting-misconfig,Symfony Conflicting Headers - Information Disclosure,exposure,CWE-209;CWE-213,7
+http/misconfiguration/tcpconfig.yaml,tcpconfig,Rockwell Automation TCP/IP Configuration Information - Detect,exposure,CWE-219;CWE-538,7
+http/misconfiguration/titannit-web-exposure.yaml,titannit-web-exposure,TitanNit Web Control - Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/tomcat-cookie-exposed.yaml,tomcat-cookie-exposed,Tomcat Cookie Exposed,exposure,CWE-200;CWE-539,7
+http/misconfiguration/typo3-composer.yaml,typo3-composer,Typo3 composer.json Exposure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/vercel-source-exposure.yaml,vercel-source-exposure,Vercel Source Code Exposure,exposure,CWE-219;CWE-922,7
+http/misconfiguration/vscode-slnx-sqlite-disclosure.yaml,vscode-slnx-sqlite-disclosure,Visual Studio Code - Slnx.SQLite File Disclosure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/woodwing-git.yaml,woodwing-git,Woodwing Studio Server - Git Config,exposure,CWE-219;CWE-260;CWE-312,7
+http/misconfiguration/woodwing-phpinfo.yaml,woodwing-phpinfo,Woodwing Studio Server - Phpinfo Config,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/wordpress/nextgen-gallery-pro-error-log.yaml,nextgen-gallery-pro-error-log,WordPress NextGEN Gallery Pro - Error Log Disclosure,exposure,CWE-209;CWE-532;CWE-552,7
+http/misconfiguration/wordpress/wordfence-config-disclosure.yaml,wordfence-config-disclosure,WordPress Wordfence - Configuration File Disclosure,exposure,CWE-219;CWE-552,7
+http/misconfiguration/wordpress/wordfence-waf-logs-disclosure.yaml,wordfence-waf-logs-disclosure,WordPress Wordfence - WAF Logs and Data Disclosure,exposure,CWE-538;CWE-548;CWE-552,7
+http/misconfiguration/wordpress/wordpress-elementor-fpd.yaml,wordpress-elementor-fpd,WordPress Elementor Page Builder - Full Path Disclosure,exposure,CWE-201;CWE-209,7
+http/misconfiguration/wordpress/wp-a3-lazy-load-top-fpd.yaml,wp-a3-lazy-load-top-fpd,WordPress a3 Lazy Load - Full Path Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/wordpress/wp-advanced-responsive-video-embedder-fpd.yaml,wp-advanced-responsive-video-embedder-fpd,WordPress Advanced Responsive Video Embedder - Full Path Disclosure,exposure,CWE-200;CWE-219;CWE-552,7
+http/misconfiguration/wordpress/wp-astra-sites-fpd.yaml,wp-astra-sites-fpd,WordPress Astra Sites - Full Path Disclosure,exposure,CWE-201;CWE-209,7
+http/misconfiguration/wordpress/wp-duplicate-page-fpd.yaml,wp-duplicate-page-fpd,WordPress Duplicate Page - Full Path Disclosure,exposure,CWE-201;CWE-209,7
+http/misconfiguration/wordpress/wp-h5vp-fpd.yaml,wp-h5vp-fpd,WordPress H5VP Plugin - Full Path Disclosure,exposure,CWE-201;CWE-209,7
+http/misconfiguration/wordpress/wp-iwp-client-fpd.yaml,wp-iwp-client-fpd,WordPress Plugin InfiniteWP Client - Full Path Disclosure,exposure,CWE-200;CWE-219;CWE-552,7

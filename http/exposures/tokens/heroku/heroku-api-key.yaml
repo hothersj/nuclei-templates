@@ -3,7 +3,6 @@ id: heroku-api-key
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: Heroku API Key
   author: DhiyaneshDK

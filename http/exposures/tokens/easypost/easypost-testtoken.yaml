@@ -3,7 +3,6 @@ id: easypost-testtoken
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
       - CWE-798
   name: Easypost Test API Token

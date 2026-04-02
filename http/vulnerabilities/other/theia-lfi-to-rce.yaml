@@ -5,8 +5,6 @@ info:
     cwe-id:
       - CWE-22
       - CWE-73
-      - CWE-78
-      - CWE-94
       - CWE-306
       - CWE-862
   name: Eclipse Theia IDE - LFI to RCE

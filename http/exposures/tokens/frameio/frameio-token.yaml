@@ -3,7 +3,6 @@ id: frameio-token
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: Frameio API Token
   author: DhiyaneshDK

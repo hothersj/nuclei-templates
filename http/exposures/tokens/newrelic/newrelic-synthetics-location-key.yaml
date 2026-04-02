@@ -3,7 +3,6 @@ id: newrelic-synthetics-location-key
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: Synthetics Location Key Disclosure
   author: Ice3man

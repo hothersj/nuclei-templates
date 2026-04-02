@@ -3,7 +3,6 @@ id: azure-connection
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
   name: Azure Connection String
   author: DhiyaneshDK

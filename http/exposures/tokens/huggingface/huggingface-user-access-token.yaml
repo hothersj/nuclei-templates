@@ -3,7 +3,6 @@ id: huggingface-user-access-token
 info:
   classification:
     cwe-id:
-      - CWE-319
       - CWE-522
       - CWE-523
   name: HuggingFace User Access Token

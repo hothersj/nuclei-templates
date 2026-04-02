@@ -1,11 +1,6 @@
 id: redfish-api
 
 info:
-  classification:
-    cwe-id:
-      - CWE-306
-      - CWE-425
-      - CWE-862
   name: Redfish API - Detect
   author: righettod
   severity: info

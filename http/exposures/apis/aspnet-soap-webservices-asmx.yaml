@@ -1,9 +1,6 @@
 id: aspnet-soap-webservices-asmx
 
 info:
-  classification:
-    cwe-id:
-      - CWE-651
   name: SOAP-based ASP.NET web services ASMX - Detect
   author: righettod
   severity: info

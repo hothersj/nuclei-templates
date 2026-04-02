@@ -1,9 +1,6 @@
 id: phoenix-contact-charx-api
 
 info:
-  classification:
-    cwe-id:
-      - CWE-200
   name: Phoenix Contact CHARX SEC-3XXX AC Charging Controller REST API - Detect
   author: inokii
   severity: info

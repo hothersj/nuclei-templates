@@ -1,10 +1,6 @@
 id: frigate-api-exposure
 
 info:
-  classification:
-    cwe-id:
-      - CWE-306
-      - CWE-862
   name: Frigate NVR - API Exposure
   author: 0x_Akoko
   severity: medium

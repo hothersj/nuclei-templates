@@ -9,6 +9,10 @@ info:
     - https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt
   classification:
     cpe: cpe:2.3:a:npmjs:npm:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-538
+      - CWE-552
   metadata:
     verified: true
     max-request: 2

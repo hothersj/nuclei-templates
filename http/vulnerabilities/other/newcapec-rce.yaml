@@ -1,6 +1,10 @@
 id: newcapec-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-95
   name: Newcapec - Remote Code Execution
   author: ritikchaddha
   severity: critical

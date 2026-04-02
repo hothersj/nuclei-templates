@@ -1,6 +1,11 @@
 id: avcon6-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: AVCON6 - Arbitrary File Download
   author: DhiyaneshDk
   severity: high

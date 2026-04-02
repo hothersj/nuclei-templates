@@ -11,6 +11,9 @@ info:
     - https://twitter.com/wvuuuuuuuuuuuuu/status/1456316586831323140
   classification:
     cpe: cpe:2.3:a:thoughtworks:gocd:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-312
+      - CWE-522
   metadata:
     max-request: 1
     vendor: thoughtworks

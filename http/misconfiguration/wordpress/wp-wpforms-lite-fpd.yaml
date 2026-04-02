@@ -1,6 +1,9 @@
 id: wp-wpforms-lite-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress WPForms - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,10 @@
 id: seacms-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-95
   name: SeaCMS V6.4.5 RCE
   author: pikpikcu
   severity: high

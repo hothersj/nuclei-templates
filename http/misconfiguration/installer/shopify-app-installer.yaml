@@ -1,6 +1,11 @@
 id: shopify-app-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: SEO King - Shopify App — Installer
   author: tess
   severity: info

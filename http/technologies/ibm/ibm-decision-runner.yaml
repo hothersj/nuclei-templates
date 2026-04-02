@@ -1,6 +1,11 @@
 id: ibm-decision-runner
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: IBM Decision Runner - Detect
   author: DhiyaneshDK
   severity: info

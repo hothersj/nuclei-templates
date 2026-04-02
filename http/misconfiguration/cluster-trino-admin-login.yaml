@@ -1,6 +1,12 @@
 id: cluster-trino-admin-login
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-798
+      - CWE-862
   name: Cluster Overview Trino - Admin Login
   author: DhiyaneshDK
   severity: high

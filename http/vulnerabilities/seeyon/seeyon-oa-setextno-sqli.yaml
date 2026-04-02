@@ -1,6 +1,10 @@
 id: seeyon-oa-setextno-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Seeyon OA A6 setextno.jsp - SQL Injection
   author: SleepingBag945
   severity: high

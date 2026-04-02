@@ -1,6 +1,10 @@
 id: dzs-zoomsounds-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress Plugin dzs zoomsounds
   author: pussycat0x
   severity: info

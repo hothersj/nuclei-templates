@@ -1,6 +1,10 @@
 id: viewlinc-crlf-injection
 
 info:
+  classification:
+    cwe-id:
+      - CWE-93
+      - CWE-113
   name: viewLinc 5.1.2.367 - Carriage Return Line Feed Attack
   author: geeknik
   severity: low

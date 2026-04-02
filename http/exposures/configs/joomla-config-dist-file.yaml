@@ -1,6 +1,11 @@
 id: joomla-config-dist-file
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Joomla! Configuration File - Detect
   author: oppsec
   severity: low

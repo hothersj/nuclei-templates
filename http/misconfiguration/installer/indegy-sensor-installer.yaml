@@ -1,6 +1,11 @@
 id: indegy-sensor-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Indegy Sensor Setup - Installer
   author: ritikchaddha
   severity: high

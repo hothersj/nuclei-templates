@@ -1,6 +1,10 @@
 id: sendinblue-api-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: Sendinblue API Token
   author: DhiyaneshDK
   severity: info

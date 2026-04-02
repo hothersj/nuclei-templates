@@ -1,6 +1,11 @@
 id: shopify-customapp-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-922
   name: Shopify Access Token (Custom App)
   author: DhiyaneshDK
   severity: info

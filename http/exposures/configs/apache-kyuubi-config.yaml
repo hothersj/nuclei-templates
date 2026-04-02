@@ -8,6 +8,10 @@ info:
     Detects if path Appconfigs of Apache Kyuubi web application is exposed, getting internal information about the configuration made.
   classification:
     cpe: cpe:2.3:a:apache:kyuubi:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-306
+      - CWE-862
   metadata:
     max-request: 1
     vendor: apache

@@ -1,6 +1,10 @@
 id: universal-media-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Universal Media Server v13.2.1 - Cross Site Scripting
   author: r3Y3r53
   severity: medium

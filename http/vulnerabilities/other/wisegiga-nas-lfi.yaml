@@ -1,6 +1,11 @@
 id: wisegiga-nas-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: WiseGiga NAS - Arbitrary File Read
   author: pussycat0x
   severity: high

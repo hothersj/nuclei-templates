@@ -1,6 +1,11 @@
 id: rancher-incomplete-setup
 
 info:
+  classification:
+    cwe-id:
+      - CWE-276
+      - CWE-306
+      - CWE-862
   name: Rancher - Incomplete Setup Exposure
   author: 0x_Akoko
   severity: low

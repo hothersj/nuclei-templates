@@ -1,6 +1,10 @@
 id: acme-challenge-path-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: ACME Challenge Path - Reflected Cross-Site Scripting
   author: pussycat0x
   severity: low

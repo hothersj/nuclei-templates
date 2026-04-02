@@ -1,6 +1,10 @@
 id: exposed-mcp-sse-server
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: MCP SSE API Exposed - Detect
   author: domwhewell-sage
   severity: unknown

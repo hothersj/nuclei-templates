@@ -1,6 +1,9 @@
 id: wp-all-in-one-wp-security-and-firewall-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: All In One WP Security & Firewall - Full Path Disclosure
   author: theamanrawat
   severity: low

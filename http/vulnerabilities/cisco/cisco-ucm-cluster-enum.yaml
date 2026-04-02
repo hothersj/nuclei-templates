@@ -1,6 +1,11 @@
 id: cisco-ucm-cluster-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Cisco Unified Communications Manager - Cluster Enumeration
   author: Morgan Robertson
   severity: low

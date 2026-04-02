@@ -1,6 +1,9 @@
 id: joomla-registration-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-863
   name: Joomla - User Registration Enabled
   author: 0x_Akoko
   severity: info

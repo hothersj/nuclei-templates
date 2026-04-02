@@ -1,6 +1,9 @@
 id: wp-twentytwenty-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Twenty Twenty Theme - Full Path Disclosure
   author: 0x_Akoko
   severity: info

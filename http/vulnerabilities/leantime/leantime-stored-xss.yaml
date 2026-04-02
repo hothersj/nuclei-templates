@@ -1,6 +1,10 @@
 id: leantime-stored-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Leantime < 3.3 = Cross-Site Scripting
   author: iamnoooob,rootxharsh,pdresearch
   severity: high

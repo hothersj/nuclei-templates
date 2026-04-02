@@ -1,6 +1,9 @@
 id: wp-google-analytics-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Google Analytics - Full Path Disclosure
   author: 0x_Akoko
   severity: info

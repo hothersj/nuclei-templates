@@ -1,6 +1,9 @@
 id: prestashop-apmarketplace-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: PrestaShop Ap Marketplace - SQL Injection
   author: mastercho
   severity: high

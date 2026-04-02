@@ -1,6 +1,12 @@
 id: google-calendar-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: Google Calendar - Exposure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,10 @@
 id: ds-store-file
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: DS_Store File - Exposed
   author: 0w4ys,pwnhxl
   severity: info

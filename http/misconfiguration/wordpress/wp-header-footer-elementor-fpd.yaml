@@ -1,6 +1,9 @@
 id: wp-header-footer-elementor-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Header Footer Elementor - Full Path Disclosure
   author: ritikchaddha
   severity: low

@@ -1,6 +1,9 @@
 id: wp-cookie-law-info-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin GDPR Cookie Consent - Full Path Disclosure
   author: ritikchaddha
   severity: low

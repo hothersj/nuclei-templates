@@ -10,7 +10,10 @@ info:
   classification:
     cvss-metrics: AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
     cvss-score: 10
-    cwe-id: CWE-288
+    cwe-id:
+      - CWE-288
+      - CWE-306
+      - CWE-862
   metadata:
     max-request: 3
   tags: plastic,misconfig,intrusive,vuln

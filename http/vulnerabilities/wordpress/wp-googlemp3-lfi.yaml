@@ -1,6 +1,11 @@
 id: wp-googlemp3-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: WordPress Plugin CodeArt Google MP3 Player - File Disclosure Download
   author: theamanrawat
   severity: critical

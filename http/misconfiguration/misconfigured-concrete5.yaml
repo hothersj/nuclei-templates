@@ -1,6 +1,10 @@
 id: misconfigured-concrete5
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: Misconfigured Concrete5
   author: pdteam
   severity: low

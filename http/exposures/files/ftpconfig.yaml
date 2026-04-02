@@ -1,6 +1,11 @@
 id: ftpconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-256
+      - CWE-260
   name: Atom remote-ssh ftpconfig Exposure
   author: geeknik,DhiyaneshDK
   severity: high

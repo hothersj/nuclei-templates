@@ -1,6 +1,11 @@
 id: jsconfig-json
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Visual Studio Code jsconfig.json - Detect
   author: DhiyaneshDk
   severity: info

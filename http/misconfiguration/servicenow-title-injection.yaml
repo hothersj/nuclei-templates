@@ -8,6 +8,9 @@ info:
     - https://www.assetnote.io/resources/research/chaining-three-bugs-to-access-all-your-servicenow-data
   classification:
     cpe: cpe:2.3:a:servicenow:servicenow:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-79
+      - CWE-80
   metadata:
     verified: true
     max-request: 1

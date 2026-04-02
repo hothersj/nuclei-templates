@@ -1,6 +1,11 @@
 id: gitlab-personal-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-798
+      - CWE-922
   name: GitLab Personal Access Token
   author: DhiyaneshDK
   severity: high

@@ -1,6 +1,10 @@
 id: apache-filename-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-548
   name: Apache Filename Enumeration
   author: geeknik
   severity: low

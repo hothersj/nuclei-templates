@@ -1,6 +1,9 @@
 id: tinytiny-rss-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-601
   name: TinyTiny RSS Open Redirect
   author: DhiyaneshDk
   severity: low

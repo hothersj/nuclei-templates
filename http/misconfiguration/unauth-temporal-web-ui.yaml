@@ -10,7 +10,10 @@ info:
     - https://docs.temporal.io/web-ui
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
     cpe: cpe:2.3:a:temporal:temporal:*:*:*:*:*:*:*:*
   metadata:
     verified: "true"

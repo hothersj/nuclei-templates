@@ -11,6 +11,10 @@ info:
     - https://www.exploitalert.com/view-details.html?id=36983
   classification:
     cpe: cpe:2.3:a:superstorefinder:super_store_finder:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

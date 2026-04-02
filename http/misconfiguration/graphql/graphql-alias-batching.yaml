@@ -16,6 +16,10 @@ info:
     - https://stackoverflow.com/questions/62421352/graphql-difference-between-using-alias-versus-multiple-query-objects-when-doin
   classification:
     cpe: cpe:2.3:a:graphql:playground:*:*:*:*:node.js:*:*:*
+    cwe-id:
+      - CWE-183
+      - CWE-799
+      - CWE-840
   metadata:
     max-request: 2
     product: playground

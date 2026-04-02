@@ -8,6 +8,9 @@ info:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/aem2.txt
   classification:
     cpe: cpe:2.3:a:adobe:experience_manager:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
+      - CWE-359
   metadata:
     max-request: 2
     vendor: adobe

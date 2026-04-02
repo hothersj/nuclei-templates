@@ -1,6 +1,10 @@
 id: selenium-grid-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Selenium Grid Exposure
   author: 0x_Akoko
   severity: high

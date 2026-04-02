@@ -1,6 +1,9 @@
 id: nginx-eol
 
 info:
+  classification:
+    cwe-id:
+      - CWE-1104
   name: Nginx End-of-Life - Detect
   author: Shivam Kamboj
   severity: info

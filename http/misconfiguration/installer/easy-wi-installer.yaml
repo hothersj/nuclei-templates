@@ -1,6 +1,12 @@
 id: easy-wi-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Easy-WI Installation Page - Exposure
   author: DhiyaneshDK
   severity: high

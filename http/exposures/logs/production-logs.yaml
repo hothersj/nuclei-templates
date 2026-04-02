@@ -1,6 +1,10 @@
 id: production-logs
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-312
   name: Discover production log files
   author: geeknik
   severity: info

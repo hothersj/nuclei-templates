@@ -8,6 +8,9 @@ info:
     It discloses sensitive files created by vscode-sftp for VSCode, contains SFTP/SSH server details and credentials.
   classification:
     cpe: cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-260
+      - CWE-538
   metadata:
     verified: true
     max-request: 3

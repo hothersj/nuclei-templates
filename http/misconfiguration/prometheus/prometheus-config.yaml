@@ -1,6 +1,10 @@
 id: prometheus-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-862
   name: Prometheus Config API Endpoint Discovery
   author: geeknik
   severity: info

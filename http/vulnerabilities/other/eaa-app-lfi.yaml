@@ -1,6 +1,10 @@
 id: eaa-app-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: EAA Application Access System - Arbitary File Read
   author: momika233
   severity: high

@@ -7,6 +7,11 @@ info:
   description: SendGrid file is exposed containing environment variables.
   classification:
     cpe: cpe:2.3:a:sendgrid:sendgrid:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-522
+      - CWE-552
   metadata:
     verified: true
     max-request: 1

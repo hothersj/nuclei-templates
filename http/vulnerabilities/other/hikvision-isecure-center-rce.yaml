@@ -1,6 +1,10 @@
 id: hikvision-isecure-center-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-502
   name: HIKVISION iSecure Center - Remote Code Execution
   author: SleepingBag945
   severity: critical

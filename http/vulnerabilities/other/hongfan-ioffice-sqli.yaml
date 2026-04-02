@@ -1,6 +1,9 @@
 id: hongfan-ioffice-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Hongfan OA udfmr.asmx - SQL injection
   author: SleepingBag945
   severity: high

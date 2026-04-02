@@ -1,6 +1,10 @@
 id: etsy-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: Etsy Access Token
   author: DhiyaneshDK
   severity: info

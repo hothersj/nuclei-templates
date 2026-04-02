@@ -1,6 +1,10 @@
 id: tamronos-user-creation
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
   name: TamronOS IPTV - Arbitrary User Creation
   author: pussycat0x
   severity: high

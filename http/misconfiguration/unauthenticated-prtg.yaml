@@ -1,6 +1,11 @@
 id: unauthenticated-prtg
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: PRTG Traffic Grapher - Unauthenticated Access
   author: dhiyaneshDK
   severity: high

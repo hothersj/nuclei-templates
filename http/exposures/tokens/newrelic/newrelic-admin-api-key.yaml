@@ -1,6 +1,13 @@
 id: newrelic-admin-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-538
+      - CWE-540
+      - CWE-798
+      - CWE-862
   name: Admin API Key Disclosure
   author: Ice3man
   severity: info

@@ -1,6 +1,11 @@
 id: doppler-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-798
   name: Doppler API Token
   author: DhiyaneshDK
   severity: info

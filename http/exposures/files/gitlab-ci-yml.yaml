@@ -12,6 +12,9 @@ info:
     - https://x.com/RootMoksha/status/1816571625388818923/photo/1
   classification:
     cpe: cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-260
+      - CWE-538
   metadata:
     verified: true
     max-request: 2

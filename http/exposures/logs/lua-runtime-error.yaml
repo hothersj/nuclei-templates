@@ -1,6 +1,10 @@
 id: lua-runtime-error
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: LUA Runtime Error - Page
   author: DhiyaneshDk
   severity: info

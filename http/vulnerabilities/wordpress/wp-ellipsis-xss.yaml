@@ -1,6 +1,10 @@
 id: wp-ellipsis-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Ellipsis Human Presence Technology <= 2.0.8 - Cross Site Scripting
   author: r3Y3r53
   severity: medium

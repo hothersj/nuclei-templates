@@ -8,6 +8,9 @@ info:
     A misconfig in Teslamate allows unauthorized access to /settings endpoint.
   classification:
     cpe: cpe:2.3:a:teslamate_project:teslamate:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

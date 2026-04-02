@@ -1,6 +1,10 @@
 id: newrelic-pixie-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-540
   name: New Relic Pixie API Key
   author: DhiyaneshDK
   severity: info

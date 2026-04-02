@@ -1,6 +1,11 @@
 id: wp-worker-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: WordPress ManageWP Worker - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

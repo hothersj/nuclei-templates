@@ -6,6 +6,9 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:roundcube:webmail:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
+      - CWE-319
   metadata:
     max-request: 2
     vendor: roundcube

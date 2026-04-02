@@ -1,6 +1,10 @@
 id: prometheus-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Prometheus Monitoring System - Unauthenticated
   author: pussycat0x
   severity: high

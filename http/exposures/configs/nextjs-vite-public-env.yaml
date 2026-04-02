@@ -1,6 +1,9 @@
 id: nextjs-vite-public-env
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Next.js / Vite Public ENV Exposure
   author: Hamza Sahin,incogbyte
   severity: medium

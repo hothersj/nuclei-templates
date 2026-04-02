@@ -1,6 +1,9 @@
 id: wp-add-to-any-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress AddToAny Share Buttons Plugin - Full Path Disclosure
   author: pussycat0x
   severity: low

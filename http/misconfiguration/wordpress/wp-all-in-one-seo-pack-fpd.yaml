@@ -1,6 +1,11 @@
 id: wp-all-in-one-seo-pack-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: WordPress All in One SEO Pack - Full Path Disclosure
   author: theamanrawat,DhiyaneshDk
   severity: low

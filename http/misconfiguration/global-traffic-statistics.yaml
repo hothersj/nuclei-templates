@@ -7,6 +7,10 @@ info:
   description: Global Traffic Statistics page is exposed.
   classification:
     cpe: cpe:2.3:a:f5:big-ip_global_traffic_manager:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

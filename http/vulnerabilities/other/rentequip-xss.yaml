@@ -1,6 +1,10 @@
 id: rentequip-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: RentEquip Multipurpose Rental 1.0 - Cross Site Scripting
   author: r3Y3r53
   severity: medium

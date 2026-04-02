@@ -7,6 +7,10 @@ info:
   description: Mercurial repositories index is disclosed.
   classification:
     cpe: cpe:2.3:a:mercurial:mercurial:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-548
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

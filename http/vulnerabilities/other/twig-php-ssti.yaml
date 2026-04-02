@@ -1,6 +1,11 @@
 id: twig-php-ssti
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-95
+      - CWE-917
   name: Twig PHP <2.4.4 template engine - SSTI
   author: madrobot
   severity: high

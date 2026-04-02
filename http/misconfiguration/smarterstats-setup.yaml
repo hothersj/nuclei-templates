@@ -7,6 +7,10 @@ info:
   description: SmarterStats Setup is exposed.
   classification:
     cpe: cpe:2.3:a:smartertools:smarterstats:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

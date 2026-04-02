@@ -1,6 +1,10 @@
 id: zhixiang-oa-msglog-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Zhixiang OA msglog.aspx - SQL injection
   author: SleepingBag945
   severity: high

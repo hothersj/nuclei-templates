@@ -1,6 +1,10 @@
 id: ariang-debug-console
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: AriaNg Debug Console - Exposure
   author: DhiyaneshDk
   severity: medium

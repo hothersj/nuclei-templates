@@ -1,6 +1,9 @@
 id: versa-flexvnf-server
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Versa FlexVNF Server
   author: c-sh0
   severity: info

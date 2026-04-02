@@ -7,6 +7,10 @@ info:
   description: Ruby on Rails storage.yml file is disclosed.
   classification:
     cpe: cpe:2.3:a:rubyonrails:rails:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 4

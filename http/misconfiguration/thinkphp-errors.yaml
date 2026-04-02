@@ -7,6 +7,8 @@ info:
   description: ThinkPHP error is leaking sensitive info.
   classification:
     cpe: cpe:2.3:a:thinkphp:thinkphp:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

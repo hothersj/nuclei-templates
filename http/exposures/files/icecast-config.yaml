@@ -1,6 +1,10 @@
 id: icecast-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Icecast Config - File Disclosure
   author: DhiyaneshDk
   severity: low

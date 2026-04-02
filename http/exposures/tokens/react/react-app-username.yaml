@@ -1,6 +1,10 @@
 id: react-app-username
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-540
   name: React App Username
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: hivequeue-agent
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: HiveQueue Agent
   author: DhiyaneshDk
   severity: low

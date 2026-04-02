@@ -1,6 +1,11 @@
 id: justboil-me-image-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: JustBoil.me Images Plugin - Exposed Image Upload
   author: 0xr2r
   severity: medium

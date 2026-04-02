@@ -1,6 +1,11 @@
 id: wp-importer-log-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-219
+      - CWE-532
   name: WordPress Importer - Error Log Disclosure
   author: 0x_Akoko
   severity: low

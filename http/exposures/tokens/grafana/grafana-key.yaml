@@ -1,6 +1,11 @@
 id: grafana-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-538
+      - CWE-922
   name: Grafana API Key
   author: DhiyaneshDK
   severity: info

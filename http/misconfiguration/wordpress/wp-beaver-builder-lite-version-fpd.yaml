@@ -1,6 +1,9 @@
 id: wp-beaver-builder-lite-version-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Beaver Builder Page Builder - Full Path Disclosure
   author: theamanrawat
   severity: low

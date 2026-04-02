@@ -1,6 +1,11 @@
 id: github-page-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Github pages config file
   author: hahwul
   severity: info

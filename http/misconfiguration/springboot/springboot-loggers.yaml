@@ -1,6 +1,11 @@
 id: springboot-loggers
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-306
+      - CWE-862
   name: Springboot Loggers - Exposure
   author: that_juan_,dwisiswant0,wdahlenb,TheZakMan
   severity: low

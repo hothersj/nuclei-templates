@@ -1,6 +1,10 @@
 id: misconfigured-docker
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Docker Container - Misconfiguration Exposure
   author: dhiyaneshDK
   severity: critical

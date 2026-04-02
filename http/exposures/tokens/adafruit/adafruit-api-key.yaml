@@ -1,6 +1,11 @@
 id: adafruit-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-538
+      - CWE-540
   name: Adafruit API Key
   author: DhiyaneshDK
   severity: info

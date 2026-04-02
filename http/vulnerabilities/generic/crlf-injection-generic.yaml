@@ -1,6 +1,10 @@
 id: crlf-injection-generic
 
 info:
+  classification:
+    cwe-id:
+      - CWE-93
+      - CWE-113
   name: CRLF - Injection Detection
   author: melbadry9,nadino,xElkomy
   severity: low

@@ -7,6 +7,10 @@ info:
   description: Discourse is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:discourse:discourse:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

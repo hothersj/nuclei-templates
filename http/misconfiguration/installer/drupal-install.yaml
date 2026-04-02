@@ -1,6 +1,11 @@
 id: drupal-install
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Drupal Install
   author: NkxxkN
   severity: high

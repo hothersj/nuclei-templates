@@ -1,6 +1,10 @@
 id: vault-service-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Vault Service Token
   author: DhiyaneshDK
   severity: info

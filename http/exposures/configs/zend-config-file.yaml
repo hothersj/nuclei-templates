@@ -1,6 +1,11 @@
 id: zend-config-file
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-312
+      - CWE-538
   name: Zend Configuration File
   author: pdteam,geeknik,Akokonunes
   severity: high

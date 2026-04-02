@@ -1,6 +1,10 @@
 id: wekan-signup-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Wekan Sign Up Page - Exposure
   author: DhiyaneshDK
   severity: medium

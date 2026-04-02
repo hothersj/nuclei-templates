@@ -1,6 +1,10 @@
 id: cloud-oa-system-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Cloud OA System - SQL Injection
   author: SleepingBag945
   severity: high

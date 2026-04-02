@@ -1,6 +1,10 @@
 id: finereport-sqli-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-94
   name: FineReport SQLi - Remote Code Execution
   author: adeljck
   severity: critical

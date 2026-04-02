@@ -1,6 +1,11 @@
 id: unifi-create-user
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: UniFi - Unauthenticated Creation Access For Users
   author: DhiyaneshDk
   severity: high

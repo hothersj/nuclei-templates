@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-863
   metadata:
     max-request: 2
     vendor: gitlab

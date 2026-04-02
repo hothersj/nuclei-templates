@@ -1,6 +1,10 @@
 id: flutterwave-encryptionkey
 
 info:
+  classification:
+    cwe-id:
+      - CWE-321
+      - CWE-798
   name: Flutterwave Encryption Key
   author: DhiyaneshDK
   severity: info

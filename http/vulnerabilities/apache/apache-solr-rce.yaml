@@ -1,6 +1,11 @@
 id: apache-solr-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-94
+      - CWE-99
   name: Apache Solr 9.1 - Remote Code Execution
   author: j4vaovo
   severity: critical

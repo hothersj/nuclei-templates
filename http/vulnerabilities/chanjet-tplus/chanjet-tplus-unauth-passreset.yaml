@@ -1,6 +1,12 @@
 id: chanjet-tplus-unauth-passreset
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-620
+      - CWE-862
   name: Chanjet Tplus - Unauthorized Password Reset
   author: 0xr2r
   severity: high

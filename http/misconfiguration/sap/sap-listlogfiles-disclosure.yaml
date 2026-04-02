@@ -1,6 +1,10 @@
 id: sap-listlogfiles-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SAPControl ListLogFiles - Disclosure
   author: LRVT,l4rm4nd
   severity: medium

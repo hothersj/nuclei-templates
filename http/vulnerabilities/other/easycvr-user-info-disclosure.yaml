@@ -1,6 +1,11 @@
 id: easycvr-user-info-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: EasyCVR User - Information Disclosure
   author: dostghost
   severity: medium

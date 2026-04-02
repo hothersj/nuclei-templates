@@ -1,6 +1,11 @@
 id: netrc
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-312
+      - CWE-552
   name: Netrc - Config File Discovery
   author: geeknik
   severity: high

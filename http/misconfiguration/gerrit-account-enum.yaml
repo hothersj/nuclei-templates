@@ -1,6 +1,11 @@
 id: gerrit-account-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: Gerrit Code Review - Account Enumeration
   author: DhiyaneshDk
   severity: medium

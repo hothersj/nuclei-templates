@@ -1,6 +1,9 @@
 id: jenkins-crumb-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
   name: Jenkins Token or Crumb
   author: DhiyaneshDK
   severity: info

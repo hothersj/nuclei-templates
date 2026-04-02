@@ -1,6 +1,10 @@
 id: yonyou-fe-directory-traversal
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: FE collaborative Office templateOfTaohong_manager.jsp - Path Traversal
   author: SleepingBag945
   severity: medium

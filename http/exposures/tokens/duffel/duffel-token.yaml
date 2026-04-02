@@ -1,6 +1,11 @@
 id: duffel-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-552
+      - CWE-922
   name: Duffel API Token
   author: DhiyaneshDK
   severity: info

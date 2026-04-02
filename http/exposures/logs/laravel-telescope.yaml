@@ -1,6 +1,10 @@
 id: laravel-telescope
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Laravel Telescope Disclosure
   author: geeknik
   severity: medium

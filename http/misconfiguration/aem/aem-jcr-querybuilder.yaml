@@ -1,6 +1,11 @@
 id: aem-jcr-querybuilder
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-425
+      - CWE-862
   name: Query JCR role via QueryBuilder Servlet
   author: DhiyaneshDk
   severity: info

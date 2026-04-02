@@ -1,6 +1,11 @@
 id: exposed-kibana
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Exposed Kibana
   author: Shine
   severity: medium

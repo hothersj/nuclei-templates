@@ -1,6 +1,12 @@
 id: netdisco-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Netdisco - Unauth Access
   author: ritikchaddha
   severity: critical

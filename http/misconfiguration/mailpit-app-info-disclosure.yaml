@@ -1,6 +1,11 @@
 id: mailpit-app-info-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: Mailpit App - Information Disclosure
   author: DhiyaneshDK
   severity: medium

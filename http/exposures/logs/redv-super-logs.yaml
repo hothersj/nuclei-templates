@@ -1,6 +1,11 @@
 id: redv-super-logs
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: RED-V Super Digital Signage System RXV-A740R - Log Information Disclosure
   author: r3Y3r53
   severity: medium

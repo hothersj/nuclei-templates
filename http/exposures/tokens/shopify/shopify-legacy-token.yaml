@@ -1,6 +1,10 @@
 id: shopify-legacy-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Shopify Access Token (Legacy Private App)
   author: DhiyaneshDK
   severity: info

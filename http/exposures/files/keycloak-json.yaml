@@ -1,6 +1,10 @@
 id: keycloak-json
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Keycloak JSON File
   author: oppsec
   severity: info

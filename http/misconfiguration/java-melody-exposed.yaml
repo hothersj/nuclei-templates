@@ -1,6 +1,10 @@
 id: java-melody-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: JavaMelody Monitoring Exposed
   author: dhiyaneshDK,thomas_from_offensity
   severity: medium

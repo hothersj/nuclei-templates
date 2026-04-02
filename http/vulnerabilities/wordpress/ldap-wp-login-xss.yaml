@@ -1,6 +1,10 @@
 id: ldap-wp-login-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Ldap WP Login / Active Directory Integration < 3.0.2 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

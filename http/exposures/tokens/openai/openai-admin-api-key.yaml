@@ -1,6 +1,13 @@
 id: openai-admin-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-306
+      - CWE-319
+      - CWE-522
+      - CWE-862
   name: OpenAI Admin API Key Detection
   author: Chemo850
   severity: info

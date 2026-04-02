@@ -1,6 +1,9 @@
 id: sidekiq-sensitive-url
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Sidekiq Sensitive URL
   author: DhiyaneshDK
   severity: info

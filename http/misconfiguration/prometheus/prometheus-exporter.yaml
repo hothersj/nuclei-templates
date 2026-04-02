@@ -1,6 +1,9 @@
 id: prometheus-exporter
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Prometheus exporter detect
   author: jarijaas
   severity: info

@@ -1,6 +1,11 @@
 id: build-properties
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Build Properties File Exposure
   author: DhiyaneshDk
   severity: info

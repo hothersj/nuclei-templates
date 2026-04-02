@@ -9,6 +9,9 @@ info:
     - https://www.envoyproxy.io/docs/envoy/latest/
   classification:
     cpe: cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,9 @@
 id: request-based-interaction
 
 info:
+  classification:
+    cwe-id:
+      - CWE-918
   name: OOB Request Based Interaction
   author: pdteam
   severity: info

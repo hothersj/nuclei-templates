@@ -1,6 +1,10 @@
 id: kube-api-namespaces
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Kube API Namespaces
   author: sharath
   severity: info

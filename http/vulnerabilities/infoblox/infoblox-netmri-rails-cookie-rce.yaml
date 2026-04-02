@@ -14,7 +14,9 @@ info:
     - https://rhinosecuritylabs.com/research/infoblox-multiple-cves/
     - https://nvd.nist.gov/vuln/detail/CVE-2013-0156
   classification:
-    cwe-id: CWE-502
+    cwe-id:
+      - CWE-321
+      - CWE-502
   metadata:
     verified: true
     max-request: 1

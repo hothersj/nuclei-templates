@@ -1,6 +1,11 @@
 id: wp-enable-media-replace-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-538
+      - CWE-552
   name: WordPress Plugin Enable Media Replace - Log File Exposure
   author: DhiyaneshDk
   severity: medium

@@ -1,6 +1,11 @@
 id: digitalocean-refresh
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-552
   name: DigitalOcean Refresh Token
   author: DhiyaneshDK
   severity: info

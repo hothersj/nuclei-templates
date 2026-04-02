@@ -1,6 +1,10 @@
 id: wp-instagram-feed-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Instagram Feed < 1.6 - Cross-Site Scripting
   author: theamanrawat
   severity: medium

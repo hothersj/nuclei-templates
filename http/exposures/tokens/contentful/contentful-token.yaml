@@ -1,6 +1,10 @@
 id: contentful-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
   name: Contentful Delivery API Token
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,11 @@
 id: hikvision-isecure-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-257
+      - CWE-260
+      - CWE-552
   name: HIKVISION iSecure Center - Information Leak
   author: adeljck
   severity: high

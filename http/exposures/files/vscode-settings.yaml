@@ -1,6 +1,11 @@
 id: vscode-settings
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
+      - CWE-552
   name: Visual Studio Code Settings - Credential Exposure
   author: DhiyaneshDk
   severity: low

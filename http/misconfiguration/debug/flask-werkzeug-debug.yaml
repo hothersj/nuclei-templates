@@ -7,6 +7,8 @@ info:
   description: Flask Werkzeug Debugger is exposed.
   classification:
     cpe: cpe:2.3:a:palletsprojects:werkzeug:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

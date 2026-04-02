@@ -1,6 +1,9 @@
 id: openai-plugin
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: OpenAI Plugin Detection
   author: pdteam
   severity: info

@@ -1,6 +1,11 @@
 id: flickr-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-538
+      - CWE-798
   name: Flickr Access Token
   author: DhiyaneshDK
   severity: info

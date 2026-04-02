@@ -1,6 +1,10 @@
 id: blackbox-exporter-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Blackbox Exporter Metrics Exposed
   author: DhiyaneshDk
   severity: info

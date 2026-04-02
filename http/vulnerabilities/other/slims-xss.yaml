@@ -10,6 +10,9 @@ info:
     - https://packetstormsecurity.com/files/170182/Senayan-Library-Management-System-9.4.0-Cross-Site-Scripting.html
   classification:
     cpe: cpe:2.3:a:slims:senayan_library_management_system:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-79
+      - CWE-83
   metadata:
     verified: true
     max-request: 1

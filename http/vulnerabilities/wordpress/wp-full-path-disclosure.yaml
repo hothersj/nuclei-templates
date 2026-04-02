@@ -1,6 +1,9 @@
 id: wp-full-path-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Wordpress - Path Disclosure
   author: arcc
   severity: info

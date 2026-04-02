@@ -1,6 +1,11 @@
 id: twitter-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
+      - CWE-798
   name: Twitter API Key
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: weaver-e-cology-validate-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Weaver e-cology Validate.JSP - SQL Injection
   author: SleepingBag945
   severity: high

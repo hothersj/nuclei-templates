@@ -11,6 +11,10 @@ info:
     - https://github.com/act1on3/nuclei-templates/blob/master/vulnerabilities/kiwi-information-disclosure.yaml
   classification:
     cpe: cpe:2.3:a:kiwitcms:kiwi_tcms:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   metadata:
     max-request: 1
     vendor: kiwitcms

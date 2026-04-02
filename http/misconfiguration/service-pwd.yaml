@@ -1,6 +1,11 @@
 id: service-pwd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
+      - CWE-922
   name: service.pwd - Sensitive Information Disclosure
   author: pussycat0x
   severity: high

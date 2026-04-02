@@ -1,6 +1,11 @@
 id: zendesk-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-538
+      - CWE-540
   name: Zendesk Secret Key
   author: DhiyaneshDK
   severity: info

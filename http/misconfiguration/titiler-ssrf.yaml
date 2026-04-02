@@ -1,6 +1,10 @@
 id: titiler-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-610
+      - CWE-918
   name: TiTiler - Blind Server Side Request Forgery
   author: xbow,DhiyaneshDK
   severity: high

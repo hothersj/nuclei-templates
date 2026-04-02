@@ -1,6 +1,9 @@
 id: delphi-mvc-exception
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Delphi MVC Exception - Page
   author: DhiyaneshDk
   severity: info

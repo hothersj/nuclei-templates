@@ -1,6 +1,12 @@
 id: wordpress-db-repair
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: Wordpress DB Repair Exposed
   author: _C0wb0y_
   severity: low

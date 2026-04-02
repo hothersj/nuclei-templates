@@ -10,7 +10,8 @@ info:
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
     cvss-score: 10
-    cwe-id: CWE-288
+    cwe-id:
+      - CWE-288
   metadata:
     max-request: 1
   tags: auth-bypass,router,edb,huawei,vuln

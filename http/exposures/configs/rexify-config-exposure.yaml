@@ -1,6 +1,10 @@
 id: rexify-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-260
   name: Rexify Configuration - Exposure
   author: theamanrawat
   severity: high

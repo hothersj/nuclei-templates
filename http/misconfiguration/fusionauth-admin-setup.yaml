@@ -7,6 +7,9 @@ info:
   description: FusionAuth Admin Setup is exposed.
   classification:
     cpe: cpe:2.3:a:fusionauth:fusionauth:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

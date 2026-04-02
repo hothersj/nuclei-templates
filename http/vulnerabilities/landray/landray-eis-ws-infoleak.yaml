@@ -1,6 +1,10 @@
 id: landray-eis-ws-infoleak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
   name: Landray EIS WS_getAllInfos - Information Disclosure
   author: Fur1na
   severity: high

@@ -1,6 +1,12 @@
 id: itflow-unfinished-installation
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: ITFlow Unfinished Installation
   author: 0x_Akoko
   severity: high

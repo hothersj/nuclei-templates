@@ -1,6 +1,10 @@
 id: wp-h5vp-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress H5VP Plugin - Full Path Disclosure
   author: theamanrawat
   severity: low

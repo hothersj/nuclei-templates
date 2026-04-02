@@ -1,6 +1,11 @@
 id: wp-spot-premium-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: WordPress Javo Spot Premium Theme - Unauthenticated Directory Traversal
   author: dhiyaneshDk
   severity: high

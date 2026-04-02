@@ -1,6 +1,9 @@
 id: brandfolder-open-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-601
   name: WordPress Brandfolder - Open Redirect (RFI & LFI)
   author: 0x_Akoko
   severity: medium

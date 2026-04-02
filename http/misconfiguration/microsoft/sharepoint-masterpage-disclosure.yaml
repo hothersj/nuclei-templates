@@ -1,6 +1,11 @@
 id: sharepoint-masterpage-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Microsoft SharePoint - Master Page Disclosure
   author: DhiyaneshDk
   severity: low

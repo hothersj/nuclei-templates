@@ -1,6 +1,10 @@
 id: directory-listing-no-host-header
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Directory Listing - No Host header
   author: kazet
   severity: unknown

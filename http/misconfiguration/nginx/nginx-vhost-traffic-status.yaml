@@ -1,6 +1,11 @@
 id: nginx-vhost-traffic-status
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Nginx Vhost Traffic Status
   author: geeknik
   severity: low

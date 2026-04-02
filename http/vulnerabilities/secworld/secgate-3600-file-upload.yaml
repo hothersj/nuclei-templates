@@ -1,6 +1,10 @@
 id: secgate-3600-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
   name: SecGate 3600 Firewall obj_app_upfile - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

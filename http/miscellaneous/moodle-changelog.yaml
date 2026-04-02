@@ -1,6 +1,9 @@
 id: moodle-changelog
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: Moodle Changelog File Detect
   author: oppsec,lap1nou
   severity: info

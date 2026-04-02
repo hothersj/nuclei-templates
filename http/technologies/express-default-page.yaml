@@ -1,6 +1,11 @@
 id: express-default-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Express Default Page
   author: DhiyaneshDk
   severity: info

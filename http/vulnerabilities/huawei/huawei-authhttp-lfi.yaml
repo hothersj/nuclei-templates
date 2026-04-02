@@ -1,6 +1,10 @@
 id: huawei-authhttp-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Huawei Auth Http Server - Arbitrary File Read
   author: DhiyaneshDk
   severity: high

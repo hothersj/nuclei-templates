@@ -9,6 +9,9 @@ info:
     - https://twitter.com/AEMSecurity/status/1372392101829349376
   classification:
     cpe: cpe:2.3:a:adobe:acs_aem_commons:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-359
+      - CWE-862
   metadata:
     max-request: 1
     vendor: adobe

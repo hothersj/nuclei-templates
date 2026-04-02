@@ -1,6 +1,10 @@
 id: thingsboard-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-922
   name: ThingsBoard Access Token
   author: DhiyaneshDK
   severity: info

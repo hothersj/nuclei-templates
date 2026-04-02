@@ -1,6 +1,10 @@
 id: hongfan-ioffice-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Hongfan OA ioFileExport.aspx - Arbitrary File Read
   author: SleepingBag945
   severity: medium

@@ -1,6 +1,10 @@
 id: cacti-weathermap-file-write
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-73
   name: Cacti Weathermap File Write
   author: pikpikcu
   severity: medium

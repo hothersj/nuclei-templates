@@ -1,6 +1,11 @@
 id: seeyon-oa-sp2-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-73
+      - CWE-434
   name: Seeyon OA wpsAssistServlet - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

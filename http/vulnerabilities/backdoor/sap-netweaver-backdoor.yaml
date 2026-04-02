@@ -1,6 +1,11 @@
 id: sap-netweaver-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
+      - CWE-306
   name: SAP NetWeaver - Backdoor Detection
   author: DhiyaneshDk
   severity: critical

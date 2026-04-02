@@ -1,6 +1,9 @@
 id: typo3-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
   name: Typo3 Directory Listing
   author: theamanrawat
   severity: low

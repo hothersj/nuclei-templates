@@ -11,6 +11,9 @@ info:
     - https://github.com/righettod/toolbox-pentest-web/blob/master/docs/4-HINTS_ARCHIVED.md#user-enumeration-techniques-for-microsoft-exchange
   classification:
     cpe: cpe:2.3:a:microsoft:exchange_server:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-359
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

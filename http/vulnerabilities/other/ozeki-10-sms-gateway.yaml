@@ -1,6 +1,10 @@
 id: ozeki-10-sms-gateway
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: Ozeki 10 SMS Gateway 10.3.208 - Arbitrary File Read
   author: r3Y3r53
   severity: high

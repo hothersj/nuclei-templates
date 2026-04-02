@@ -10,6 +10,10 @@ info:
     - http://doc.docs.sk/mysql-refman-5.5/mysql-history-file.html
   classification:
     cpe: cpe:2.3:a:oracle:mysql:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-312
+      - CWE-538
   metadata:
     verified: true
     max-request: 1

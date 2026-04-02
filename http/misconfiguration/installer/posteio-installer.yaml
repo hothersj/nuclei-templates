@@ -1,6 +1,11 @@
 id: posteio-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: First Poste.io Configuration Installation Wizard
   author: ritikchaddha
   severity: high

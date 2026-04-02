@@ -1,6 +1,11 @@
 id: dropbox-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-538
   name: Dropbox Access Token
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,9 @@
 id: laravel-eol
 
 info:
+  classification:
+    cwe-id:
+      - CWE-1104
   name: Laravel End-of-Life Detection
   author: Shivam Kamboj
   severity: info

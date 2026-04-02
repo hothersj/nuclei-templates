@@ -1,6 +1,11 @@
 id: flowise-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-269
+      - CWE-306
+      - CWE-862
   name: Flowise Installation Wizard - Exposure
   author: pussycat0x
   severity: high

@@ -9,6 +9,10 @@ info:
     - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/aem2.txt
   classification:
     cpe: cpe:2.3:a:adobe:acs_aem_commons:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 4
     vendor: adobe

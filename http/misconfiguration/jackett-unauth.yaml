@@ -1,6 +1,11 @@
 id: jackett-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Jackett UI - Unauthenticated
   author: ProjectDiscoveryAI
   severity: high

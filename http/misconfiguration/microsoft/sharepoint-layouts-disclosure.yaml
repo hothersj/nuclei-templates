@@ -1,6 +1,11 @@
 id: sharepoint-layouts-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Microsoft SharePoint - Layouts Disclosure
   author: DhiyaneshDk
   severity: low

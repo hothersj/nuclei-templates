@@ -1,6 +1,10 @@
 id: caimore-gateway-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: CAIMORE Gateway - Remote Code Execution
   author: momika233
   severity: high

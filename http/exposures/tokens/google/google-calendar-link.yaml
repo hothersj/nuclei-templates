@@ -1,6 +1,11 @@
 id: google-calendar-link
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-359
+      - CWE-402
   name: Google Calendar URI Disclosure
   author: Ice3man
   severity: info

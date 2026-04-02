@@ -1,6 +1,9 @@
 id: sap-logon-error-message
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: SAP Logon Error Message
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: microsoft-teams-webhook
 
 info:
+  classification:
+    cwe-id:
+      - CWE-798
+      - CWE-922
   name: Microsoft Teams Webhook Disclosure
   author: Ice3man
   severity: info

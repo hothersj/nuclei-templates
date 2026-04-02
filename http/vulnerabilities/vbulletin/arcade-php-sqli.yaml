@@ -1,6 +1,9 @@
 id: arcade-php-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Arcade.php - SQL Injection
   author: MaStErChO
   severity: high

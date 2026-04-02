@@ -1,6 +1,11 @@
 id: wp-wpfront-scroll-top-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: WordPress WPFront Scroll Top - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,11 @@
 id: nextcloudpi-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: NextcloudPi Dashboard - Exposed
   author: ritikchaddha
   severity: high

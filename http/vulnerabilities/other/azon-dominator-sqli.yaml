@@ -1,6 +1,9 @@
 id: azon-dominator-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Azon Dominator - SQL Injection
   author: s4e-io
   severity: high

@@ -1,6 +1,9 @@
 id: mingyu-xmlrpc-sock-adduser
 
 info:
+  classification:
+    cwe-id:
+      - CWE-918
   name: Mingyu Operation xmlrpc.sock - User Addition
   author: SleepingBag945
   severity: high

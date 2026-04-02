@@ -1,6 +1,11 @@
 id: nextjs-middleware-cache
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-444
+      - CWE-807
   name: Next.js - Cache Poisoning
   author: DhiyaneshDk
   severity: high

@@ -7,6 +7,10 @@ info:
   description: Internal file is exposed in Constant Contact Forms wordpress plugin.
   classification:
     cpe: cpe:2.3:a:constantcontact:constant_contact_forms:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-313
+      - CWE-538
+      - CWE-922
   metadata:
     verified: true
     max-request: 2

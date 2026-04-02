@@ -1,6 +1,14 @@
 id: theia-lfi-to-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
+      - CWE-78
+      - CWE-94
+      - CWE-306
+      - CWE-862
   name: Eclipse Theia IDE - LFI to RCE
   author: 0x_Akoko
   severity: critical

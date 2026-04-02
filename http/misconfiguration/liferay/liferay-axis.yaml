@@ -8,6 +8,10 @@ info:
     - https://github.com/ilmila/J2EEScan/blob/master/src/main/java/burp/j2ee/issues/impl/LiferayAPI.java
   classification:
     cpe: cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

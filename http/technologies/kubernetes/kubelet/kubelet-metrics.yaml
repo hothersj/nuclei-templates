@@ -1,6 +1,10 @@
 id: kubelet-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Kubelet Metrics
   author: sharath,righettod
   severity: info

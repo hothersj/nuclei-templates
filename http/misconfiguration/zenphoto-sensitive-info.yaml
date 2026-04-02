@@ -1,6 +1,11 @@
 id: zenphoto-sensitive-info
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Zenphoto Installation Sensitive Information
   author: qlkwej
   severity: medium

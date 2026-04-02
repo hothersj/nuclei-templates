@@ -10,6 +10,8 @@ info:
     - http://opentsdb.net/
   classification:
     cpe: cpe:2.3:a:opentsdb:opentsdb:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     verified: true
     max-request: 1

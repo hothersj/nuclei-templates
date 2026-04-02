@@ -1,6 +1,11 @@
 id: slack-config-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-798
   name: Slack Config Access Token
   author: DhiyaneshDK
   severity: info

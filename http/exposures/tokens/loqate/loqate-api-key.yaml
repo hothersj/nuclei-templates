@@ -1,6 +1,10 @@
 id: loqate-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-523
   name: Loqate API Key
   author: realexp3rt
   severity: low

@@ -8,6 +8,8 @@ info:
     Enumerates the IP Address and users that is currently accessing an Apache JSPWiki web application, leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP).
   classification:
     cpe: cpe:2.3:a:apache:jspwiki:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-359
   metadata:
     max-request: 1
     verified: true

@@ -1,6 +1,11 @@
 id: twonky-server-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Twonky Server - Exposure
   author: DhiyaneshDk
   severity: high

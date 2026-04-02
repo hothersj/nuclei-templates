@@ -1,6 +1,11 @@
 id: elastic-hd-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-306
+      - CWE-862
   name: Elastic HD Dashboard Exposure
   author: tess
   severity: low

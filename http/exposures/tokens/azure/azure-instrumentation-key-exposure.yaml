@@ -1,6 +1,10 @@
 id: azure-instrumentation-key-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-522
   name: Azure Instrumentation Key - Exposure
   author: pussycat0x
   severity: medium

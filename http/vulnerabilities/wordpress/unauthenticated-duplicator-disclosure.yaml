@@ -1,6 +1,11 @@
 id: unauthenticated-duplicator-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-548
+      - CWE-552
   name: WordPress Duplicator Plugin - Information disclosure
   author: tess
   severity: medium

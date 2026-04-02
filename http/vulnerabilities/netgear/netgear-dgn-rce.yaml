@@ -1,6 +1,10 @@
 id: netgear-dgn-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-306
   name: Netgear DGN Devices - Command Execution
   author: 3th1c_yuk1
   severity: critical

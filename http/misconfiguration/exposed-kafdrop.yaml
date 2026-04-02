@@ -1,6 +1,10 @@
 id: exposed-kafdrop
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Publicly exposed Kafdrop Interface
   author: dhiyaneshDk
   severity: low

@@ -10,6 +10,9 @@ info:
     - https://github.com/provectus/kafka-ui
   classification:
     cpe: cpe:2.3:a:apache:kafka:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

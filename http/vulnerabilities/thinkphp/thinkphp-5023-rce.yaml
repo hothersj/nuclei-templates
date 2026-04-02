@@ -1,6 +1,11 @@
 id: thinkphp-5023-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-95
+      - CWE-470
   name: ThinkPHP 5.0.23 - Remote Code Execution
   author: dr_set
   severity: critical

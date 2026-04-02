@@ -1,6 +1,10 @@
 id: wp-googlecaptcha-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress Plugin reCaptcha by BestWebSoft (google-captcha) - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

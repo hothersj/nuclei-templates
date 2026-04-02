@@ -1,6 +1,11 @@
 id: dockercfg-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-313
+      - CWE-552
   name: Detect .dockercfg
   author: geeknik
   severity: high

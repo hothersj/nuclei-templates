@@ -1,6 +1,11 @@
 id: adobe-client-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-540
+      - CWE-798
   name: Adobe Client ID
   author: DhiyaneshDK
   severity: info

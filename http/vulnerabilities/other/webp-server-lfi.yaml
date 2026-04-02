@@ -1,6 +1,10 @@
 id: webp-server-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: Webp Server Go - Path Traversal
   author: ritikchaddha
   severity: high

@@ -1,6 +1,10 @@
 id: github-app
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-798
   name: GitHub App Token
   author: DhiyaneshDK
   severity: info

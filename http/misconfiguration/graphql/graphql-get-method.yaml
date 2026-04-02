@@ -1,6 +1,9 @@
 id: graphql-get-method
 
 info:
+  classification:
+    cwe-id:
+      - CWE-352
   name: GraphQL CSRF / GET method
   author: Dolev Farhi
   severity: info

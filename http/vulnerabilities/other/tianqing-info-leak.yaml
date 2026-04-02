@@ -1,6 +1,10 @@
 id: tianqing-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Tianqing Info Leak
   author: ritikchaddha
   severity: medium

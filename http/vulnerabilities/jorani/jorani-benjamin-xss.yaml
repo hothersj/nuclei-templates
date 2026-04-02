@@ -1,6 +1,10 @@
 id: jorani-benjamin-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Jorani v1.0.3-2014-2023 Benjamin BALET - Cross-Site Scripting
   author: ritikchaddha
   severity: medium

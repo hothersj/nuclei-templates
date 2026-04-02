@@ -1,6 +1,9 @@
 id: wp-safe-svg-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin Safe SVG - Full Path Disclosure
   author: ritikchaddha
   severity: low

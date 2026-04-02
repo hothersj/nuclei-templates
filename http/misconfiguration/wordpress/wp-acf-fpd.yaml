@@ -1,6 +1,9 @@
 id: wp-acf-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Advanced Custom Fields (ACF) - Full Path Disclosure
   author: theamanrawat
   severity: low

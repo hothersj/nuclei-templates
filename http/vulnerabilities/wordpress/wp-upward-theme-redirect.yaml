@@ -1,6 +1,9 @@
 id: wp-upward-theme-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-601
   name: WordPress Upward Themes <1.5 - Open Redirect
   author: r3Y3r53
   severity: medium

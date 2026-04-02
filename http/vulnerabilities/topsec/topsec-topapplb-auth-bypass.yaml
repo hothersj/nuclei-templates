@@ -1,6 +1,10 @@
 id: topsec-topapplb-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-138
+      - CWE-287
   name: Topsec TopAppLB - Authentication Bypass
   author: SleepingBag945
   severity: high

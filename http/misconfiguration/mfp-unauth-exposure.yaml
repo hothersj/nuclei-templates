@@ -1,6 +1,10 @@
 id: mfp-unauth-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Multi-function Printer - Unauthorized Access
   author: matejsmycka
   severity: medium

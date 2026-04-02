@@ -1,6 +1,12 @@
 id: gcs-bucket-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-548
+      - CWE-552
+      - CWE-862
   name: Google Cloud Storage - Public Bucket Listing
   author: 0x_Akoko
   severity: unknown

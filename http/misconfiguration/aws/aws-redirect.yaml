@@ -1,6 +1,10 @@
 id: aws-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-285
+      - CWE-862
   name: Subdomain takeover AWS S3
   author: manikanta a.k.a @secureitmania
   severity: info

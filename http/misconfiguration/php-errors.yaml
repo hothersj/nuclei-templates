@@ -6,6 +6,9 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:php:php:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
+      - CWE-756
   metadata:
     max-request: 1
     vendor: php

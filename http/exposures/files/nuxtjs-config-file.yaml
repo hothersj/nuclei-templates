@@ -1,6 +1,11 @@
 id: nuxtjs-config-file
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-425
+      - CWE-552
   name: Nuxtjs Config File - File Disclosure
   author: DhiyaneshDk
   severity: low

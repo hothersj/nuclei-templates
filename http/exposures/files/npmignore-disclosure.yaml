@@ -1,6 +1,9 @@
 id: npmignore-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: NPM .npmignore File Disclosure
   author: 0x_Akoko
   severity: info

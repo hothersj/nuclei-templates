@@ -1,6 +1,12 @@
 id: dell-dpi-panel
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: Dell DPI Remote Power Management - Detect
   author: megamansec
   severity: info

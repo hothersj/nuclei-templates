@@ -1,6 +1,9 @@
 id: jinhe-jc6-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Jinhe OA - SQL Injection
   author: Ky9oss
   severity: high

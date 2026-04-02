@@ -10,7 +10,9 @@ info:
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
     cvss-score: 6.1
-    cwe-id: CWE-601
+    cwe-id:
+      - CWE-601
+      - CWE-807
   metadata:
     max-request: 14
     shodan-query: "html:\"/bitrix/\""

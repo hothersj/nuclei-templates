@@ -9,6 +9,11 @@ info:
     - https://www.facebook.com/photo?fbid=619180260252497&set=pcb.619180283585828
   classification:
     cpe: cpe:2.3:a:perfsonar:perfsonar:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,9 @@
 id: rack-mini-profiler
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
   name: rack-mini-profiler - Environment Information Disclosure
   author: vzamanillo
   severity: high

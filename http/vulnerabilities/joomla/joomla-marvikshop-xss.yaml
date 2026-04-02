@@ -1,6 +1,10 @@
 id: joomla-marvikshop-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Joomla MarvikShop ShoppingCart 3.4 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

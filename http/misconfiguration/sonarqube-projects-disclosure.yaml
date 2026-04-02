@@ -11,6 +11,10 @@ info:
     - https://github.com/deletescape/sloot
   classification:
     cpe: cpe:2.3:a:sonarsource:sonarqube:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

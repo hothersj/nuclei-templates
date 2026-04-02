@@ -1,6 +1,10 @@
 id: wordpress-debug-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-538
   name: WordPress Debug Log - Exposure
   author: geraldino2,dwisiswant0,philippedelteil,FLX
   severity: low

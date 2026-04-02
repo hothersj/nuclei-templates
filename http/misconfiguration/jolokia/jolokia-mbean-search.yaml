@@ -1,6 +1,10 @@
 id: jolokia-mbean-search
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Jolokia - Searching MBeans
   author: pussycat0x
   severity: low

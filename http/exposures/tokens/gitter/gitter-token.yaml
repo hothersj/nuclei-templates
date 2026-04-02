@@ -1,6 +1,11 @@
 id: gitter-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-538
   name: Gitter Access Token
   author: DhiyaneshDK
   severity: info

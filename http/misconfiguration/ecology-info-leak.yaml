@@ -1,6 +1,11 @@
 id: ecology-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-260
+      - CWE-538
   name: Ecology - Information Exposure
   author: qianbenhyu
   severity: high

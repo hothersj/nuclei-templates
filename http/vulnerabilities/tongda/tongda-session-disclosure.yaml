@@ -1,6 +1,12 @@
 id: tongda-session-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-425
+      - CWE-862
   name: Tongda User Session Disclosure
   author: ritikchaddha
   severity: medium

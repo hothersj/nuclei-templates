@@ -1,6 +1,10 @@
 id: wordpress-bbpress-plugin-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress bbPress Plugin Directory Listing
   author: dhiyaneshDK
   severity: info

@@ -1,6 +1,9 @@
 id: wp-add-search-to-menu-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Ivory Search - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

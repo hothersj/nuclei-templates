@@ -1,6 +1,11 @@
 id: bsphp-info
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: BSPHP - Information Disclosure
   author: ritikchaddha
   severity: low

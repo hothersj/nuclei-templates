@@ -10,6 +10,8 @@ info:
     - http://www.1314study.com/t/87417.html
   classification:
     cpe: cpe:2.3:a:comsenz:discuz\\!:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

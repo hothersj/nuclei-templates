@@ -12,6 +12,10 @@ info:
     - https://wordpress.org/plugins/social-warfare/
   classification:
     cpe: cpe:2.3:a:warfareplugins:social_warfare:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-22
+      - CWE-73
+      - CWE-94
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,10 @@
 id: ecology-mysql-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
   name: Fanwei OA E-Office - Information Disclosure
   author: ritikchaddha
   severity: medium

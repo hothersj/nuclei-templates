@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:cakephp:cakephp:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     verified: true
     max-request: 1

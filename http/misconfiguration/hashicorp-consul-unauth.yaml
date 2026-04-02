@@ -1,5 +1,10 @@
 id: hashicorp-consul-unauth
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Hashicorp Consul API Unauthenticated
   author: pussycat0x
   severity: medium

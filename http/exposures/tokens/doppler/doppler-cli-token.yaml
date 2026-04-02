@@ -1,6 +1,10 @@
 id: doppler-cli-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: Doppler CLI Token
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,11 @@
 id: generic-j2ee-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Generic J2EE LFI Scan Panel - Detect
   author: davidfegyver
   severity: high

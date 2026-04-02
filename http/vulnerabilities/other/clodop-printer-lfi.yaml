@@ -1,6 +1,10 @@
 id: clodop-printer-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: C-Lodop Printer - Arbitrary File Read
   author: DhiyaneshDk
   severity: high

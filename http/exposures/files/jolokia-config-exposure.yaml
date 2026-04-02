@@ -1,6 +1,10 @@
 id: jolokia-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
   name: Jolokia Configuration - Exposure
   author: theamanrawat
   severity: medium

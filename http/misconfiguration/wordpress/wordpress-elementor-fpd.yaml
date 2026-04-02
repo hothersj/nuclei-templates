@@ -1,6 +1,10 @@
 id: wordpress-elementor-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress Elementor Page Builder - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

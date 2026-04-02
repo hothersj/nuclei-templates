@@ -1,6 +1,11 @@
 id: cgi-test-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: CGI Test page
   author: YASH ANAND @yashanand155
   severity: info

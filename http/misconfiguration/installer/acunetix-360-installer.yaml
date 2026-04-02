@@ -1,6 +1,11 @@
 id: acunetix-360-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Acunetix 360 Installer
   author: pussycat0x
   severity: info

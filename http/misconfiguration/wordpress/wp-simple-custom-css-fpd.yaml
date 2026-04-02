@@ -1,6 +1,9 @@
 id: wp-simple-custom-css-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Simple Custom CSS Plugin - Full Path Disclosure
   author: 0x_Akoko
   severity: low

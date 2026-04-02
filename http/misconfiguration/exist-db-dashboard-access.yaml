@@ -1,6 +1,12 @@
 id: exist-db-dashboard-access
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-521
+      - CWE-862
   name: eXist-DB Dashboard Access
   author: ritikchaddha
   severity: high

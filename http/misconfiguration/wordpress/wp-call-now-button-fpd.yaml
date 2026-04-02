@@ -1,6 +1,9 @@
 id: wp-call-now-button-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Call Now Button - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,10 @@
 id: log4-properties
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Log4j Properties - File Disclosure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,9 @@
 id: xhibiter-nft-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Xhibiter NFT Marketplace 1.10.2 - SQL Injection
   author: ProjectDiscoveryAI
   severity: high

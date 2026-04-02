@@ -1,6 +1,10 @@
 id: wp-flexible-shipping-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: WordPress Flexible Shipping - Log File Exposure
   author: DhiyaneshDk
   severity: medium

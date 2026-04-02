@@ -1,6 +1,10 @@
 id: wp-altair-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Altair WordPress theme v4.8 - Directory Listing
   author: pussycat0x
   severity: info

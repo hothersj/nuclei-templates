@@ -1,6 +1,10 @@
 id: vbulletin-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: vBulletin Backdoor - Detect
   author: MaStErCho
   severity: high

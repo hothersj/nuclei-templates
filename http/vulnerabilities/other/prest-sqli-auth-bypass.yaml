@@ -1,6 +1,10 @@
 id: prest-sqli-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-288
   name: pREST < 1.5.4 - SQL Injection Via Authentication Bypass
   author: mihail8531,iamnoooob,rootxharsh,pdresearch
   severity: critical

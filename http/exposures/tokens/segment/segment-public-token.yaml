@@ -1,6 +1,10 @@
 id: segment-public-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-922
   name: Segment Public API Token
   author: DhiyaneshDK
   severity: info

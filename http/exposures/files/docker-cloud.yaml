@@ -1,6 +1,11 @@
 id: docker-cloud
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Docker Cloud Yaml - File Disclosure
   author: DhiyaneshDK
   severity: medium

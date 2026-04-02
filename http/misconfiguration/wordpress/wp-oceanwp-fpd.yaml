@@ -1,6 +1,9 @@
 id: wp-oceanwp-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress OceanWP - Full Path Disclosure
   author: ritikchaddha
   severity: low

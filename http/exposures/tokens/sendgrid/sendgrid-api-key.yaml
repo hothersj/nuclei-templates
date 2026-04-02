@@ -1,6 +1,10 @@
 id: sendgrid-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Sendgrid API Key Disclosure
   author: Ice3man,DhiyaneshDK
   severity: info

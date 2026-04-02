@@ -8,6 +8,10 @@ info:
     Repetier Server Dashboard has been exposed.
   classification:
     cpe: cpe:2.3:a:repetier-server:repetier-server:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

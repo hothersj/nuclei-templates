@@ -1,6 +1,12 @@
 id: seeyon-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Seeyon OA A6 config.jsp - Information Disclosure
   author: SleepingBag945
   severity: medium

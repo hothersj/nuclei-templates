@@ -1,6 +1,10 @@
 id: https-to-http-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-419
   name: HTTPS to HTTP redirect Misconfiguration
   author: kazet,idealphase
   severity: info

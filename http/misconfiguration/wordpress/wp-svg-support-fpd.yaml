@@ -1,6 +1,11 @@
 id: wp-svg-support-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: WordPress SVG Support - Full Path Disclosure
   author: pussycat0x
   severity: low

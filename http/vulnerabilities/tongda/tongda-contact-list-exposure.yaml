@@ -1,6 +1,12 @@
 id: tongda-contact-list-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-425
+      - CWE-862
   name: Tongda OA v2014 Get Contactlistt - Sensitive Information Disclosure
   author: SleepingBag945
   severity: medium

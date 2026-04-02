@@ -1,6 +1,11 @@
 id: h3c-cvm-arbitrary-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
+      - CWE-434
   name: H3C CVM - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

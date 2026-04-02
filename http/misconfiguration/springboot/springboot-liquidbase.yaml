@@ -1,6 +1,9 @@
 id: springboot-liquidbase
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Springboot Liquidbase API
   author: ELSFA7110
   severity: low

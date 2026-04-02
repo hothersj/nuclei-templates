@@ -1,6 +1,12 @@
 id: joomla-com-booking-component
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-425
+      - CWE-862
   name: Joomla! com_booking component 2.4.9 - Information Leak
   author: r3Y3r53
   severity: high

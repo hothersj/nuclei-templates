@@ -1,6 +1,9 @@
 id: erensoft-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: ErenSoft - SQL Injection
   author: r3Y3r53
   severity: high

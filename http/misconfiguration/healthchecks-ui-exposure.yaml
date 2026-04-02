@@ -1,6 +1,10 @@
 id: healthchecks-ui-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Healthchecks UI Exposure
   author: tess
   severity: low

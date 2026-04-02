@@ -1,6 +1,10 @@
 id: drupal-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Drupal Directory Listing
   author: ritikchaddha
   severity: low

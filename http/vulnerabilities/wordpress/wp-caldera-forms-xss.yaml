@@ -14,7 +14,9 @@ info:
     - https://wpscan.com/vulnerability/c70219da-eab2-4d0b-ac5a-77f6d565ef31
     - https://wordpress.org/plugins/caldera-forms
   classification:
-    cwe-id: CWE-79
+    cwe-id:
+      - CWE-79
+      - CWE-80
     cpe: cpe:2.3:a:calderaf:caldera_forms:*:*:*:*:*:wordpress:*:*
   metadata:
     verified: true

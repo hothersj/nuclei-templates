@@ -1,6 +1,9 @@
 id: wp-widget-logic-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Widget Logic - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

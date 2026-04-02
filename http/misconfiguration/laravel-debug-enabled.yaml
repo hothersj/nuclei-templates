@@ -1,6 +1,9 @@
 id: laravel-debug-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Laravel Debug Enabled
   author: notsoevilweasel
   severity: medium

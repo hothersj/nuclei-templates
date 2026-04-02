@@ -1,6 +1,10 @@
 id: reactapp-env-js
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-540
   name: React App Environment Js
   author: random-robbie,rinolock
   severity: unknown

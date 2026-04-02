@@ -1,6 +1,11 @@
 id: phpmyadmin-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-306
+      - CWE-862
   name: phpMyAdmin - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

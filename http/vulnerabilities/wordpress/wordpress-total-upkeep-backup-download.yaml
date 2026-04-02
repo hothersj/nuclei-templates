@@ -1,6 +1,13 @@
 id: wordpress-total-upkeep-backup-download
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
+      - CWE-922
   name: WordPress Total Upkeep Database and Files Backup Download
   author: princechaddha
   severity: high

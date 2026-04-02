@@ -1,6 +1,10 @@
 id: wp-duplicate-page-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress Duplicate Page - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

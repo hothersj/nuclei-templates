@@ -1,6 +1,11 @@
 id: unauthenticated-jenkins
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Jenkins Dashboard - Unauthenticated Access
   author: dhiyaneshDK
   severity: high

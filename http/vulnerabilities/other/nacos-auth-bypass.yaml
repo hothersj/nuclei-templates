@@ -12,6 +12,11 @@ info:
     - https://zhuanlan.zhihu.com/p/602021283
   classification:
     cpe: cpe:2.3:a:alibaba:nacos:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-288
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

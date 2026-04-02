@@ -1,6 +1,11 @@
 id: token-json
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
+      - CWE-922
   name: Token Json File Disclosure
   author: DhiyaneshDK
   severity: low

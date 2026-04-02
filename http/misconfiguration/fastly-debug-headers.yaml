@@ -1,6 +1,10 @@
 id: fastly-debug-headers
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-213
   name: Fastly CDN Debug Headers Exposure
   author: pussycat0x
   severity: info

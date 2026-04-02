@@ -9,7 +9,9 @@ info:
   reference:
     - https://pip.pypa.io/en/stable/reference/requirements-file-format/
   classification:
-    cwe-id: CWE-538
+    cwe-id:
+      - CWE-219
+      - CWE-538
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
     cvss-score: 5.3
   metadata:

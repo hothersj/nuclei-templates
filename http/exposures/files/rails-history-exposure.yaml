@@ -1,6 +1,10 @@
 id: rails-history-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Rails/Ruby Console History - Exposure
   author: theamanrawat
   severity: medium

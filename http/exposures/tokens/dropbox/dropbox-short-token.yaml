@@ -1,6 +1,11 @@
 id: dropbox-short-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-552
+      - CWE-922
   name: Dropbox Short Lived API Token
   author: DhiyaneshDK
   severity: info

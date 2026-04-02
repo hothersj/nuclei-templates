@@ -7,6 +7,9 @@ info:
   description: Untangle Exposed Admin Signup is exposed publicly.
   classification:
     cpe: cpe:2.3:a:untangle:ng_firewall:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,11 @@
 id: fastcgi-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-219
+      - CWE-552
   name: FastCGI Configuration - File Disclosure
   author: DhiyaneshDk
   severity: medium

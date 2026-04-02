@@ -1,6 +1,9 @@
 id: chanjet-tplus-ufida-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Chanjet TPluse Ufida.T.SM.Login.UIP - SQL injection
   author: SleepingBag945
   severity: high

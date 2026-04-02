@@ -1,6 +1,11 @@
 id: config-properties
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-313
+      - CWE-538
   name: Config Properties Exposure
   author: j4vaovo,DhiyaneshDK
   severity: high

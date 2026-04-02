@@ -1,6 +1,9 @@
 id: zapier-webhook-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Zapier Webhook Disclosure
   author: Ice3man
   severity: info

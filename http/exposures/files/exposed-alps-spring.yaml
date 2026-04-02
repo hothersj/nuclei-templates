@@ -1,6 +1,11 @@
 id: exposed-alps-spring
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Exposed Spring Data REST Application-Level Profile Semantics (ALPS)
   author: dwisiswant0
   severity: medium

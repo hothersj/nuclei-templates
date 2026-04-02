@@ -1,6 +1,11 @@
 id: kace-sma-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: KACE Systems Management Appliance - Installer
   author: ritikchaddha
   severity: high

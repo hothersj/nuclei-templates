@@ -1,6 +1,11 @@
 id: sap-web-dispatcher-admin-portal
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: SAP Web Dispatcher admin portal detection
   author: randomstr1ng
   severity: info

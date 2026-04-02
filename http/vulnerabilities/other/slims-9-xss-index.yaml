@@ -1,6 +1,10 @@
 id: slims-9-xss-index
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Senayan Library Management System v9.5.2 (Bulian) - Cross-Site Scripting
   author: nblirwn
   severity: medium

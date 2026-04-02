@@ -1,6 +1,9 @@
 id: struts-debug-mode
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Apache Struts setup in Debug-Mode
   author: pdteam
   severity: low

@@ -1,6 +1,10 @@
 id: jan-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-434
   name: Jan - Arbitrary File Upload
   author: pussycat0x
   severity: high

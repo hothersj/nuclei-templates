@@ -1,6 +1,10 @@
 id: navidrome-admin-install
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Navidrome Admin User Creation
   author: DhiyaneshDK
   severity: critical

@@ -1,6 +1,10 @@
 id: nextjs-rsc-cache
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-444
   name: Next.js - Cache Poisoning
   author: DhiyaneshDk
   severity: high

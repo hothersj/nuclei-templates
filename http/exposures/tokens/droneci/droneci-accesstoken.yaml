@@ -1,6 +1,10 @@
 id: droneci-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Droneci Access Token
   author: DhiyaneshDK
   severity: info

@@ -6,6 +6,10 @@ info:
   severity: unknown
   classification:
     cpe: cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

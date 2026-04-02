@@ -1,6 +1,11 @@
 id: seeyon-createmysql-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-219
+      - CWE-552
   name: Seeyon OA A6 createMysql.jsp Database - Information Disclosure
   author: SleepingBag945
   severity: medium

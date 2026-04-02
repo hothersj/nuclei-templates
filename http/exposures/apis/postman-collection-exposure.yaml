@@ -1,6 +1,11 @@
 id: postman-collection-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-538
+      - CWE-922
   name: Postman Collection Exposure
   author: Hamza Sahin
   severity: low

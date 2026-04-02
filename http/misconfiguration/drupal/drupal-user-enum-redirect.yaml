@@ -6,6 +6,10 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-359
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 4

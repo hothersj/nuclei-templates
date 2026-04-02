@@ -9,6 +9,9 @@ info:
     - https://support.hypernode.com/en/support/solutions/articles/48001153348-how-to-secure-your-data-using-encryption-and-hashing
   classification:
     cpe: cpe:2.3:a:magento:magento:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-538
   metadata:
     verified: true
     max-request: 2

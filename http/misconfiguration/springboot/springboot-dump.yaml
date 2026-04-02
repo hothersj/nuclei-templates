@@ -1,6 +1,11 @@
 id: springboot-dump
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-306
+      - CWE-862
   name: Detect Springboot Dump Actuator
   author: pussycat0x
   severity: low

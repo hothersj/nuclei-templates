@@ -1,6 +1,10 @@
 id: lightstreamer-dashboard-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Lightstreamer Dashboard Exposure
   author: DhiyaneshDk
   severity: medium

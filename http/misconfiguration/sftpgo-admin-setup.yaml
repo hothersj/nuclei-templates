@@ -8,6 +8,10 @@ info:
     SFTPGo Admin Password setup page has been exposed.
   classification:
     cpe: cpe:2.3:a:sftpgo_project:sftpgo:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-285
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

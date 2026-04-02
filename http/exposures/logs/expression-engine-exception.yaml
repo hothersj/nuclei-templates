@@ -1,6 +1,10 @@
 id: expression-engine-exception
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: ExpressionEngine Exception - Page
   author: DhiyaneshDk
   severity: info

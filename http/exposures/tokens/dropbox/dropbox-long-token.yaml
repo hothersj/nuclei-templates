@@ -1,6 +1,11 @@
 id: dropbox-long-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-540
   name: Dropbox Long Lived API Token
   author: DhiyaneshDK
   severity: info

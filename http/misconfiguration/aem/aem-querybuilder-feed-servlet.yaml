@@ -1,6 +1,11 @@
 id: aem-querybuilder-feed-servlet
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
   name: AEM QueryBuilder Feed Servlet
   author: DhiyaneshDk
   severity: info

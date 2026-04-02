@@ -1,6 +1,10 @@
 id: opencart-error-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-538
   name: OpenCart Error Log Disclosure
   author: DhiyaneshDk
   severity: medium

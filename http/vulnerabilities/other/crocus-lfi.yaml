@@ -1,6 +1,10 @@
 id: crocus-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Crocus system Service.do - Arbitrary File Read
   author: pussycat0x
   severity: high

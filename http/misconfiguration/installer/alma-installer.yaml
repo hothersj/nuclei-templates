@@ -7,6 +7,10 @@ info:
   description: Alma is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:almapay:alma:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -7,6 +7,11 @@ info:
   description: Manage Engine AD Manager service can be configured to allow anonymous users to browse the AD list remotely.
   classification:
     cpe: cpe:2.3:a:zohocorp:manageengine_admanager_plus:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-359
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

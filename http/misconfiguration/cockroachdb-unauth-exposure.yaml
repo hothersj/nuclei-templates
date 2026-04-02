@@ -1,6 +1,11 @@
 id: cockroachdb-unauth-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: CockroachDB Unauthenticated Console Exposure
   author: pussycat0x
   severity: high

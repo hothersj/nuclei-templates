@@ -1,6 +1,11 @@
 id: domcfg-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Lotus Domino Configuration Page
   author: gevakun
   severity: low

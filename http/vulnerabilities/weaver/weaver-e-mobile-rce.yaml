@@ -1,6 +1,10 @@
 id: weaver-e-mobile-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-89
   name: Weaver E-mobile client.do - Remote Code Execution
   author: SleepingBag945
   severity: critical

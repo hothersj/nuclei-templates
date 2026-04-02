@@ -1,6 +1,11 @@
 id: unauth-etcd-server
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Etcd Server - Unauthenticated Access
   author: sharath,pussycat0x
   severity: high

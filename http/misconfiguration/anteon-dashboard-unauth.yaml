@@ -1,6 +1,11 @@
 id: anteon-dashboard-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Anteon Dashboard - Unauthenticated
   author: DhiyaneshDk
   severity: medium

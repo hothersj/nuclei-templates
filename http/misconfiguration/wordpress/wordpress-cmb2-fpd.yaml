@@ -1,6 +1,10 @@
 id: wordpress-cmb2-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: WordPress CMB2 - Full Path Disclosure
   author: ritikchaddha
   severity: low

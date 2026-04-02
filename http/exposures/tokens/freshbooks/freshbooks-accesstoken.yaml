@@ -1,6 +1,11 @@
 id: freshbooks-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: Freshbooks Access Token
   author: DhiyaneshDK
   severity: info

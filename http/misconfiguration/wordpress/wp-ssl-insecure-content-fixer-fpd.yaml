@@ -1,6 +1,9 @@
 id: wp-ssl-insecure-content-fixer-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin SSL Insecure Content Fixer - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

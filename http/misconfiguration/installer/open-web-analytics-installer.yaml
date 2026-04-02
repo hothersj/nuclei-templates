@@ -1,6 +1,12 @@
 id: open-web-analytics-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: Open Web Analytics Installer - Exposure
   author: DhiyaneshDK
   severity: high

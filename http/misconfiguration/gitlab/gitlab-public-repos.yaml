@@ -9,6 +9,9 @@ info:
     - https://github.com/ldionmarcil/gitlab-unauth-parser
   classification:
     cpe: cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     max-request: 1
     vendor: gitlab

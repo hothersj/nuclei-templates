@@ -10,6 +10,10 @@ info:
     - https://www.wowonder.com/
   classification:
     cpe: cpe:2.3:a:wowonder:wowonder:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

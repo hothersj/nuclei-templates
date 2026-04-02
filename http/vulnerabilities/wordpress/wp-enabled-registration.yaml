@@ -1,6 +1,10 @@
 id: wp-enabled-registration
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: WordPress user registration enabled
   author: Ratnadip Gajbhiye,ritikchaddha
   severity: info

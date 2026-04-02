@@ -1,6 +1,10 @@
 id: aws-access-key-value
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-798
   name: AWS Access Key ID Value
   author: Swissky
   severity: info

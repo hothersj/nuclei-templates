@@ -11,6 +11,10 @@ info:
     - https://github.com/kacperszurek/exploits/blob/master/Gitea/gitea_lfs_rce.py
   classification:
     cpe: cpe:2.3:a:gitea:gitea:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-35
   metadata:
     verified: true
     max-request: 3

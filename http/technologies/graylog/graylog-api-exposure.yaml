@@ -11,6 +11,10 @@ info:
     - https://gist.github.com/asachs01/f1f317b2924a688deb8ed2520a4520bd
   classification:
     cpe: cpe:2.3:a:graylog:graylog:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 50

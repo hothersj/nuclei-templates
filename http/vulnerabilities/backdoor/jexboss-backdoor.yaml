@@ -1,6 +1,10 @@
 id: jexboss-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-306
   name: JexBoss - Remote Code Execution
   author: UnkL4b
   severity: critical

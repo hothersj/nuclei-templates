@@ -1,6 +1,11 @@
 id: github-personal-access
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-922
   name: GitHub Personal Access Token
   author: DhiyaneshDK
   severity: high

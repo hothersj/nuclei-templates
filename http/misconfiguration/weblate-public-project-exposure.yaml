@@ -1,6 +1,11 @@
 id: weblate-public-project-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Weblate Public Project - Exposure
   author: ritikchaddha
   severity: info

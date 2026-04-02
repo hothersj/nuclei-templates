@@ -7,6 +7,10 @@ info:
   description: H3C server was able to be accessed with no authentication requirements in place.
   classification:
     cpe: cpe:2.3:h:h3c:secpath_f5060:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-89
+      - CWE-287
+      - CWE-306
   metadata:
     verified: true
     max-request: 1

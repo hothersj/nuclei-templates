@@ -1,6 +1,9 @@
 id: struts-problem-report
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Apache Struts Dev Mode - Detect
   author: dhiyaneshDK
   severity: low

@@ -1,6 +1,10 @@
 id: quickcms-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: QuickCMS Installation Wizard
   author: DhiyaneshDK
   severity: high

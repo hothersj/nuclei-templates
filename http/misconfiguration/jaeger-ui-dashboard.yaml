@@ -9,6 +9,9 @@ info:
     - https://www.jaegertracing.io/
   classification:
     cpe: cpe:2.3:a:jaegertracing:jaeger_ui:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

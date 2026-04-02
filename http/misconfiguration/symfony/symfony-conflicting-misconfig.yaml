@@ -1,6 +1,10 @@
 id: symfony-conflicting-misconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-213
   name: Symfony Conflicting Headers - Information Disclosure
   author: wakedxy
   severity: medium

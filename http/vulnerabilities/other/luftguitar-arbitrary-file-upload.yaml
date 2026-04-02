@@ -1,6 +1,10 @@
 id: luftguitar-arbitrary-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-434
+      - CWE-862
   name: Luftguitar CMS Arbitrary File Upload
   author: pikpikcu
   severity: high

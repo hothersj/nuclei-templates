@@ -7,6 +7,11 @@ info:
   description: ChatGPT Web is exposed.
   classification:
     cpe: cpe:2.3:a:chanzhaoyu:chatgpt_web:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

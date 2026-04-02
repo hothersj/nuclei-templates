@@ -1,6 +1,10 @@
 id: ruijie-rg-eg-web-mis-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Ruijie RG-EG - Remote Code Execution
   author: DhiyaneshDk
   severity: critical

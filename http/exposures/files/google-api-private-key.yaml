@@ -1,6 +1,11 @@
 id: google-api-private-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
+      - CWE-552
   name: Google Api Private Key
   author: DhiyaneshDK
   severity: medium

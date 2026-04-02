@@ -8,7 +8,9 @@ info:
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:L
     cvss-score: 4.6
-    cwe-id: CWE-284
+    cwe-id:
+      - CWE-306
+      - CWE-862
     cpe: cpe:2.3:a:redhat:openshift_assisted_installer:*:*:*:*:*:*:*:*
   metadata:
     verified: true

@@ -1,6 +1,10 @@
 id: ssrf-via-oauth-misconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-918
   name: SSRF due to misconfiguration in OAuth
   author: KabirSuda
   severity: medium

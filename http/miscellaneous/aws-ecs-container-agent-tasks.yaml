@@ -1,6 +1,9 @@
 id: aws-ecs-container-agent-tasks
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
   name: aws-ecs-container-agent-tasks
   author: dogasantos
   severity: info

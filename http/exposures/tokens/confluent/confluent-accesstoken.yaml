@@ -1,6 +1,11 @@
 id: confluent-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-538
+      - CWE-922
   name: Confluent Access Token
   author: DhiyaneshDK
   severity: info

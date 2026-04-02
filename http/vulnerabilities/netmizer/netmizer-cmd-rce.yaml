@@ -1,6 +1,10 @@
 id: netmizer-cmd-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: NetMizer LogManagement System cmd.php - Remote Code Execution
   author: DhiyaneshDk
   severity: critical

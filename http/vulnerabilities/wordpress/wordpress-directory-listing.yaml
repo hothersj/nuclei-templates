@@ -1,6 +1,10 @@
 id: wordpress-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Wordpress directory listing
   author: Manas_Harsh
   severity: info

@@ -1,6 +1,9 @@
 id: zero-spam-sql-injection
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: WordPress Zero Spam <= 2.1.1 - Blind SQL Injection
   author: theamanrawat
   severity: critical

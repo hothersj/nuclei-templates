@@ -1,6 +1,10 @@
 id: kubernetes-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Detect Kubernetes Exposed Metrics
   author: pussycat0x
   severity: low

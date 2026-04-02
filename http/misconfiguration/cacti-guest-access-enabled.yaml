@@ -1,6 +1,10 @@
 id: cacti-guest-access-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Cacti - Guest User Access Enabled
   author: DhiyaneshDk
   severity: medium

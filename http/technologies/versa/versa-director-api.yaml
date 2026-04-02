@@ -9,6 +9,8 @@ info:
     - https://versa-networks.com/products/components/
   classification:
     cpe: cpe:2.3:a:versa-networks:versa_director:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

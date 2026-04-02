@@ -1,6 +1,11 @@
 id: opencpu-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-94
+      - CWE-95
   name: OpenCPU - Remote Code Execution
   author: wa1tf0rme
   severity: critical

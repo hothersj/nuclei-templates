@@ -1,6 +1,11 @@
 id: wordpress-social-metrics-tracker
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: Social Metrics Tracker <= 1.6.8 - Unauthorised Data Export
   author: randomrobbie
   severity: medium

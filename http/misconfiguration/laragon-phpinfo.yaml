@@ -1,6 +1,9 @@
 id: laragon-phpinfo
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
   name: Laragon - phpinfo Disclosure
   author: DhiyaneshDk
   severity: low

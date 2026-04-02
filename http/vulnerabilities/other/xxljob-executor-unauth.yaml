@@ -11,6 +11,9 @@ info:
     - https://github.com/vulhub/vulhub/blob/master/xxl-job/unacc/README.md
   classification:
     cpe: cpe:2.3:a:xuxueli:xxl-job:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-78
+      - CWE-306
   metadata:
     verified: true
     max-request: 2

@@ -1,6 +1,9 @@
 id: csp-script-src-wildcard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-942
   name: Content-Security-Policy "script-src" Wildcard Detected
   author: pussycat0x
   severity: info

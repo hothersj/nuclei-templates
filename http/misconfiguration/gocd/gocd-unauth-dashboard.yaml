@@ -7,6 +7,11 @@ info:
   description: GoCd Dashboard is exposed.
   classification:
     cpe: cpe:2.3:a:thoughtworks:gocd:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 1
     vendor: thoughtworks

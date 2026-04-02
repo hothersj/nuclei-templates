@@ -1,6 +1,10 @@
 id: dont-panic-traceback
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: DON'T PANIC Traceback
   author: ritikchaddha
   severity: low

@@ -1,6 +1,9 @@
 id: oauth-authorization-server-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: Well-Known OAuth Authorization Server Metadata
   author: rxerium
   severity: info

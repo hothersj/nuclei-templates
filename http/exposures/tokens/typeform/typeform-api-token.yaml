@@ -1,6 +1,10 @@
 id: typeform-api-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-798
   name: Typeform API Token
   author: DhiyaneshDK
   severity: info

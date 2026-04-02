@@ -1,6 +1,10 @@
 id: springboot-configprops
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Detect Springboot Configprops Actuator
   author: that_juan_,dwisiswant0,wdahlenb
   severity: low

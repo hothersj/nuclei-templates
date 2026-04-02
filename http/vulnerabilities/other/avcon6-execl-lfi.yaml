@@ -1,6 +1,11 @@
 id: avcon6-execl-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: AVCON6 org_execl_download.action - Arbitrary File Download
   author: DhiyaneshDk
   severity: high

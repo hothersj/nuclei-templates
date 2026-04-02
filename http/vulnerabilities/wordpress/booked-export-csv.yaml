@@ -13,6 +13,11 @@ info:
     - https://wpscan.com/vulnerability/10107
   classification:
     cpe: cpe:2.3:a:twinkletoessoftware:booked:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-285
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

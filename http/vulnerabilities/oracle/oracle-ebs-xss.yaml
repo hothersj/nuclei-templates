@@ -1,6 +1,10 @@
 id: oracle-ebs-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Oracle E-Business Suite - Cross-Site Scripting
   author: dhiyaneshDk
   severity: medium

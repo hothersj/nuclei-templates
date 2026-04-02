@@ -1,6 +1,11 @@
 id: salesforce-b2c-commerce-webdav
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Salesforce B2C Commerce WebDAV - Detection
   author: batutahibnu17
   severity: info

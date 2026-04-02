@@ -10,6 +10,9 @@ info:
     - https://github.com/bugzilla/bugzilla/
   classification:
     cpe: cpe:2.3:a:mozilla:bugzilla:-:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-538
   metadata:
     max-request: 1
     vendor: mozilla

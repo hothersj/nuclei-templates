@@ -1,6 +1,10 @@
 id: aws-object-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-862
   name: AWS bucket with Object listing
   author: pdteam
   severity: low

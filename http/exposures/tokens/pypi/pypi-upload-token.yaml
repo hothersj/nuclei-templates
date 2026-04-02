@@ -1,6 +1,11 @@
 id: pypi-upload-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-312
+      - CWE-522
   name: PyPI Upload Token
   author: DhiyaneshDK
   severity: info

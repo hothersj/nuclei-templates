@@ -1,6 +1,9 @@
 id: wordpress-amp-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress AMP - Full Path Disclosure
   author: pussycat0x
   severity: low

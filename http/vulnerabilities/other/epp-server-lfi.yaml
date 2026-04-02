@@ -1,6 +1,11 @@
 id: epp-server-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: EPP Server - Local File Inclusion
   author: DhiyaneshDK
   severity: high

@@ -1,6 +1,11 @@
 id: commax-biometric-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-290
+      - CWE-302
+      - CWE-807
   name: COMMAX Biometric Access Control System 1.0.0 - Authentication Bypass
   author: gy741
   severity: critical

@@ -1,6 +1,9 @@
 id: amazon-sns-topic
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Amazon SNS Topic Disclosure
   author: Ice3man
   severity: info

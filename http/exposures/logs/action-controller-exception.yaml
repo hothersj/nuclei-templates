@@ -1,6 +1,9 @@
 id: action-controller-exception
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Action Controller Exception - Page
   author: DhiyaneshDk
   severity: info

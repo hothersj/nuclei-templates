@@ -1,6 +1,10 @@
 id: gitea-public-repo-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Gitea Public Repository - Exposure
   author: theamanrawat
   severity: low

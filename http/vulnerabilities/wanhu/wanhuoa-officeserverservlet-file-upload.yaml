@@ -1,6 +1,9 @@
 id: wanhuoa-officeserverservlet-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-434
   name: Wanhu OA OfficeServerServlet - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

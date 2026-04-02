@@ -1,6 +1,11 @@
 id: sharepoint-exposed-login-endpoint
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Microsoft SharePoint - Exposed Login Endpoint
   author: pussycat0x
   severity: info

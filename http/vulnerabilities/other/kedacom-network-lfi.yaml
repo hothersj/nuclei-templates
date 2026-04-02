@@ -1,6 +1,10 @@
 id: kedacom-network-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: Kedacom Network Keyboard Console - Arbitrary File Read
   author: DhiyaneshDk
   severity: high

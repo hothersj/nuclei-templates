@@ -1,6 +1,10 @@
 id: wordpress-events-manager-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: WordPress Events Manager - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

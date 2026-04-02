@@ -1,6 +1,9 @@
 id: vmware-vcenter-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-918
   name: VMware vCenter - Server-Side Request Forgery/Local File Inclusion/Cross-Site Scripting
   author: pdteam
   severity: critical

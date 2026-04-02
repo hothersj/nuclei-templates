@@ -1,6 +1,10 @@
 id: slims-8-akasia-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Senayan Library Management System v8.3.1 (Akasia) - Cross-Site Scripting
   author: nblirwn
   severity: medium

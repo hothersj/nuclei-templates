@@ -1,6 +1,11 @@
 id: coremail-config-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Coremail - Config Discovery
   author: princechaddha
   severity: high

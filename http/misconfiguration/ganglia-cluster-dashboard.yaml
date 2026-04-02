@@ -8,6 +8,9 @@ info:
     Ganglia Cluster dashboard was detected.
   classification:
     cpe: cpe:2.3:a:ganglia:ganglia-web:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

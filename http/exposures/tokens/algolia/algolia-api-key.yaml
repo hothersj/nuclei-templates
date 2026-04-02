@@ -1,6 +1,11 @@
 id: algolia-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
+      - CWE-922
   name: Algolia API Key
   author: DhiyaneshDK
   severity: info

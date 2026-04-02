@@ -1,6 +1,9 @@
 id: notificationx-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: NotificationX < 2.3.12 - SQL Injection
   author: theamanrawat
   severity: high

@@ -1,6 +1,10 @@
 id: jira-unauthenticated-projectcategories
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Jira Unauthenticated Project Categories
   author: TESS
   severity: info

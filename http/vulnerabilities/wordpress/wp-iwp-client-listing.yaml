@@ -1,6 +1,10 @@
 id: wp-iwp-client-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress Plugin Iwp-client Listing
   author: pussycat0x
   severity: info

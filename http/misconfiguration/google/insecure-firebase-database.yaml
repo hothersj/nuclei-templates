@@ -1,6 +1,10 @@
 id: insecure-firebase-database
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-863
   name: Insecure Firebase Database
   author: rafaelwdornelas
   severity: high

@@ -1,6 +1,11 @@
 id: docker-hub-pat
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
+      - CWE-552
   name: Docker Hub Personal Access Token
   author: DhiyaneshDK
   severity: info

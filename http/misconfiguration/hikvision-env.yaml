@@ -1,6 +1,10 @@
 id: hikvision-env
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-306
   name: Hikvision Springboot Env Actuator - Detect
   author: SleepingBag945
   severity: high

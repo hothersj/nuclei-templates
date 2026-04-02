@@ -1,6 +1,10 @@
 id: springboot-gateway
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Detect Spring Gateway Actuator
   author: wdahlenb
   severity: medium

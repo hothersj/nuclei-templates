@@ -1,6 +1,11 @@
 id: sendbird-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: SendBird Access Token
   author: DhiyaneshDK
   severity: info

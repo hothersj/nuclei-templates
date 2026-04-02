@@ -1,6 +1,10 @@
 id: codeclimate-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: CodeClimate Configuration File - Exposure
   author: 0x_Akoko
   severity: info

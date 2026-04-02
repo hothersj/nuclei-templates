@@ -1,6 +1,10 @@
 id: twitter-client-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-540
   name: Twitter Client ID
   author: DhiyaneshDK
   severity: info

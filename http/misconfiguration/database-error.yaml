@@ -1,6 +1,9 @@
 id: database-error
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Database Error
   author: dhiyaneshDK
   severity: info

@@ -1,6 +1,11 @@
 id: shopify-public-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-319
+      - CWE-922
   name: Shopify Access Token (Public App)
   author: DhiyaneshDK
   severity: info

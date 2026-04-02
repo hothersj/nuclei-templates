@@ -1,6 +1,10 @@
 id: podcast-generator-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-91
+      - CWE-918
   name: PodcastGenerator 3.2.9 - Blind SSRF via XML Injection
   author: ritikchaddha,MrHarshvardhan
   severity: high

@@ -9,7 +9,8 @@ info:
   reference:
     - https://magento.com
   classification:
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-209
   metadata:
     max-request: 4
     verified: true

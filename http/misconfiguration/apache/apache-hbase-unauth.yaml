@@ -1,6 +1,13 @@
 id: apache-hbase-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Apache Hbase Unauth
   author: pikpikcu
   severity: medium

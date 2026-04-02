@@ -1,6 +1,11 @@
 id: jira-unauthenticated-resolutions
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Jira Unauthenticated Resolutions
   author: TESS
   severity: info

@@ -1,6 +1,11 @@
 id: confluence-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Confluence Installation Page - Exposure
   author: DhiyaneshDK
   severity: high

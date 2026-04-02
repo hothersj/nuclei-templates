@@ -1,6 +1,11 @@
 id: missing-sri
 
 info:
+  classification:
+    cwe-id:
+      - CWE-345
+      - CWE-353
+      - CWE-494
   name: Missing Subresource Integrity
   author: lucky0x0d,PulseSecurity.co.nz,sullo amarsct
   severity: info

@@ -1,6 +1,10 @@
 id: codis-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Codis Dashboard Exposure
   author: tess
   severity: low

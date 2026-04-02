@@ -1,6 +1,9 @@
 id: wp-user-role-editor-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: User Role Editor - Full Path Disclosure
   author: theamanrawat
   severity: low

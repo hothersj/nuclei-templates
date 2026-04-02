@@ -1,6 +1,10 @@
 id: weaver-login-sessionkey
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-862
   name: OA E-Mobile login_quick.php - Login SessionKey
   author: SleepingBag945
   severity: high

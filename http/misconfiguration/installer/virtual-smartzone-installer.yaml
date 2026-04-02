@@ -1,6 +1,10 @@
 id: virtual-smartzone-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Virtual SmartZone Setup Wizard - Exposure
   author: DhiyaneshDK
   severity: high

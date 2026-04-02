@@ -1,6 +1,11 @@
 id: airtable-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: Airtable API Key
   author: DhiyaneshDK
   severity: info

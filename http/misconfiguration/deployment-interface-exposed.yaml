@@ -1,6 +1,10 @@
 id: deployment-interface-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Deployment Management Interface - Exposed
   author: DhiyaneshDK
   severity: medium

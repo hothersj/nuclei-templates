@@ -1,6 +1,10 @@
 id: yonyou-nc-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: UFIDA NC - Arbitrary File Read
   author: vva
   severity: high

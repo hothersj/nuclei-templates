@@ -9,6 +9,9 @@ info:
     - https://docs.browserless.io/docs/docker.html#securing-your-instance
   classification:
     cpe: cpe:2.3:a:browserless:chrome:*:*:*:*:node.js:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     max-request: 1
     vendor: browserless

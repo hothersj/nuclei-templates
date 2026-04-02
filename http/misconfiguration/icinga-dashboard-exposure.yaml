@@ -1,6 +1,10 @@
 id: icinga-dashboard-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Icinga Exposed Dashboard
   author: DhiyaneshDk
   severity: medium

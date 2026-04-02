@@ -1,6 +1,9 @@
 id: readymade-unilevel-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Readymade Unilevel Ecommerce MLM - SQL Injection
   author: s4e-io
   severity: high

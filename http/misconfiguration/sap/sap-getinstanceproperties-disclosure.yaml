@@ -1,6 +1,10 @@
 id: sap-getinstanceproperties-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SAPControl Webmethods - Disclosure
   author: LRVT,l4rm4nd
   severity: medium

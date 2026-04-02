@@ -1,6 +1,10 @@
 id: sumologic-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: Sumologic Access Token
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,11 @@
 id: dahua-wpms-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-502
+      - CWE-918
   name: Dahua Smart Park Integrated Management Platform - Remote Command Execution
   author: DhiyaneshDK
   severity: critical

@@ -1,6 +1,10 @@
 id: wp-better-wp-security-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress Plugin iThemes Security - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

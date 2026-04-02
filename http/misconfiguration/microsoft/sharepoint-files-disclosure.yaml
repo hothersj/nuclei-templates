@@ -1,6 +1,10 @@
 id: sharepoint-files-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Microsoft SharePoint Files Disclosure
   author: pussycat0x
   severity: info

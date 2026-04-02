@@ -1,6 +1,9 @@
 id: aws-xray-application
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: AWS X-Ray Sample Application
   author: DhiyaneshDk
   severity: info

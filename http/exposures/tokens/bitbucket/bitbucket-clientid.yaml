@@ -1,6 +1,10 @@
 id: bitbucket-clientid
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: BitBucket Client ID
   author: DhiyaneshDK
   severity: info

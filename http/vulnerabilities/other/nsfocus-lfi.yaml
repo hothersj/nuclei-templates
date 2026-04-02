@@ -1,6 +1,11 @@
 id: nsfocus-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Nsfocus - Arbitrary File Read
   author: ritikchaddha
   severity: high

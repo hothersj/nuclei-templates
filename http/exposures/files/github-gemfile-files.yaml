@@ -1,6 +1,11 @@
 id: github-gemfile-files
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Github Gemfiles
   author: hahwul
   severity: info

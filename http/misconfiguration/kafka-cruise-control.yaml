@@ -1,6 +1,10 @@
 id: kafka-cruise-control
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Kafka Cruise Control UI
   author: dhiyaneshDK
   severity: medium

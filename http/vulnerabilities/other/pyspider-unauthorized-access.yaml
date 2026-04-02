@@ -1,6 +1,10 @@
 id: pyspider-unauthorized-access
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-306
   name: Pyspider Unauthorized Access
   author: ritikchaddha
   severity: high

@@ -1,6 +1,10 @@
 id: envoy-metadata-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-213
   name: Envoy Proxy - Metadata Disclosure
   author: theamanrawat
   severity: info

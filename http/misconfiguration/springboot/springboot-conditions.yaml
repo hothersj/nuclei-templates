@@ -1,6 +1,10 @@
 id: springboot-conditions
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Detect Springboot Conditions Actuator
   author: DhiyaneshDK
   severity: low

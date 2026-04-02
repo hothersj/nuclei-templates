@@ -1,6 +1,10 @@
 id: jfrog-unauth-build-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: JFrog Unauthentication Builds
   author: dhiyaneshDK
   severity: medium

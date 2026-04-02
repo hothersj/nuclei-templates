@@ -1,6 +1,11 @@
 id: photoprism-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: PhotoPrism - Unauth Access
   author: ritikchaddha
   severity: high

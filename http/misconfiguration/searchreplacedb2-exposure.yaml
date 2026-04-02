@@ -1,6 +1,11 @@
 id: searchreplacedb2-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Safe Search Replace Exposure
   author: kazet
   severity: high

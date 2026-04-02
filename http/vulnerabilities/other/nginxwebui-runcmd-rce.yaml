@@ -1,6 +1,10 @@
 id: nginxwebui-runcmd-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: nginxWebUI ≤ 3.5.0 runCmd - Remote Command Execution
   author: DhiyaneshDk
   severity: critical

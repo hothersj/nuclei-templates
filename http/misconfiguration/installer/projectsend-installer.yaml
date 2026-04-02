@@ -10,6 +10,11 @@ info:
     - https://www.projectsend.org/
   classification:
     cpe: cpe:2.3:a:projectsend:projectsend:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

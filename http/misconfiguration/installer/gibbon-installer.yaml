@@ -1,6 +1,11 @@
 id: gibbon-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Gibbon Installer - Exposure
   author: DhiyaneshDK
   severity: high

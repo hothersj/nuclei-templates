@@ -1,6 +1,10 @@
 id: wp-vr-view-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: WP VR-View Plugin - Cross-Site Scripting
   author: ritikchaddha
   severity: high

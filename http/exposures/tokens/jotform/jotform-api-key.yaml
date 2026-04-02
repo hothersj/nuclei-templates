@@ -1,6 +1,10 @@
 id: jotform-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-798
   name: Jotform API Key
   author: Shankar Acharya
   severity: info

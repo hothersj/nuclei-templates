@@ -1,6 +1,10 @@
 id: user-management-system-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-287
   name: User Management/Registration & Login v3.0 - SQL Injection
   author: f0xy
   severity: high

@@ -1,6 +1,10 @@
 id: stripe-restricted-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: Stripe Restricted Key Disclosure
   author: Ice3man
   severity: info

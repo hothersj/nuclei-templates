@@ -1,6 +1,11 @@
 id: vault-batch-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: Vault Batch Token
   author: DhiyaneshDK
   severity: info

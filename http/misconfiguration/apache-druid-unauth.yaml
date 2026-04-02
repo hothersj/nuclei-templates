@@ -7,6 +7,10 @@ info:
   description: Apache Druid is exposed to external users.
   classification:
     cpe: cpe:2.3:a:apache:druid:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

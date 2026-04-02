@@ -1,6 +1,10 @@
 id: dkron-unauth-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-306
   name: Dkron - Unauthenticated Remote Command Execution
   author: icarot
   severity: high

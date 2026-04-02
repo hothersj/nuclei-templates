@@ -11,6 +11,10 @@ info:
     - https://github.com/zhangzhenfeng/AnyScan/blob/master/AnyScanUI/AnyPoc/data/poc/bugscan/exp%EF%BC%8D2311.py
   classification:
     cpe: cpe:2.3:a:yonyou:ufida-nc:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

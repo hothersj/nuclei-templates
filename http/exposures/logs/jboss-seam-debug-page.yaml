@@ -1,6 +1,9 @@
 id: jboss-seam-debug-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Jboss Seam Debug Page Enabled
   author: dhiyaneshDK
   severity: medium

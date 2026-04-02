@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:openresty:openresty:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     max-request: 1
     vendor: openresty

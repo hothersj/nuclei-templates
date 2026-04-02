@@ -1,6 +1,10 @@
 id: office-suite-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Office Suite Premium < 10.9.1.42602 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

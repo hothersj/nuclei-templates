@@ -1,6 +1,9 @@
 id: etcd-version
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: Etcd Version - Detect
   author: pussycat0x
   severity: info

@@ -1,6 +1,11 @@
 id: tiny-file-manager-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Tiny File Manager - Unauthorized Access
   author: ritikchaddha,HuTa0
   severity: medium

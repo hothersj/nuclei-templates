@@ -1,6 +1,9 @@
 id: shiziyu-cms-apicontroller-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Shiziyu CMS Api Controller - SQL Injection
   author: SleepingBag945
   severity: high

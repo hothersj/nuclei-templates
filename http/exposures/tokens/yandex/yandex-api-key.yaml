@@ -1,6 +1,12 @@
 id: yandex-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-312
+      - CWE-319
+      - CWE-522
   name: Yandex API Key
   author: DhiyaneshDK
   severity: info

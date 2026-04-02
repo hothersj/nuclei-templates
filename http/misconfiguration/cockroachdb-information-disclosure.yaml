@@ -1,6 +1,10 @@
 id: cockroachdb-information-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: CockroachDB Information Disclosure
   author: pussycat0x
   severity: medium

@@ -1,6 +1,11 @@
 id: wp-gravity-forms-log-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-862
   name: WordPress Gravity Forms - Log File Disclosure
   author: ritikchaddha
   severity: low

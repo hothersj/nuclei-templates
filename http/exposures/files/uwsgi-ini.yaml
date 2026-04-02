@@ -6,6 +6,11 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:unbit:uwsgi:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

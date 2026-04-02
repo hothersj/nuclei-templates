@@ -1,6 +1,10 @@
 id: sonarqube-public-projects
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Sonarqube with public projects
   author: sickwell
   severity: low

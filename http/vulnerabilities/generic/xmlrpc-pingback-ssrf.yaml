@@ -1,6 +1,9 @@
 id: xmlrpc-pingback-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-918
   name: XMLRPC Pingback SSRF
   author: geeknik
   severity: high

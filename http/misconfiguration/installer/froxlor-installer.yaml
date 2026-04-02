@@ -10,6 +10,11 @@ info:
     - https://www.exploit-db.com/ghdb/8397
   classification:
     cpe: cpe:2.3:a:froxlor:froxlor:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

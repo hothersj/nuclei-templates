@@ -1,6 +1,11 @@
 id: zhiyuan-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
+      - CWE-434
   name: Zhiyuan OA Arbitrary File Upload Vulnerability
   author: gy741
   severity: critical

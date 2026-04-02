@@ -1,6 +1,9 @@
 id: chanjet-tplus-checkmutex-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Chanjet Tplus CheckMutex - SQL Injection
   author: unknown
   severity: high

@@ -1,6 +1,11 @@
 id: aws-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-552
+      - CWE-922
   name: AWS API Key
   author: DhiyaneshDK
   severity: info

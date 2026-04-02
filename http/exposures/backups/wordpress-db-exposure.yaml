@@ -10,7 +10,10 @@ info:
     - https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload
     - https://wordpress.org/support/article/backing-up-your-database/
   classification:
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-219
+      - CWE-313
+      - CWE-538
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
     cvss-score: 7.5
   metadata:

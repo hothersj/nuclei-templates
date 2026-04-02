@@ -1,6 +1,9 @@
 id: apple-app-site-association
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: Apple app site association for harvesting end points
   author: panch0r3d
   severity: info

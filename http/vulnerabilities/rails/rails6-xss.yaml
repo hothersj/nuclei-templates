@@ -6,6 +6,9 @@ id: rails6-xss
 #  Working poc by @Mad-robot
 # /rails/actions?error=ActiveRecord::PendingMigrationError&action=Run%20pending%20migrations&location=%0Djavascript%3Aalert%28document.domain%29
 info:
+  classification:
+    cwe-id:
+      - CWE-79
   name: Ruby on Rails - CRLF Injection and Cross-Site Scripting
   author: ooooooo_q,rootxharsh,iamnoooob
   severity: medium

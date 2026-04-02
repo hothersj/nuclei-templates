@@ -1,6 +1,11 @@
 id: wp-config-setup
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: WordPress Setup Configuration
   author: princechaddha
   severity: high

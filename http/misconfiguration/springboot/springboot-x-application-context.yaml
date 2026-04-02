@@ -1,6 +1,9 @@
 id: springboot-x-application-context
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Spring Boot `X-Application-Context` Header Exposure
   author: DhiyaneshDK
   severity: low

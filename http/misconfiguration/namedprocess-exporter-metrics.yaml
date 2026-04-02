@@ -1,6 +1,10 @@
 id: namedprocess-exporter-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Named Process Exporter
   author: DhiyaneshDk
   severity: low

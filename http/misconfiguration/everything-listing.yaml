@@ -10,6 +10,9 @@ info:
     - https://www.voidtools.com/
   classification:
     cpe: cpe:2.3:a:voidtools:everything:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-548
+      - CWE-552
   metadata:
     verified: 'true'
     max-request: 1

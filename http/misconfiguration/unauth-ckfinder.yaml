@@ -1,6 +1,11 @@
 id: unauth-ckfinder
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: CKFinder - Unauthenticated Exposure
   author: Amjad Ali
   severity: high

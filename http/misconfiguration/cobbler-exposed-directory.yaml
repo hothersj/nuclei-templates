@@ -1,6 +1,10 @@
 id: cobbler-exposed-directory
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Exposed Cobbler Directories
   author: c-sh0
   severity: medium

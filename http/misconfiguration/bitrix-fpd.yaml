@@ -1,6 +1,9 @@
 id: bitrix-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Bitrix Path Disclosure
   author: DhiyaneshDk
   severity: low

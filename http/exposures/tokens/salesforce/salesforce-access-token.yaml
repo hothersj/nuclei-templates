@@ -1,6 +1,11 @@
 id: salesforce-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-312
+      - CWE-522
   name: Salesforce Access Token
   author: DhiyaneshDK
   severity: info

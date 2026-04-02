@@ -1,6 +1,10 @@
 id: sitecore-debug-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-11
+      - CWE-209
   name: SiteCore Debug Page
   author: dhiyaneshDK
   severity: low

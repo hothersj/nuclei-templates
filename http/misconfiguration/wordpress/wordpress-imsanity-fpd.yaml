@@ -1,6 +1,9 @@
 id: wordpress-imsanity-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin Imsanity - Full Path Disclosure
   author: ritikchaddha
   severity: low

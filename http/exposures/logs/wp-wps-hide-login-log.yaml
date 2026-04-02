@@ -1,6 +1,10 @@
 id: wp-wps-hide-login-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-538
   name: WordPress WPS Hide Login - Error Log Disclosure
   author: pussycat0x
   severity: low

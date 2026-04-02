@@ -1,6 +1,10 @@
 id: wp-responsive-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress Coming Soon Page - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

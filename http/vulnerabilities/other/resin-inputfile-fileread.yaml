@@ -1,6 +1,11 @@
 id: resin-inputfile-fileread
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Caucho Resin LFR
   author: princechaddha
   severity: high

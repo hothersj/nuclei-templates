@@ -1,6 +1,9 @@
 id: sound4-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
   name: SOUND4 Impact/Pulse/First/Eco <=2.x - Information Disclosure
   author: arafatansari
   severity: medium

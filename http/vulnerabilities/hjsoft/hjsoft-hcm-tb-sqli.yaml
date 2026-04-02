@@ -1,6 +1,9 @@
 id: hjsoft-hcm-tb-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Hongjing HCM - Time-Based Sql Injection
   author: s4e-io
   severity: high

@@ -10,6 +10,10 @@ info:
     - https://tastyigniter.com/
   classification:
     cpe: cpe:2.3:a:tastyigniter:tastyigniter:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,10 @@
 id: jenkins-stack-trace
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-537
   name: Detect Jenkins in Debug Mode with Stack Traces Enabled
   author: Dheerajmadhukar
   severity: low

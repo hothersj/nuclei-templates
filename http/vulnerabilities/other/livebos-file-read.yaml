@@ -1,6 +1,11 @@
 id: livebos-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: LiveBOS ShowImage.do - Arbitrary File Read
   author: yusakie
   severity: high

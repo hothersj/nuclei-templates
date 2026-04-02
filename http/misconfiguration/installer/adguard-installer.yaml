@@ -8,6 +8,10 @@ info:
     AdGuard Installation panel has been exposed.
   classification:
     cpe: cpe:2.3:a:adguard:adguard:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,9 @@
 id: pmb-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: PMB <= 7.4.6 - SQL Injection
   author: r3Y3r53
   severity: high

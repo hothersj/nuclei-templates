@@ -1,6 +1,11 @@
 id: ffserver-status
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: FFserver Status Detect
   author: notnotnotveg,tess
   severity: low

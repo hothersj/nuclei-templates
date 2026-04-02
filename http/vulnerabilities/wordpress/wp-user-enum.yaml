@@ -16,6 +16,11 @@ info:
     - https://www.afteractive.com/wordpress-user-enumeration-vulnerability/
   classification:
     cpe: cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

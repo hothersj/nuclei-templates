@@ -1,6 +1,11 @@
 id: lvmeng-uts-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-522
+      - CWE-862
   name: Lvmeng - UTS Disclosure
   author: pikpikcu
   severity: high

@@ -1,6 +1,10 @@
 id: sap-listconfigfiles-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SAPControl ListConfigFiles - Disclosure
   author: LRVT,l4rm4nd
   severity: medium

@@ -1,6 +1,10 @@
 id: kcfinder-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-434
   name: KCFinder - Exposure
   author: theamanrawat
   severity: high

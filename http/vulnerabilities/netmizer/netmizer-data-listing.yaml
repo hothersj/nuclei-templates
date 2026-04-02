@@ -1,6 +1,10 @@
 id: netmizer-data-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: NetMizer LogManagement System Data - Directory Exposure
   author: DhiyaneshDk
   severity: high

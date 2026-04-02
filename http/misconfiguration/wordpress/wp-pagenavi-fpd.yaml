@@ -1,6 +1,9 @@
 id: wp-pagenavi-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress WP-PageNavi - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

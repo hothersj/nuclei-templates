@@ -1,6 +1,10 @@
 id: twitter-bearer-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-312
   name: Twitter Bearer Token
   author: DhiyaneshDK
   severity: info

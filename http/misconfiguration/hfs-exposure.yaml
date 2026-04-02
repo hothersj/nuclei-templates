@@ -6,6 +6,10 @@ info:
   severity: unknown
   classification:
     cpe: cpe:2.3:a:rejetto:http_file_server:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 1

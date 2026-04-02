@@ -1,6 +1,10 @@
 id: joomla-joombri-careers-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Joomla JoomBri Careers 3.3.0 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

@@ -1,6 +1,10 @@
 id: joomla-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: Joomla! - Full Path Disclosure
   author: pussycat0x
   severity: low

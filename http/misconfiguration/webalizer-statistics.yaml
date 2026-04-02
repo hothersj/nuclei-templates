@@ -1,6 +1,10 @@
 id: webalizer-statistics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-552
+      - CWE-862
   name: Webalizer Statistics Information Disclosure
   author: 0x_Akoko
   severity: low

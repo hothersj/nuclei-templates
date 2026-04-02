@@ -1,6 +1,12 @@
 id: stackposts-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: StackPosts Installation Page - Exposure
   author: DhiyaneshDK
   severity: high

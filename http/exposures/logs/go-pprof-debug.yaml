@@ -1,6 +1,9 @@
 id: go-pprof-debug
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Go pprof Debug Page
   author: w8ay
   severity: low

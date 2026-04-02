@@ -1,6 +1,9 @@
 id: wp-easy-fancybox-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Easy FancyBox - Full Path Disclosure
   author: theamanrawat
   severity: low

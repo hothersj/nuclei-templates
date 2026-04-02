@@ -1,6 +1,10 @@
 id: gitlab-user-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-799
   name: GitLab - User Enumeration
   author: Suman_Kar
   severity: info

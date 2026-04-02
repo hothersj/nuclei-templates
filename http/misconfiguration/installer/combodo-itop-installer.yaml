@@ -9,6 +9,11 @@ info:
     - https://www.itophub.io/wiki/page?id=2_4_0:install:install_wizard
   classification:
     cpe: cpe:2.3:a:combodo:itop:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

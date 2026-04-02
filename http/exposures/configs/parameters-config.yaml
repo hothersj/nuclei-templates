@@ -1,6 +1,11 @@
 id: parameters-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-313
+      - CWE-538
   name: Parameters.yml - File Discovery
   author: DhiyaneshDK
   severity: high

@@ -1,6 +1,11 @@
 id: wp-admin-menu-editor-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-306
+      - CWE-862
   name: Admin Menu Editor - Full Path Disclosure
   author: theamanrawat
   severity: low

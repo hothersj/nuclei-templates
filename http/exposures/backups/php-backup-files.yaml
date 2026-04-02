@@ -1,6 +1,10 @@
 id: php-backup-files
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-260
   name: PHP Source - Backup File Information Disclosure
   author: StreetOfHackerR007,pwnhxl,mastercho,0xpugal
   severity: medium

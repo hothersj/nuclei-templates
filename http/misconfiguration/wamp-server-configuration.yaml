@@ -1,6 +1,9 @@
 id: wamp-server-configuration
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: default-wamp-server-page
   author: pussycat0x
   severity: medium

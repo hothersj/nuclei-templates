@@ -1,6 +1,10 @@
 id: p7-office-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Р7-Office 12.5 - Cross-Site Scripting
   author: 0xpugal
   severity: medium

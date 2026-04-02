@@ -1,6 +1,11 @@
 id: aspose-ie-file-download
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: WordPress Aspose Importer & Exporter 1.0 - Local File Inclusion
   author: 0x_Akoko
   severity: high

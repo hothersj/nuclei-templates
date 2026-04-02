@@ -1,6 +1,10 @@
 id: webigniter-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Webigniter 28.7.23 - Cross-Site Scripting
   author: theamanrawat
   severity: medium

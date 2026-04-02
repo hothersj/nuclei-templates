@@ -1,6 +1,10 @@
 id: routes-ini
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: routes.ini File Exposure
   author: geeknik
   severity: info

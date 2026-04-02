@@ -1,6 +1,10 @@
 id: nuxt-js-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Nuxt.js Error Page - Cross-Site Scripting
   author: DhiyaneshDK
   severity: medium

@@ -1,6 +1,11 @@
 id: openai-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-798
+      - CWE-922
   name: OpenAI API Key
   author: DhiyaneshDK,Chemo850
   severity: info

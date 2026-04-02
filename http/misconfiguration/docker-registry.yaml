@@ -1,6 +1,10 @@
 id: docker-registry
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-552
   name: Docker Registry Listing
   author: puzzlepeaches
   severity: medium

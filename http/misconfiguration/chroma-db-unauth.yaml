@@ -1,6 +1,10 @@
 id: chroma-db-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Chroma DB - Information Disclosure
   author: Shay Ben Tikva
   severity: high

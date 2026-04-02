@@ -1,6 +1,11 @@
 id: bigant-db-install
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Bigant DataBase - Exposed Installation
   author: pussycat0x
   severity: high

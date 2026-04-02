@@ -1,6 +1,9 @@
 id: prestashop-blocktestimonial-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-434
   name: Prestashop Blocktestimonial Modules - File Upload Vulnerability
   author: MaStErChO
   severity: critical

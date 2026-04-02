@@ -1,6 +1,10 @@
 id: metabase-installer-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Metabase Installer - Exposure
   author: 0x_Akoko
   severity: high

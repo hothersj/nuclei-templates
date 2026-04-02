@@ -1,6 +1,10 @@
 id: wp-astra-sites-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress Astra Sites - Full Path Disclosure
   author: ritikchaddha
   severity: low

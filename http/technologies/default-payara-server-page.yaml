@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:payara:payara:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     max-request: 1
     vendor: payara

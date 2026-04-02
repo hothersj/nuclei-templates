@@ -1,6 +1,9 @@
 id: robots-txt-endpoint
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: robots.txt endpoint prober
   author: CasperGN,pdteam,TheZakMan
   severity: info

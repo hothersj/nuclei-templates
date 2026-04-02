@@ -1,6 +1,11 @@
 id: apache-couchdb-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Apache CouchDB - Unauthenticated Access
   author: SleepingBag945
   severity: high

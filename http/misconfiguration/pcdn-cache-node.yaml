@@ -7,6 +7,8 @@ info:
   description: PCDN Cache Node dataset is exposed.
   classification:
     cpe: cpe:2.3:a:cache-base_project:cache-base:*:*:*:*:node.js:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     verified: true
     max-request: 1

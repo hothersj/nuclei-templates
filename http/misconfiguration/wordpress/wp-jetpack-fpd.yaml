@@ -1,6 +1,9 @@
 id: wp-jetpack-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: JetPack - Full Path Disclosure
   author: theamanrawat
   severity: low

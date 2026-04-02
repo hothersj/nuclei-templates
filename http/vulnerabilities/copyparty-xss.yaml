@@ -1,6 +1,10 @@
 id: copyparty-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Copyparty v1.8.6 - Cross-Site Scripting
   author: theamanrawat
   severity: medium

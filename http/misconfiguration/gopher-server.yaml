@@ -1,6 +1,9 @@
 id: gopher-server
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Gopher Server - Exposure
   author: DhiyaneshDk
   severity: medium

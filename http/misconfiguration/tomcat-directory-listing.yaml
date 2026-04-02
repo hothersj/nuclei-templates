@@ -1,6 +1,10 @@
 id: tomcat-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Apache Tomcat - Directory Listing Enabled
   author: oleveloper
   severity: medium

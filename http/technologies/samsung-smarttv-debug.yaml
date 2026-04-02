@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:o:samsung:nt14u_firmware:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
   metadata:
     verified: true
     max-request: 1

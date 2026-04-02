@@ -1,6 +1,10 @@
 id: dependency-track-api
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Dependency Track API Key
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,11 @@
 id: thanos-prometheus-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Thanos Prometheus Setup - Exposure
   author: DhiyaneshDk,righettod
   severity: high

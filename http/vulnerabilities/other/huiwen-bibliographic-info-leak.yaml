@@ -1,6 +1,10 @@
 id: huiwen-bibliographic-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-541
   name: Huiwen library bibliographic Retrieval System - Information Exposure
   author: SleepingBag945
   severity: high

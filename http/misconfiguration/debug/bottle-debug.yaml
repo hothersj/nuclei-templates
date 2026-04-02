@@ -8,6 +8,9 @@ info:
     - https://bottlepy.org/docs/dev/tutorial.html#debug-mode
   classification:
     cpe: cpe:2.3:a:bottlepy:bottle:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
+      - CWE-213
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,11 @@
 id: kubernetes-etcd-keys
 
 info:
+  classification:
+    cwe-id:
+      - CWE-313
+      - CWE-538
+      - CWE-922
   name: Kubernetes etcd Keys - Exposure
   author: Hardik-Solanki
   severity: medium

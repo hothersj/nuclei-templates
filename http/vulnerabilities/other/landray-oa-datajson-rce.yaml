@@ -12,6 +12,10 @@ info:
     - https://github.com/zan8in/afrog/blob/main/v2/pocs/afrog-pocs/vulnerability/landray-oa-datajson-rce.yaml
   classification:
     cpe: cpe:2.3:a:landray:landray_office_automation:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-78
+      - CWE-94
+      - CWE-95
   metadata:
     verified: true
     max-request: 1

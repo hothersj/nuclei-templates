@@ -1,6 +1,11 @@
 id: unauth-kubecost
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: KubeCost - Unauthenticated Dashboard Exposure
   author: pussycat0x
   severity: medium

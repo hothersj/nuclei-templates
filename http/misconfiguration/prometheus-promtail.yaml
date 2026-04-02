@@ -1,6 +1,11 @@
 id: prometheus-promtail
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Prometheus Promtail - Exposure
   author: irshad ahamed
   severity: medium

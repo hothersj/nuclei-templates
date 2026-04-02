@@ -1,6 +1,11 @@
 id: freepbx-cleanup-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: FreePBX - CVE-2025-57819 Backdoor
   severity: high
   author: darses

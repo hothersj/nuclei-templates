@@ -9,6 +9,10 @@ info:
     - https://adobe-consulting-services.github.io/acs-aem-tools/features/dumplibs/index.html
   classification:
     cpe: cpe:2.3:a:adobe:acs_aem_commons:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 5

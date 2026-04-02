@@ -1,6 +1,11 @@
 id: pipfile-lock
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
+      - CWE-552
   name: Pipfile.lock Disclosure
   author: DhiyaneshDK
   severity: info

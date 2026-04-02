@@ -1,6 +1,11 @@
 id: hikvision-ivms-file-upload-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-73
+      - CWE-94
+      - CWE-434
   name: Hikvision iVMS-8700 - File Upload Remote Code Execution
   author: brucelsone
   severity: critical

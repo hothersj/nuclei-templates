@@ -1,6 +1,10 @@
 id: nsfocus-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-288
   name: Nsfocus - Arbitrary User Login
   author: ritikchaddha
   severity: high

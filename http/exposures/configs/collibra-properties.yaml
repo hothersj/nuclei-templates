@@ -1,6 +1,10 @@
 id: collibra-properties
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
   name: Collibra Properties Exposure
   author: 0xPugal
   severity: high

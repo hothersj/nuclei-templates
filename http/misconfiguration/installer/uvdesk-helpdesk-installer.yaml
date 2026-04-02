@@ -1,6 +1,11 @@
 id: uvdesk-helpdesk-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: UVDesk Helpdesk Installation Page - Exposure
   author: DhiyaneshDK
   severity: high

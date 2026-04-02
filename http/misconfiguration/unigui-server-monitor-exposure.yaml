@@ -1,6 +1,10 @@
 id: unigui-server-monitor-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: UniGUI Server Monitor Panel - Exposure
   author: serrapa
   severity: low

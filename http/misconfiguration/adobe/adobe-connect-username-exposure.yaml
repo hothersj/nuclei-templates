@@ -1,6 +1,9 @@
 id: adobe-connect-username-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
   name: Adobe Connect Username Exposure
   author: dhiyaneshDk
   severity: low

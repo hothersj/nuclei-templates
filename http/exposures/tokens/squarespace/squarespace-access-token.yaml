@@ -1,6 +1,10 @@
 id: squarespace-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-540
+      - CWE-798
   name: Squarespace Access Token
   author: DhiyaneshDK
   severity: info

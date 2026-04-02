@@ -1,6 +1,11 @@
 id: amr-printer-management-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: AMR Printer Management Dashboard - Exposure
   author: ritikchaddha
   severity: medium

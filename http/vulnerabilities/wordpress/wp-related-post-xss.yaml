@@ -1,6 +1,10 @@
 id: wp-related-post-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: WordPress Related Posts <= 2.1.1 - Cross Site Scripting
   author: arafatansari
   severity: medium

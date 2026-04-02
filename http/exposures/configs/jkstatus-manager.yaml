@@ -10,6 +10,10 @@ info:
     - https://github.com/PortSwigger/j2ee-scan/blob/master/src/main/java/burp/j2ee/issues/impl/JKStatus.java
   classification:
     cpe: cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 8

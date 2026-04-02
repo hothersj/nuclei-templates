@@ -1,6 +1,9 @@
 id: wp-ajax-search-lite-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Ajax Search Lite - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

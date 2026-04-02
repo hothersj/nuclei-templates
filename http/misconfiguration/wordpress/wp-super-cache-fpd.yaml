@@ -1,6 +1,10 @@
 id: wp-super-cache-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-209
   name: WordPress WP Super Cache - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

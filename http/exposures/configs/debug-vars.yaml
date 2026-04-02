@@ -1,6 +1,9 @@
 id: debug-vars
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Golang Expvar - Detect
   author: luqman
   severity: low

@@ -1,6 +1,10 @@
 id: nuxt-js-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Arbitrary File Read in Dev Mode - Nuxt.js
   author: DhiyaneshDK
   severity: high

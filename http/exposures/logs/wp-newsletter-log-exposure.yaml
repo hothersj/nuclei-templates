@@ -1,6 +1,10 @@
 id: wp-newsletter-log-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: WordPress Newsletter - Log File Exposure
   author: pussycat0x
   severity: medium

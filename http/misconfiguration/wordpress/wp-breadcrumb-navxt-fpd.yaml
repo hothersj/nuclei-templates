@@ -1,6 +1,9 @@
 id: wp-breadcrumb-navxt-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Breadcrumb NavXT - Full Path Disclosure
   author: theamanrawat
   severity: low

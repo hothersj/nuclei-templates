@@ -1,6 +1,11 @@
 id: alibaba-mongoshake-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Alibaba Mongoshake Unauth
   author: pikpikcu
   severity: info

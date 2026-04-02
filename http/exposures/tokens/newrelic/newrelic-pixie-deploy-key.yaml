@@ -1,6 +1,11 @@
 id: newrelic-pixie-deploy-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: New Relic Pixie Deploy Key
   author: DhiyaneshDK
   severity: info

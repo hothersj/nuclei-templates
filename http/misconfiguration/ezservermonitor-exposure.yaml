@@ -1,6 +1,11 @@
 id: ezservermonitor-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: eZ Server Monitor - Exposure
   author: pussycat0x
   severity: low

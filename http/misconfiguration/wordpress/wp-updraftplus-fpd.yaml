@@ -1,6 +1,9 @@
 id: wp-updraftplus-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress UpdraftPlus - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,11 @@
 id: landray-oa-erp-data-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-94
+      - CWE-95
   name: Landray-OA - Remote Code Execution
   author: SleepingBag945
   severity: critical

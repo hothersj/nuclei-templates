@@ -1,6 +1,9 @@
 id: truenas-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: TrueNAS API Key (WebSocket)
   author: DhiyaneshDK
   severity: info

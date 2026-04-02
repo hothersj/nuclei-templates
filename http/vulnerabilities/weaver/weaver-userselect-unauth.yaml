@@ -11,6 +11,10 @@ info:
     - http://wiki.peiqi.tech/wiki/oa/泛微OA/泛微OA%20E-Office%20UserSelect%20未授权访问漏洞.html
   classification:
     cpe: cpe:2.3:a:weaver:e-office:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,9 @@
 id: avtech-dvr-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-918
   name: AVTECH DVR - SSRF
   author: ritikchaddha
   severity: medium

@@ -1,6 +1,11 @@
 id: tongda-login-code-authbypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-288
+      - CWE-304
   name: Tongda OA v11.8 logincheck_code.php - Authentication Bypass
   author: SleepingBag945
   severity: high

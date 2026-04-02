@@ -9,6 +9,9 @@ info:
     - https://github.com/synacktiv/eos
   classification:
     cpe: cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
+      - CWE-213
   metadata:
     verified: true
     max-request: 4

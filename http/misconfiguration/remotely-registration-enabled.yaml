@@ -1,6 +1,10 @@
 id: remotely-registration-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Remotely Registration Enabled
   author: ritikchaddha
   severity: high

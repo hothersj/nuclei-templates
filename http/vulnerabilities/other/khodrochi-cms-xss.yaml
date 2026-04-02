@@ -1,6 +1,10 @@
 id: khodrochi-cms-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Khodrochi CMS - Cross Site Scripting
   author: r3Y3r53
   severity: medium

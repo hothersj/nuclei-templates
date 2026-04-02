@@ -1,6 +1,11 @@
 id: doris-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Doris Dashboard - Exposed
   author: ritikchaddha
   severity: medium

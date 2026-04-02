@@ -1,6 +1,11 @@
 id: pnpm-lock
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: PNPM Lock Yaml File Disclosure
   author: noraj
   severity: info

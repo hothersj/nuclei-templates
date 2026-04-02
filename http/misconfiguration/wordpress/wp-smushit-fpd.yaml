@@ -1,6 +1,9 @@
 id: wp-smushit-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WP Smushit - Full Path Disclosure
   author: theamanrawat,DhiyaneshDk
   severity: low

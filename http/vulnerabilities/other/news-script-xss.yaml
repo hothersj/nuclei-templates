@@ -1,6 +1,10 @@
 id: news-script-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: News Script Pro 2.4 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

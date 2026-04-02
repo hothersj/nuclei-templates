@@ -1,6 +1,10 @@
 id: gitlab-runner-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-523
   name: GitLab Runner Registration Token
   author: DhiyaneshDK
   severity: info

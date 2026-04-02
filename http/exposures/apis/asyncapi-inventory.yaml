@@ -1,6 +1,12 @@
 id: asyncapi-inventory
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: AsyncAPI Spec Inventory
   author: hamzasahin61
   severity: info

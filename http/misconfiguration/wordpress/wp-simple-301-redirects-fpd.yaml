@@ -1,6 +1,9 @@
 id: wp-simple-301-redirects-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Simple 301 Redirects - Full Path Disclosure
   author: theamanrawat
   severity: low

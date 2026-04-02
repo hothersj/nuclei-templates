@@ -8,6 +8,10 @@ info:
     Finds Etherpad instances that allow adding new notes without authentication.
   classification:
     cpe: cpe:2.3:a:etherpad:etherpad:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

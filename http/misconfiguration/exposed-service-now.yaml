@@ -1,6 +1,11 @@
 id: exposed-service-now
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: ITMS-Misconfigured
   author: dhiyaneshDK
   severity: info

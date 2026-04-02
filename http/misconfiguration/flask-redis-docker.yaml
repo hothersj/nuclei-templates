@@ -1,6 +1,11 @@
 id: flask-redis-docker
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-306
+      - CWE-862
   name: Flask Redis Queue Docker - Exposure
   author: DhiyaneshDk
   severity: low

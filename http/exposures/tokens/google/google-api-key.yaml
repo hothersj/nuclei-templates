@@ -1,6 +1,11 @@
 id: google-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-540
+      - CWE-798
   name: Google API Key
   author: Swissky
   severity: info

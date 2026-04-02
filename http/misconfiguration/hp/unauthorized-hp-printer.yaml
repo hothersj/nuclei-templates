@@ -1,6 +1,11 @@
 id: unauthorized-hp-printer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Unauthorized HP Printer
   author: pussycat0x
   severity: high

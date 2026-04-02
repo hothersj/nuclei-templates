@@ -1,6 +1,10 @@
 id: expect-ct-misconfigured
 
 info:
+  classification:
+    cwe-id:
+      - CWE-345
+      - CWE-353
   name: Expect-CT Header - Misconfigured
   author: theamanrawat
   severity: info

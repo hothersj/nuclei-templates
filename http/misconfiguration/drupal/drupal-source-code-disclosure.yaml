@@ -1,6 +1,11 @@
 id: drupal-source-code-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-260
+      - CWE-552
   name: Drupal - Source Code Disclosure
   author: pussycat0x
   severity: medium

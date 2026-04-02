@@ -1,6 +1,11 @@
 id: aem-wcm-suggestions-servlet
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: AEM WCM Suggestions Servlet
   author: DhiyaneshDk
   severity: low

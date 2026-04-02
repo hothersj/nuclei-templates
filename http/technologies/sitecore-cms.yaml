@@ -10,6 +10,8 @@ info:
     - https://www.sitecore.com
   classification:
     cpe: cpe:2.3:a:sitecore:cms:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

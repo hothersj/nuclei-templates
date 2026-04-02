@@ -1,6 +1,9 @@
 id: lotus-domino-version
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: Lotus Domino Version Extractor
   author: CasperGN
   severity: info

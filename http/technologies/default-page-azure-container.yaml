@@ -1,6 +1,11 @@
 id: default-page-azure-container
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Azure Container Instance Default Page
   author: DhiyaneshDK
   severity: info

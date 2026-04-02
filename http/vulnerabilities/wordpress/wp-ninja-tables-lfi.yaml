@@ -1,6 +1,10 @@
 id: wp-ninja-tables-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Ninja Tables <4.1.9 - Unauthenticated Arbitrary File Read
   author: xbow,DhiyaneshDk
   severity: high

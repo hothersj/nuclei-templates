@@ -1,6 +1,10 @@
 id: ecology-oa-byxml-xxe
 
 info:
+  classification:
+    cwe-id:
+      - CWE-611
+      - CWE-918
   name: EcologyOA deleteUserRequestInfoByXml - XML External Entity Injection
   author: SleepingBag945
   severity: high

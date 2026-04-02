@@ -1,6 +1,11 @@
 id: wp-under-construction-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-99
+      - CWE-610
+      - CWE-918
   name: Under Construction, Coming Soon & Maintenance Mode < 1.1.2 - Server Side Request Forgery (SSRF)
   author: Akincibor
   severity: high

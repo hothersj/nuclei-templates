@@ -10,7 +10,10 @@ info:
     - https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-server-info/
     - https://support.atlassian.com/jira/kb/restrict-unauthenticated-access-for-some-jira-endpoints/
   classification:
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-201
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

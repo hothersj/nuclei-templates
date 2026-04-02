@@ -1,6 +1,10 @@
 id: wifisky7-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: WIFISKY-7 Layer Flow Control Router - Remote Code Execution
   author: pussycat0x
   severity: high

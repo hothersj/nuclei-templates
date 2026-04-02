@@ -1,6 +1,11 @@
 id: sharepoint-lists-api-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Microsoft SharePoint - List API Disclosure
   author: theamanrawat
   severity: low

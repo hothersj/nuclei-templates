@@ -1,6 +1,11 @@
 id: laravel-sessions-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
+      - CWE-922
   name: Laravel Sessions Folder Exposure
   author: DhiyaneshDk
   severity: high

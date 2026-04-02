@@ -1,6 +1,10 @@
 id: grafana-cloud-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: Grafana Cloud API Key
   author: DhiyaneshDK
   severity: info

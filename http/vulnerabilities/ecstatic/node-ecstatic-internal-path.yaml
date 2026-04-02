@@ -1,6 +1,9 @@
 id: node-ecstatic-internal-path
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Node ecstatic Internal Path - Exposure
   author: DhiyaneshDK
   severity: low

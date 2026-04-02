@@ -1,6 +1,10 @@
 id: bun-lock
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Bun Lock File Disclosure
   author: noraj
   severity: info

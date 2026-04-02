@@ -1,6 +1,10 @@
 id: milesight-system-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-313
+      - CWE-538
   name: Milesight Industrial Cellular Routers - Information Disclosure
   author: ritikchaddha
   severity: high

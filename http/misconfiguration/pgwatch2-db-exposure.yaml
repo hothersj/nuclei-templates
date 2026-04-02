@@ -1,6 +1,10 @@
 id: pgwatch2-db-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Pgwatch2 DBs to monitor - Exposure
   author: DhiyaneshDK
   severity: high

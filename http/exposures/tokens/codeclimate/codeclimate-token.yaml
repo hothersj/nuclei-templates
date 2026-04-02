@@ -1,6 +1,10 @@
 id: codeclimate-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: CodeClimate Token
   author: DhiyaneshDK
   severity: info

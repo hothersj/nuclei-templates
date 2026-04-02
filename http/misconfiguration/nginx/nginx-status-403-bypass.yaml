@@ -1,6 +1,9 @@
 id: nginx-status-403-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
   name: Nginx Status Page - 403 Bypass
   author: pussycat0x
   severity: low

@@ -1,6 +1,9 @@
 id: gpc-json
 
 info:
+  classification:
+    cwe-id:
+      - CWE-552
   name: Global Privacy Control (GPC) File Disclosure
   author: MihhailSokolov
   severity: info

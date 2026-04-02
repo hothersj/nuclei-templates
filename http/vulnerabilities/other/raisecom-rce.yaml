@@ -1,6 +1,10 @@
 id: raisecom-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Raisecom Gateway vpn_template_style.php - Remote Command Execution
   author: 3th1c_yuk1
   severity: critical

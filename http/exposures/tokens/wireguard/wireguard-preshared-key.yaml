@@ -1,6 +1,11 @@
 id: wireguard-preshared-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: WireGuard Preshared Key
   author: DhiyaneshDK
   severity: info

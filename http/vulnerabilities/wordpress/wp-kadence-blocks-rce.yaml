@@ -1,6 +1,10 @@
 id: wp-kadence-blocks-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
   name: WordPress Gutenberg Blocks Plugin <= 3.1.10 - Arbitrary File Upload
   author: theamanrawat
   severity: critical

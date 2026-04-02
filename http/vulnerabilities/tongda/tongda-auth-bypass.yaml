@@ -10,6 +10,10 @@ info:
     - https://s1xhcl.github.io/2021/03/13/%E9%80%9A%E8%BE%BEOA-v11-7-%E5%9C%A8%E7%BA%BF%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E6%BC%8F%E6%B4%9E/
   classification:
     cpe: cpe:2.3:a:tongda2000:office_anywhere:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-288
+      - CWE-306
   metadata:
     verified: true
     max-request: 200

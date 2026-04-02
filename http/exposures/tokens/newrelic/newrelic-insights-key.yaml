@@ -1,6 +1,10 @@
 id: newrelic-insights-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-540
+      - CWE-798
   name: Insights Keys Disclosure
   author: Ice3man
   severity: info

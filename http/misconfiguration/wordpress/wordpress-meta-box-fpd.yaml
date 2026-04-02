@@ -1,6 +1,9 @@
 id: wordpress-meta-box-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Meta Box - Full Path Disclosure
   author: pussycat0x
   severity: low

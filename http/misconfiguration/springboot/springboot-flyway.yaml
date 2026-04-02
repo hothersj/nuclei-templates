@@ -1,6 +1,10 @@
 id: springboot-flyway
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Springboot Flyway API
   author: ELSFA7110
   severity: low

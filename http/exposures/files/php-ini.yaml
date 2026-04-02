@@ -9,6 +9,10 @@ info:
     - https://www.php.net/manual/en/configuration.file.php
   classification:
     cpe: cpe:2.3:a:php:php:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 1

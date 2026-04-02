@@ -1,6 +1,11 @@
 id: fastbee-arbitrary-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: FastBee - Local File Inclusion
   author: s4e-io
   severity: high

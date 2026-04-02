@@ -1,6 +1,10 @@
 id: rubygems-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: RubyGems API Key
   author: DhiyaneshDK
   severity: high

@@ -1,6 +1,10 @@
 id: exposed-mcp-server
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Exposed MCP JSON-RPC 2.0 API Detection
   author: ivan_wallarm
   severity: unknown

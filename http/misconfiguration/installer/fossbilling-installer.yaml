@@ -8,6 +8,11 @@ info:
     FOSSBilling installation dashboard has been detected.
   classification:
     cpe: cpe:2.3:a:fossbilling:fossbilling:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-276
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

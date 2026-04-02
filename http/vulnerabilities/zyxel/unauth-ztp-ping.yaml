@@ -12,6 +12,10 @@ info:
     - https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-remote-command-injection-vulnerability-of-firewalls
   classification:
     cpe: cpe:2.3:o:zyxel:usg1000_firmware:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-77
+      - CWE-78
+      - CWE-306
   metadata:
     verified: true
     max-request: 1

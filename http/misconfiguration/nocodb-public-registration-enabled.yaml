@@ -1,6 +1,11 @@
 id: nocodb-public-registration-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-306
+      - CWE-862
   name: NocoDB Public Registration Enabled
   author: pussycat0x
   severity: medium

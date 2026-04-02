@@ -1,6 +1,9 @@
 id: applezeed-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Applezeed - SQL Injection
   author: r3Y3r53
   severity: high

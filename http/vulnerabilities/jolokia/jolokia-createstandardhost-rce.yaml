@@ -1,6 +1,10 @@
 id: jolokia-createstandardhost-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-94
   name: Jolokia file write to RCE jfr
   author: laluka,pathtaga
   severity: critical

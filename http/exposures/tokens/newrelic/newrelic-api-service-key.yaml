@@ -1,6 +1,10 @@
 id: newrelic-api-service-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: New Relic API Service Key
   author: DhiyaneshDK
   severity: info

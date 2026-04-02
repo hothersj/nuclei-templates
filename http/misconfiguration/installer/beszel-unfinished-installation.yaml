@@ -1,6 +1,10 @@
 id: beszel-unfinished-installation
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Beszel Unfinished Installation
   author: 0x_Akoko
   severity: high

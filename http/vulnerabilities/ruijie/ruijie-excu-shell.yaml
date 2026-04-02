@@ -1,6 +1,10 @@
 id: ruijie-excu-shell
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Ruijie Switch Web Management System EXCU_SHELL - Information Disclosure
   author: momika233
   severity: high

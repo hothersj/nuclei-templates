@@ -10,7 +10,8 @@ info:
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
     cvss-score: 10
-    cwe-id: CWE-89
+    cwe-id:
+      - CWE-89
     cpe: cpe:2.3:a:dedecms:dedecms:*:*:*:*:*:*:*:*
   metadata:
     max-request: 1

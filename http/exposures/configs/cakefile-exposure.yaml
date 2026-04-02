@@ -9,7 +9,9 @@ info:
   reference:
     - https://coffeescript.org/v2/#cake
   classification:
-    cwe-id: CWE-538
+    cwe-id:
+      - CWE-219
+      - CWE-538
   metadata:
     verified: true
     max-request: 7

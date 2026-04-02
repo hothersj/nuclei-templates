@@ -1,6 +1,10 @@
 id: dir-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Directory listing enabled
   author: _harleo,pentest_swissky,hczdmr
   severity: info

@@ -1,6 +1,11 @@
 id: tongda-api-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-95
+      - CWE-434
   name: Tongda OA v11.8 api.ali.php - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

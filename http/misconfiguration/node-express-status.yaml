@@ -1,6 +1,9 @@
 id: node-express-status
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Node Express Status - Detect
   author: DhiyaneshDk
   severity: low

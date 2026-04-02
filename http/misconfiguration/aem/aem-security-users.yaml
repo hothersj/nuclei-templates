@@ -1,6 +1,12 @@
 id: aem-security-users
 
 info:
+  classification:
+    cwe-id:
+      - CWE-285
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Adobe AEM Security Users Exposure
   author: dhiyaneshDk
   severity: medium

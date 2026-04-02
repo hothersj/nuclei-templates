@@ -10,6 +10,11 @@ info:
     - https://cal.com/
   classification:
     cpe: cpe:2.3:a:cal:cal.com:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-15
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

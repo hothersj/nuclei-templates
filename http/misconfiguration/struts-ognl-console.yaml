@@ -11,6 +11,12 @@ info:
     - https://github.com/PortSwigger/j2ee-scan/blob/master/src/main/java/burp/j2ee/issues/impl/ApacheStrutsWebConsole.java
   classification:
     cpe: cpe:2.3:a:apache:struts:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-94
+      - CWE-95
+      - CWE-306
+      - CWE-862
+      - CWE-917
   metadata:
     verified: true
     max-request: 1

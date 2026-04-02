@@ -1,6 +1,11 @@
 id: next-js-cache-poisoning
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-444
+      - CWE-642
   name: Next.js Cache Poisoning
   author: Ice3man543
   severity: high

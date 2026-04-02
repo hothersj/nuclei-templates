@@ -1,6 +1,10 @@
 id: sanhui-smg-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Synway SMG Gateway down.php - Arbitrary File Read
   author: SleepingBag945
   severity: high

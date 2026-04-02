@@ -1,6 +1,10 @@
 id: firebase-debug-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Firebase Debug Log File Exposure
   author: Hardik-Solanki
   severity: low

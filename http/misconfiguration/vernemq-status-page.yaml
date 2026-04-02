@@ -1,6 +1,9 @@
 id: vernemq-status-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: VerneMQ Status Page
   author: geeknik
   severity: low

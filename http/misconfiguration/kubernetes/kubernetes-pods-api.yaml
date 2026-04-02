@@ -1,6 +1,11 @@
 id: kubernetes-pods-api
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Kubernetes Pods - API Discovery & Remote Code Execution
   author: ilovebinbash,geeknik,0xtavian
   severity: critical

@@ -1,6 +1,10 @@
 id: traccar-settings-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Traccar Server Settings - Disclosure
   author: DhiyaneshDk
   severity: low

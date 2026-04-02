@@ -1,6 +1,10 @@
 id: dahua-bitmap-fileupload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-434
   name: Dahua Bitmap - File Upload Remote Code Execution
   author: DhiyaneshDK
   severity: critical

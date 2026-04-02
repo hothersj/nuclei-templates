@@ -1,6 +1,9 @@
 id: apache-server-status
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: Apache Server Status Disclosure
   author: thabisocn
   severity: low

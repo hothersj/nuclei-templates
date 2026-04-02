@@ -9,6 +9,10 @@ info:
     - https://www.exploit-db.com/ghdb/5684
   classification:
     cpe: cpe:2.3:a:mongo-express_project:mongo-express:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 3

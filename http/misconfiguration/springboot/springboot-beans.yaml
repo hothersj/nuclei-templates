@@ -1,6 +1,10 @@
 id: springboot-beans
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-425
   name: Detect Springboot Beans Actuator
   author: ajaysenr
   severity: low

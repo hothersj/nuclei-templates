@@ -1,6 +1,10 @@
 id: wordpress-simple-social-icons-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: WordPress Simple Social Icons - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

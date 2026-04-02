@@ -1,6 +1,11 @@
 id: wp-pretty-link-log-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-532
+      - CWE-538
   name: WordPress Pretty Link - Error Log Disclosure
   author: 0x_Akoko
   severity: low

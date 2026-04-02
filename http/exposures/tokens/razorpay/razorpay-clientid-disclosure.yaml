@@ -1,6 +1,10 @@
 id: razorpay-clientid-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
   name: Razorpay Client ID Disclosure
   author: Devang-Solanki
   severity: high

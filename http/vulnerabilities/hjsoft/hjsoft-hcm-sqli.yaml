@@ -1,6 +1,10 @@
 id: hjsoft-hcm-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-89
   name: Hongjing HCM - Sql Injection
   author: s4e-io
   severity: high

@@ -1,6 +1,11 @@
 id: zenserp-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-922
   name: Zenserp Api Key
   author: ritikchaddha
   severity: high

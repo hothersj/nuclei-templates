@@ -1,6 +1,10 @@
 id: graphql-directive-overloading
 
 info:
+  classification:
+    cwe-id:
+      - CWE-138
+      - CWE-183
   name: GraphQL Directive Overloading
   author: shamo0
   severity: info

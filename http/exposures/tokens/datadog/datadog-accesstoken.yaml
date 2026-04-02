@@ -1,6 +1,11 @@
 id: datadog-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
+      - CWE-540
   name: Datadog Access Token
   author: DhiyaneshDK
   severity: info

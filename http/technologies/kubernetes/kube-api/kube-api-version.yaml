@@ -1,6 +1,10 @@
 id: kube-api-version
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Kube API Version
   author: sharath,raesene
   severity: info

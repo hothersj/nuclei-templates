@@ -1,6 +1,11 @@
 id: yonyou-u9-patchfile-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-306
+      - CWE-434
   name: Yonyou U9 PatchFile.asmx - Unauthenticated Arbitrary File Upload
   author: Co5mos,ProjectDiscoveryAI
   severity: critical

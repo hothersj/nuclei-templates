@@ -11,7 +11,8 @@ info:
   classification:
     cvss-metrics: CVSS:2.0/AV:N/AC:M/Au:N/C:P/I:P/A:N
     cvss-score: 5.8
-    cwe-id: CWE-601
+    cwe-id:
+      - CWE-601
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,11 @@
 id: splash-render-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-99
+      - CWE-610
+      - CWE-918
   name: Splash Render - SSRF
   author: pwnhxl
   severity: high

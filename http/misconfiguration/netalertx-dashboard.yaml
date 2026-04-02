@@ -1,6 +1,10 @@
 id: netalertx-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: NetAlert X Admin Dashboard - Exposed
   author: s4e-io
   severity: medium

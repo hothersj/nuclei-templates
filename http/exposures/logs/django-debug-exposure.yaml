@@ -1,6 +1,9 @@
 id: django-debug-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Django Debug Exposure
   author: geeknik
   severity: high

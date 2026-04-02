@@ -10,6 +10,9 @@ info:
     - https://packetstormsecurity.com/files/170568/WordPress-WPtouch-3.7.5-Open-Redirection.html
   classification:
     cpe: cpe:2.3:a:bravenewcode:wptouch:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-601
+      - CWE-807
   metadata:
     verified: true
     max-request: 1

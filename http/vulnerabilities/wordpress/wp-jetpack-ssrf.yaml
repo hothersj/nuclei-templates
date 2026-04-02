@@ -1,6 +1,11 @@
 id: wp-jetpack-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-99
+      - CWE-610
+      - CWE-918
   name: Wordpress Jetpack plugin - Server Side Request Forgery
   author: pussycat0x
   severity: medium

@@ -1,6 +1,10 @@
 id: heroku-oauth2-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-922
   name: Heroku OAuth2 Token
   author: Chemo850
   severity: info

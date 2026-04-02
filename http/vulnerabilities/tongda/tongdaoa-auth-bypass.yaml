@@ -11,6 +11,10 @@ info:
     - https://github.com/zan8in/afrog/blob/main/v2/pocs/afrog-pocs/vulnerability/tongda-oa-2017-auth-bypass.yaml
   classification:
     cpe: cpe:2.3:a:tongda2000:office_anywhere:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-302
+      - CWE-807
   metadata:
     verified: true
     max-request: 3

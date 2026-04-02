@@ -1,6 +1,10 @@
 id: application-yaml
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: application.yaml detection
   author: Cristi vlad (@cristivlad25)
   severity: info

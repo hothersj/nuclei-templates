@@ -1,6 +1,10 @@
 id: amazon-mws-auth-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Amazon MWS Auth Token
   author: puzzlepeaches
   severity: info

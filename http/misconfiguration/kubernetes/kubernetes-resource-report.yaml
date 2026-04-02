@@ -1,6 +1,11 @@
 id: kubernetes-resource-report
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Detect Overview Kubernetes Resource Report
   author: pussycat0x
   severity: medium

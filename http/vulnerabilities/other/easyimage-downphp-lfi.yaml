@@ -1,6 +1,10 @@
 id: easyimage-downphp-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: EasyImage down.php - Arbitrary File Read
   author: DhiyaneshDk
   severity: high

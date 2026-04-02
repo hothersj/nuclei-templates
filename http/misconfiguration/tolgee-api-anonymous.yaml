@@ -1,6 +1,10 @@
 id: tolgee-api-anonymous
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
   name: Tolgee API - Misconfiguration Anonymous Access
   author: matejsmycka
   severity: medium

@@ -1,6 +1,10 @@
 id: google-client-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-540
   name: Google Client ID
   author: DhiyaneshDK
   severity: info

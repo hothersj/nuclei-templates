@@ -1,6 +1,9 @@
 id: laravel-debug-error
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Larvel Debug Method Enabled
   author: dhiyaneshDK
   severity: medium

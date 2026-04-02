@@ -1,6 +1,10 @@
 id: sap-getversion-info
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SAPControl GetVersionInfo - Detect
   author: LRVT,l4rm4nd
   severity: info

@@ -1,6 +1,11 @@
 id: servicenow-threads-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: ServiceNow Threads Page - Detection
   author: cham423
   severity: info

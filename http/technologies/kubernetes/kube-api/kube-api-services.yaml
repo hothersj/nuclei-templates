@@ -1,6 +1,10 @@
 id: kube-api-services
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Kube API Services
   author: sharath
   severity: info

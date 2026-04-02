@@ -8,6 +8,11 @@ info:
     Piwigo is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:piwigo:piwigo:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

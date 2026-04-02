@@ -1,6 +1,11 @@
 id: prowlarr-dashboard-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Prowlarr Dashboard - Unauthenticated
   author: ProjectDiscoveryAI
   severity: medium

@@ -1,6 +1,9 @@
 id: wordpress-menu-image-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Menu Image - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

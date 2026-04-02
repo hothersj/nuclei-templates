@@ -1,6 +1,9 @@
 id: wp-popup-maker-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Popup Maker - Full Path Disclosure
   author: theamanrawat
   severity: low

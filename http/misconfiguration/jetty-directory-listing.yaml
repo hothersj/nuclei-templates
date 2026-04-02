@@ -1,6 +1,10 @@
 id: jetty-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Eclipse Jetty - Directory Listing Enabled
   author: ritikchaddha
   severity: low

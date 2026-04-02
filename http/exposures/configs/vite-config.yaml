@@ -1,6 +1,10 @@
 id: vite-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Vite Configuration - File Exposure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,10 @@
 id: android-debug-database-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Android Debug Manager
   author: dhiyaneshDK
   severity: low

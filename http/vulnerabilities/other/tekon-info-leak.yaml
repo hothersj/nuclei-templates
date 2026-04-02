@@ -9,6 +9,10 @@ info:
     - https://medium.com/@bertinjoseb/post-auth-rce-based-in-malicious-lua-plugin-script-upload-scada-controllers-located-in-russia-57044425ac38
   classification:
     cpe: cpe:2.3:o:tekon:kio_firmware:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     max-request: 1
     vendor: tekon

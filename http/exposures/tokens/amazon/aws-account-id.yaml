@@ -1,6 +1,9 @@
 id: aws-account-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: AWS Account ID
   author: DhiyaneshDK
   severity: info

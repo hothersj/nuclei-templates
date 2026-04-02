@@ -1,6 +1,10 @@
 id: directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Directory Listing Enabled
   author: theMiddle
   severity: low

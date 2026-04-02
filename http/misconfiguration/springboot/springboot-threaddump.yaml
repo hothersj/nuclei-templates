@@ -1,6 +1,10 @@
 id: springboot-threaddump
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Detect Springboot Thread Dump page
   author: philippedelteil
   severity: low

@@ -1,6 +1,10 @@
 id: motic-dsm-arbitrary-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: MoticDSM - Arbitrary File Read
   author: s4e-io
   severity: high

@@ -1,6 +1,11 @@
 id: moleculer-microservices
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Moleculer Microservices Project
   author: pussycat0x
   severity: low

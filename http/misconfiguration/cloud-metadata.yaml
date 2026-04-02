@@ -1,6 +1,10 @@
 id: cloud-metadata
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-213
   name: GCP/AWS Metadata Disclosure
   author: DhiyaneshDk
   severity: low

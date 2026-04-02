@@ -1,6 +1,11 @@
 id: emby-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Emby Installation Page - Exposure
   author: DhiyaneshDk
   severity: high

@@ -1,6 +1,11 @@
 id: npmrc-authtoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-260
+      - CWE-522
   name: Hardcoded .npmrc AuthToken
   author: geeknik
   severity: info

@@ -11,7 +11,12 @@ info:
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
     cvss-score: 9.8
-    cwe-id: CWE-425
+    cwe-id:
+      - CWE-219
+      - CWE-260
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 1
   tags: axiom,digitalocean,key,exposure,vuln

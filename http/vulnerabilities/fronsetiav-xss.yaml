@@ -1,6 +1,10 @@
 id: fronsetiav-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Fronsetiav1.1 - Cross-Site Scripting
   author: s4e-io
   severity: high

@@ -1,6 +1,11 @@
 id: keybase-domain-owwnership-verification
 
 info:
+  classification:
+    cwe-id:
+      - CWE-313
+      - CWE-538
+      - CWE-552
   name: Keybase Domain Ownership Verification
   author: rxerium
   severity: info

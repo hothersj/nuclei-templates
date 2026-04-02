@@ -1,6 +1,10 @@
 id: docker-daemon-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Docker Daemon Exposed
   author: Arm!tage
   severity: critical

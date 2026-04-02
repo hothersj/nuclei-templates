@@ -7,6 +7,9 @@ info:
   description: Yii (An application framework to handle and manage errors) error page detected.
   classification:
     cpe: cpe:2.3:a:yii_software:yii:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
+      - CWE-756
   metadata:
     verified: true
     max-request: 1

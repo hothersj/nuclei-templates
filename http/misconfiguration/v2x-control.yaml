@@ -1,6 +1,11 @@
 id: v2x-control
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: V2X Control - Dashboard Exposure
   author: DhiyaneshDk
   severity: low

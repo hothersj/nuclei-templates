@@ -1,6 +1,10 @@
 id: jfrog-artifactory-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: JFrog Artifactory Artifacts Exposure
   author: DhiyaneshDk
   severity: low

@@ -1,6 +1,11 @@
 id: laravel-terminal-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-306
+      - CWE-862
   name: Laravel Terminal - Exposed
   author: pussycat0x
   severity: high

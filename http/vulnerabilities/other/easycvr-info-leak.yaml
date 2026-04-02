@@ -1,6 +1,11 @@
 id: easycvr-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: EasyCVR video management - Users Information Exposure
   author: pussycat0x
   severity: high

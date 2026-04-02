@@ -1,6 +1,10 @@
 id: tikiwiki-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Tiki Wiki CMS Groupware v25.0 - Cross Site Scripting
   author: arafatansari
   severity: medium

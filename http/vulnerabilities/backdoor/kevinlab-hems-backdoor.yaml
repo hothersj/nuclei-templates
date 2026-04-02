@@ -1,6 +1,10 @@
 id: kevinlab-hems-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-269
+      - CWE-798
   name: KevinLAB HEMS - Backdoor Detection
   author: gy741
   severity: critical

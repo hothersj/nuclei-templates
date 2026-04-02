@@ -9,6 +9,8 @@ info:
     - https://gist.github.com/ruanbekker/e5b1e7895f62b020ff29b5f40767190c
   classification:
     cpe: cpe:2.3:a:python:python:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
   metadata:
     max-request: 1
     vendor: python

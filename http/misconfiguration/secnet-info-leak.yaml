@@ -1,6 +1,11 @@
 id: secnet-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-256
+      - CWE-260
   name: Secnet Intelligent Routing System actpt_5g.data - Information Leak
   author: DhiyaneshDk
   severity: high

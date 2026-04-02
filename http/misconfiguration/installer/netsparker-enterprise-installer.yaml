@@ -1,6 +1,11 @@
 id: netsparker-enterprise-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Netsparker Enterprise Installer
   author: pussycat0x
   severity: info

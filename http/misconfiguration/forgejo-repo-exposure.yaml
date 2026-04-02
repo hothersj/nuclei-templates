@@ -1,6 +1,11 @@
 id: forgejo-repo-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Forgejo Repositories - Exposure
   author: DhiyaneshDK
   severity: medium

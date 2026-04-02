@@ -1,6 +1,9 @@
 id: wp-smart-manager-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Smart Manager for WooCommerce & WPeC <= 3.9.6 - SQL Injection
   author: r3Y3r53
   severity: critical

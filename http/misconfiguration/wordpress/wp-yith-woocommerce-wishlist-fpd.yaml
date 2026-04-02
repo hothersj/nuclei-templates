@@ -1,6 +1,9 @@
 id: wp-yith-woocommerce-wishlist-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress YITH WooCommerce Wishlist - Full Path Disclosure
   author: ritikchaddha
   severity: low

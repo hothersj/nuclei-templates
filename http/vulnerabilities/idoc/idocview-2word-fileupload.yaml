@@ -1,6 +1,11 @@
 id: idocview-2word-fileupload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-73
+      - CWE-99
+      - CWE-434
   name: IDoc View /html/2word - Arbitrary File Upload
   author: DhiyaneshDK
   severity: high

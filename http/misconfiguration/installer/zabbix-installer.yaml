@@ -1,6 +1,11 @@
 id: zabbix-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Zabbix Installation Exposure
   author: DhiyaneshDK
   severity: high

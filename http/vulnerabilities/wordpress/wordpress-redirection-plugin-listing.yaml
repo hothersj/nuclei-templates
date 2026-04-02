@@ -1,6 +1,10 @@
 id: wordpress-redirection-plugin-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress Redirection Plugin Directory Listing
   author: dhiyaneshDk
   severity: info

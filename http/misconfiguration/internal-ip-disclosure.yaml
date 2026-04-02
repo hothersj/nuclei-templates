@@ -1,6 +1,9 @@
 id: internal-ip-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Internal IP Disclosure
   author: WillD96
   severity: info

@@ -1,6 +1,10 @@
 id: thinkphp-509-information-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-209
   name: ThinkPHP 5.0.9 - Information Disclosure
   author: dr_set
   severity: critical

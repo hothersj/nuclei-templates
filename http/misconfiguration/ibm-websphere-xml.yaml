@@ -1,6 +1,9 @@
 id: ibm-websphere-xml
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
   name: IBM WebSphere Application - Source File Exposure
   author: r3nz0
   severity: medium

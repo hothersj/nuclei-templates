@@ -1,6 +1,10 @@
 id: apache-storm-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Apache Storm Unauth
   author: pikpikcu
   severity: medium

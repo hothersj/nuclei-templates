@@ -1,6 +1,10 @@
 id: vrview-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: VRview Plugin - Cross-Site Scripting
   author: ritikchaddha
   severity: high

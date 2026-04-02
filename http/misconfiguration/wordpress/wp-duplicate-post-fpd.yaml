@@ -1,6 +1,9 @@
 id: wp-duplicate-post-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Duplicate Post - Full Path Disclosure
   author: theamanrawat
   severity: low

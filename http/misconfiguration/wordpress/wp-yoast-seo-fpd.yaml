@@ -1,6 +1,9 @@
 id: wp-yoast-seo-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Yoast SEO - Full Path Disclosure
   author: ritikchaddha
   severity: low

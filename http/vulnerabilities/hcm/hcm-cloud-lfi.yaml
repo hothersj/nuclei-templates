@@ -1,6 +1,10 @@
 id: hcm-cloud-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: HCM Cloud - Arbitrary File Read
   author: s4e-io
   severity: high

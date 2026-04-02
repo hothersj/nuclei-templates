@@ -1,6 +1,10 @@
 id: 3d-print-lite-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: 3D Print Lite < 1.9.1.6 - Reflected Cross-Site Scripting
   author: r3Y3r53
   severity: medium

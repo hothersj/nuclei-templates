@@ -1,6 +1,9 @@
 id: kube-api-nodes
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: Kube API Nodes
   author: sharath,ritikchaddha
   severity: info

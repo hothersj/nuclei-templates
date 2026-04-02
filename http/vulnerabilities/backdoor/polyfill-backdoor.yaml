@@ -1,6 +1,11 @@
 id: polyfill-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-829
+      - CWE-830
+      - CWE-1104
   name: Polyfill.io - Backdoor
   author: kazet
   severity: info

@@ -1,6 +1,11 @@
 id: netlify-headers-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Netlify Headers Configuration - Exporsure
   author: theamanrawat
   severity: low

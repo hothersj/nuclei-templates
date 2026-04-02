@@ -1,6 +1,9 @@
 id: stackposts-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Stackposts Social Marketing Tool v1.0 - SQL Injection
   author: r3Y3r53
   severity: high

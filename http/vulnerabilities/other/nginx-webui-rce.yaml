@@ -1,6 +1,10 @@
 id: nginx-webui-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: nginxWebUI ≤ 3.5.0 - Remote Command Execution
   author: ritikchaddha
   severity: critical

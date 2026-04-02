@@ -1,6 +1,11 @@
 id: hikvision-js-files-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-94
+      - CWE-434
   name: Hikvision iSecure Center - File Upload
   author: Xc1Ym
   severity: critical

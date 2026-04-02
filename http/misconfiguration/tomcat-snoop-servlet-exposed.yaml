@@ -12,6 +12,8 @@ info:
   classification:
     epss-score: 0.68493
     epss-percentile: 0.98547
+    cwe-id:
+      - CWE-200
   metadata:
     max-request: 1
     verified: true

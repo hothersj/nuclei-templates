@@ -1,6 +1,9 @@
 id: x-recruiting-header
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: X-Recruiting Header
   author: geeknik
   severity: info

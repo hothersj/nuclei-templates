@@ -1,6 +1,10 @@
 id: telegram-bot-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: Telegram Bot Token
   author: DhiyaneshDK
   severity: high

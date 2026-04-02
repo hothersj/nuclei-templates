@@ -1,6 +1,10 @@
 id: mixed-passive-content
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-325
   name: Mixed Passive Content
   author: Liwermor
   severity: info

@@ -1,6 +1,9 @@
 id: cacti-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Cacti - Full Path Disclosure
   author: theamanrawat
   severity: low

@@ -1,6 +1,9 @@
 id: firebase-database-extractor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-540
   name: Firebase Database Extract Check
   author: rafaelwdornelas
   severity: info

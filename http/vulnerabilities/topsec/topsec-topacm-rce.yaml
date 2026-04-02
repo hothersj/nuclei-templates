@@ -1,6 +1,10 @@
 id: topsec-topacm-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Topsec Topacm - Remote Code Execution
   author: SleepingBag945
   severity: critical

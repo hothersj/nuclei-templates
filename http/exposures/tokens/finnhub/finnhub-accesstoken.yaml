@@ -1,6 +1,11 @@
 id: finnhub-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-540
   name: finnhub Access Token
   author: DhiyaneshDK
   severity: info

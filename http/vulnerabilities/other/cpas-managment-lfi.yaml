@@ -1,6 +1,10 @@
 id: cpas-managment-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
   name: CPAS Management System - Arbitrary File Read
   author: s4e-io
   severity: high

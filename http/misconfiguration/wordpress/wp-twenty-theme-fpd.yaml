@@ -1,6 +1,9 @@
 id: wp-twenty-theme-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Twenty Seventeen - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

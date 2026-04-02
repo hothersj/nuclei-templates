@@ -1,6 +1,12 @@
 id: avtech-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-288
+      - CWE-306
+      - CWE-862
   name: AVTECH Video Surveillance Product - Authentication Bypass
   author: ritikchaddha
   severity: high

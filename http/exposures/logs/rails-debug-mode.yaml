@@ -1,6 +1,9 @@
 id: rails-debug-mode
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Rails Debug Mode
   author: pdteam
   severity: medium

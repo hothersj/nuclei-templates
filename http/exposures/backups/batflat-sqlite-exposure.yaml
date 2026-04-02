@@ -1,6 +1,11 @@
 id: batflat-sqlite-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
+      - CWE-922
   name: Batflat SQLite Database - Exposure
   author: DhiyaneshDk
   severity: high

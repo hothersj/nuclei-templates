@@ -14,7 +14,9 @@ info:
     - https://support.microsoft.com/en-gb/topic/autodiscover-v2-returns-internalurl-not-externalurls-in-other-site-774301e2-2d1e-d5e0-aa41-a49f6e9b06f4
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-306
+      - CWE-862
     cpe: cpe:2.3:a:microsoft:exchange_server:*:*:*:*:*:*:*:*
   metadata:
     verified: true

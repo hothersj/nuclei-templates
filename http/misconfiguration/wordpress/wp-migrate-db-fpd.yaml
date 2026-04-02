@@ -1,6 +1,9 @@
 id: wp-migrate-db-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress WP Migrate DB - Full Path Disclosure
   author: pussycat0x
   severity: low

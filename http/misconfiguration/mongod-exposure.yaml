@@ -6,6 +6,10 @@ info:
   severity: low
   classification:
     cpe: cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

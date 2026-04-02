@@ -1,6 +1,10 @@
 id: wireguard-private-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-538
   name: WireGuard Private Key
   author: DhiyaneshDK
   severity: info

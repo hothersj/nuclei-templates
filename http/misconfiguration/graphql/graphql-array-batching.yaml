@@ -1,6 +1,11 @@
 id: graphql-array-batching
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-799
+      - CWE-840
   name: GraphQL Array-based Batching
   author: Dolev Farhi
   severity: info

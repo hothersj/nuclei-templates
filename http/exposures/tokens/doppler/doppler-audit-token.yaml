@@ -1,6 +1,10 @@
 id: doppler-audit-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Doppler Audit Token
   author: DhiyaneshDK
   severity: info

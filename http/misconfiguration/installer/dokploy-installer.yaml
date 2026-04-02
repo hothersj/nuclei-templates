@@ -1,6 +1,10 @@
 id: dokploy-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Dokploy Installer Exposure
   author: DhiyaneshDk
   severity: high

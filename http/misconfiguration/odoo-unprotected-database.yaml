@@ -10,6 +10,9 @@ info:
     Implement and enforce proper authentication and access control measures to protect the Odoo database manager.
   classification:
     cpe: cpe:2.3:a:odoo:odoo:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

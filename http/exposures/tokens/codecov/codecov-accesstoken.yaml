@@ -1,6 +1,10 @@
 id: codecov-accesstoken
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-538
   name: Codecov Access Token
   author: DhiyaneshDK
   severity: info

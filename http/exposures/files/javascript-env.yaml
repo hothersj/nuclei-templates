@@ -1,6 +1,12 @@
 id: javascript-env
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
+      - CWE-798
   name: JavaScript Environment Configuration - Detect
   author: pdp,geeknik,hetyh,s4e-io
   severity: low

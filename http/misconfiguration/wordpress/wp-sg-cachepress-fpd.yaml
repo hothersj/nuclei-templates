@@ -1,6 +1,9 @@
 id: wp-sg-cachepress-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin SG Optimizer - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

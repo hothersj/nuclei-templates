@@ -1,6 +1,10 @@
 id: chanjet-tplus-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-73
   name: Chanjet TPlus DownloadProxy.aspx - Arbitrary File Read
   author: SleepingBag945
   severity: high

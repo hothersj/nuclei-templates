@@ -1,6 +1,9 @@
 id: wp-members-error-log-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Members / Membership & User Role Editor Plugin - Error Log Disclosure
   author: ritikchaddha
   severity: low

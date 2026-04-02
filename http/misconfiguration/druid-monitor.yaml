@@ -1,6 +1,11 @@
 id: druid-monitor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-285
+      - CWE-306
+      - CWE-862
   name: Alibaba Druid Monitor Unauthorized Access
   author: ohlinge
   severity: high

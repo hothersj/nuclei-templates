@@ -6,6 +6,10 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:apachefriends:xampp:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     max-request: 1
     vendor: apachefriends

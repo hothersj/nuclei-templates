@@ -1,6 +1,10 @@
 id: openmetadata-admin-userenum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: OpenMetadata - Admin User Enumeration
   author: icarot
   severity: medium

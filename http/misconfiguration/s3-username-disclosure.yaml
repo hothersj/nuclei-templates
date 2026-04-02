@@ -1,6 +1,11 @@
 id: s3-username-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-538
+      - CWE-922
   name: x-amz-meta-s3cmd-attrs Header Username Disclosure
   author: DhiyaneshDK
   severity: low

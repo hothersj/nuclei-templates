@@ -1,6 +1,9 @@
 id: realor-gwt-system-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Realor GWT System SQL injection
   author: SleepingBag945
   severity: high

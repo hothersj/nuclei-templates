@@ -1,6 +1,10 @@
 id: firebase-urls
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-540
   name: Google Firebase DB URL Finder
   author: panch0r3d
   severity: info

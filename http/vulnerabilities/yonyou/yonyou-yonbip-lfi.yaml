@@ -1,6 +1,11 @@
 id: yonyou-yonbip-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: YonBIP - Arbitrary File Read
   author: l1b3r
   severity: high

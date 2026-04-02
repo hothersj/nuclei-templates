@@ -7,6 +7,10 @@ info:
   description: Oracle Reports Services - Servlet Command dashboard
   classification:
     cpe: cpe:2.3:a:oracle:reports:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 3

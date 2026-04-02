@@ -1,6 +1,10 @@
 id: opensearch-dashboard-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: OpenSearch Dashboard - Unauth Access
   author: ritikchaddha
   severity: high

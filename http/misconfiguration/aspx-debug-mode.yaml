@@ -1,6 +1,9 @@
 id: aspx-debug-mode
 
 info:
+  classification:
+    cwe-id:
+      - CWE-11
   name: ASP.NET Debugging Enabled
   author: dhiyaneshDk
   severity: info

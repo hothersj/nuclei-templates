@@ -1,6 +1,10 @@
 id: vmware-nsx-stream-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-502
   name: VMware NSX Manager XStream Pre-authenticated Remote Code Execution
   author: _0xf4n9x_
   severity: high

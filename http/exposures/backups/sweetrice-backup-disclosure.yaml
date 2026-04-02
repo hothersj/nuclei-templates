@@ -1,6 +1,11 @@
 id: sweetrice-backup-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-548
+      - CWE-552
   name: SweetRice CMS 1.5.1 - Backup Disclosure
   author: mananispiwpiw
   severity: medium

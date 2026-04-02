@@ -1,6 +1,9 @@
 id: old-copyright
 
 info:
+  classification:
+    cwe-id:
+      - CWE-840
   name: Find Pages with Old Copyright Dates
   author: geeknik
   severity: info

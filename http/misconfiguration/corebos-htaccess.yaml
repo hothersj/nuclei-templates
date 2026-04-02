@@ -1,6 +1,10 @@
 id: corebos-htaccess
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: CoreBos - .htaccess File Exposure
   author: arafatansari
   severity: info

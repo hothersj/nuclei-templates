@@ -9,6 +9,9 @@ info:
     - https://www.facebook.com/ExWareLabs/photos/pcb.5563308760399619/5563307330399762/
   classification:
     cpe: cpe:2.3:a:redis:redis:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
+      - CWE-756
   metadata:
     verified: true
     max-request: 1

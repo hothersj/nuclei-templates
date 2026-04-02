@@ -1,6 +1,11 @@
 id: google-oauth-prefixed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: Google OAuth Client Secret (prefixed)
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: flow-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Flow Configuration - Exposure
   author: theamanrawat
   severity: medium

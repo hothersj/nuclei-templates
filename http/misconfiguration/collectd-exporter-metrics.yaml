@@ -1,6 +1,10 @@
 id: collectd-exporter-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Collectd Exporter Metrics
   author: DhiyaneshDk
   severity: low

@@ -12,6 +12,8 @@ info:
     - https://www.integrigy.com/oracle-application-server-fastcgi-echo-vulnerability-reports
   classification:
     cpe: cpe:2.3:a:fastcgi:fcgi:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     verified: true
     max-request: 1

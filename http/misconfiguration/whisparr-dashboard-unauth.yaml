@@ -1,6 +1,11 @@
 id: whisparr-dashboard-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Whisparr Dashboard - Unauthenticated
   author: ProjectDiscoveryAI
   severity: medium

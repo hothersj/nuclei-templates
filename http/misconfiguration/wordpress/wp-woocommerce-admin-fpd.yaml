@@ -1,6 +1,11 @@
 id: wp-woocommerce-admin-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-306
+      - CWE-862
   name: WordPress Plugin WooCommerce Admin (woocommerce-admin) Full Path Disclosure
   author: DhiyaneshDk
   severity: low

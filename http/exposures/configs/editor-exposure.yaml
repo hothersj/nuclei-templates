@@ -1,6 +1,11 @@
 id: editor-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Editor Configuration File - Detect
   author: DhiyaneshDk,daffainfo
   severity: low

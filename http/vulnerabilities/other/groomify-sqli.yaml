@@ -1,6 +1,9 @@
 id: groomify-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Groomify v1.0 - SQL Injection Vulnerability
   author: theamanrawat
   severity: high

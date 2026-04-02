@@ -1,6 +1,10 @@
 id: wanhu-teleconferenceservice-xxe
 
 info:
+  classification:
+    cwe-id:
+      - CWE-91
+      - CWE-611
   name: Wanhu OA TeleConferenceService Interface - XML External Entity Injection
   author: SleepingBag945
   severity: high

@@ -7,6 +7,10 @@ info:
   description: HP office pro printer web access is exposed.
   classification:
     cpe: cpe:2.3:h:hp:officejet_pro_8730_m9l80a:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 2
     vendor: hp

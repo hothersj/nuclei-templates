@@ -1,6 +1,10 @@
 id: huijietong-cloud-fileread
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Huijietong - Local File Inclusion
   author: princechaddha,ritikchaddha
   severity: high

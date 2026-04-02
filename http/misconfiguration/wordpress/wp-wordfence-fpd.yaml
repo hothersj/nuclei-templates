@@ -1,6 +1,9 @@
 id: wp-wordfence-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Wordfence - Full Path Disclosure
   author: theamanrawat,DhiyaneshDK
   severity: low

@@ -7,6 +7,9 @@ info:
   description: Permissions Installer is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:suse:permissions:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

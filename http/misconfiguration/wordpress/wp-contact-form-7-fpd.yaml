@@ -1,6 +1,9 @@
 id: wp-contact-form-7-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Contact Form 7 - Full Path Disclosure
   author: pussycat0x
   severity: low

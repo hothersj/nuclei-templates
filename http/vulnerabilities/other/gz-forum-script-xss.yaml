@@ -1,6 +1,10 @@
 id: gz-forum-script-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: GZ Forum Script 1.8 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

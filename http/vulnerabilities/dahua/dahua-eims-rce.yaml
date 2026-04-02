@@ -1,6 +1,10 @@
 id: dahua-eims-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Dahua EIMS - Remote Command Execution
   author: DhiyaneshDk
   severity: critical

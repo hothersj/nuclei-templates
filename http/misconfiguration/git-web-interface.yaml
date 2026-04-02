@@ -7,6 +7,8 @@ info:
   description: Git Web Interface is exposed.
   classification:
     cpe: cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-548
   metadata:
     max-request: 1
     vendor: git-scm

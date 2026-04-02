@@ -12,6 +12,10 @@ info:
     - https://packetstormsecurity.com/files/160260/apache_nifi_processor_rce.rb.txt
   classification:
     cpe: cpe:2.3:a:apache:nifi:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-78
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

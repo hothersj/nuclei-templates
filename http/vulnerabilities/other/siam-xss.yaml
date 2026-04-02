@@ -1,6 +1,10 @@
 id: siam-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: SIAM 2.0 - Cross-Site Scripting
   author: 3th1c_yuk1
   severity: medium

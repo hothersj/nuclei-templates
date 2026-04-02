@@ -1,6 +1,10 @@
 id: makefile-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Makefile - Exposure
   author: 0x_Akoko
   severity: low

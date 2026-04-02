@@ -1,6 +1,9 @@
 id: clientaccesspolicy
 
 info:
+  classification:
+    cwe-id:
+      - CWE-942
   name: Silverlight cross-domain policy
   author: emadshanab
   severity: info

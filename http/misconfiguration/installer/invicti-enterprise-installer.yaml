@@ -1,6 +1,11 @@
 id: invicti-enterprise-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Invicti Enterprise Installation Page - Exposure
   author: DhiyaneshDK
   severity: high

@@ -1,6 +1,11 @@
 id: wordpress-user-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-359
+      - CWE-807
   name: Wordpress User Enumeration
   author: r3dg33k
   severity: info

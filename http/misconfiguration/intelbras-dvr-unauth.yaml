@@ -1,6 +1,11 @@
 id: intelbras-dvr-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-538
+      - CWE-862
   name: Intelbras DVR - Unrestricted Access
   author: pussycat0x
   severity: low

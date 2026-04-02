@@ -1,6 +1,10 @@
 id: vscode-slnx-sqlite-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Visual Studio Code - Slnx.SQLite File Disclosure
   author: ritikchaddha
   severity: high

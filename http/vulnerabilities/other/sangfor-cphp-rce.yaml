@@ -1,6 +1,10 @@
 id: sangfor-cphp-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Sangfor Log Center - Remote Command Execution
   author: DhiyaneshDk
   severity: critical

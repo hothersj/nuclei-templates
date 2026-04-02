@@ -1,6 +1,10 @@
 id: idea-logs-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Public .idea Folder containing http logs
   author: martincodes-de
   severity: info

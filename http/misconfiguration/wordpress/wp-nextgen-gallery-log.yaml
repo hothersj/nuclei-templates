@@ -1,6 +1,10 @@
 id: wp-nextgen-gallery-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-219
   name: WordPress Gallery Plugin / NextGEN Gallery (nextgen-gallery) Error Log Disclosure
   author: DhiyaneshDk
   severity: low

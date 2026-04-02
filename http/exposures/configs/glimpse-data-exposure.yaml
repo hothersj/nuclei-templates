@@ -10,7 +10,10 @@ info:
     - https://getglimpse.com/
     - https://github.com/Glimpse/Glimpse
   classification:
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-260
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

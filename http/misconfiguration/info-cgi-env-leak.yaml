@@ -1,6 +1,9 @@
 id: info-cgi-env-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: info.cgi  Environment Variable - Disclosure
   author: pussycat0x
   severity: medium

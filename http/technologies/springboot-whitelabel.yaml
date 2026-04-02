@@ -1,6 +1,10 @@
 id: springboot-whitelabel
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: SpringBoot WhiteLabel Error Page - Detect
   author: Matt Miller
   severity: info

@@ -1,6 +1,10 @@
 id: styleci-yml-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: StyleCi Yaml File Disclosure
   author: DhiyaneshDk
   severity: info

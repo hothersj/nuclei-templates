@@ -8,6 +8,8 @@ info:
     - https://github.com/OWASP/vbscan/blob/master/modules/pathdisclure.pl
   classification:
     cpe: cpe:2.3:a:vbulletin:vbulletin:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 11

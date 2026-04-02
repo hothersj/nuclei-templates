@@ -1,6 +1,11 @@
 id: springboot-env
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: Springboot Env Actuator - Detect
   author: that_juan_,dwisiswant0,wdahlenb,philippedelteil,stupidfish
   severity: low

@@ -1,6 +1,10 @@
 id: fastjson-version
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-537
   name: Fastjson Version Detection
   author: yuansec
   severity: info

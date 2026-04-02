@@ -1,6 +1,9 @@
 id: http-trace
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
   name: HTTP TRACE method enabled
   author: nodauf
   severity: info

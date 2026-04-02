@@ -1,6 +1,12 @@
 id: ntfy-web-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: NTFY Web - Exposure
   author: DhiyaneshDk
   severity: medium

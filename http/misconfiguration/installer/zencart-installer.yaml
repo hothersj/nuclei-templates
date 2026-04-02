@@ -9,6 +9,10 @@ info:
     - https://www.zen-cart.com/
   classification:
     cpe: cpe:2.3:a:zen-cart:zen_cart:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

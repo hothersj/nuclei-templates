@@ -1,6 +1,11 @@
 id: sap-message-server-console
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: SAP Message Server Console - Exposure
   author: LRVT,l4rm4nd
   severity: info

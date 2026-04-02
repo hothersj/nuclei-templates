@@ -1,6 +1,9 @@
 id: metatag-cms
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Metatag CMS Detection
   author: dadevel
   severity: info

@@ -11,6 +11,10 @@ info:
     - https://github.com/Augensternyu/POC-bomber/blob/main/pocs/redteam/yongyou_nc_fileupload_2022.py
   classification:
     cpe: cpe:2.3:a:yonyou:ufida-nc:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-94
+      - CWE-306
+      - CWE-434
   metadata:
     verified: true
     max-request: 2

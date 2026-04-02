@@ -1,6 +1,9 @@
 id: twig-runtime-error
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Twig Runtime Error - Page
   author: DhiyaneshDk
   severity: info

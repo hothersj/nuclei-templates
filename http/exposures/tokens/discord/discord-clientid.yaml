@@ -1,6 +1,10 @@
 id: discord-clientid
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
   name: Discord Client ID
   author: DhiyaneshDK
   severity: info

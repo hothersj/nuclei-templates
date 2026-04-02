@@ -1,6 +1,11 @@
 id: socks5-vpn-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-313
+      - CWE-552
   name: Socks5 VPN - Sensitive File Disclosure
   author: DhiyaneshDk
   severity: high

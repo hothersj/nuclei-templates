@@ -1,6 +1,12 @@
 id: badarg-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-497
+      - CWE-552
   name: Badarg Log File Exposure
   author: Hardik-Solanki
   severity: low

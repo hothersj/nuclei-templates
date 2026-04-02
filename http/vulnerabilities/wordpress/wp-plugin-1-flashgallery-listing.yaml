@@ -1,6 +1,10 @@
 id: wp-plugin-1-flashgallery-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress 1 flash gallery listing
   author: pussycat0x
   severity: info

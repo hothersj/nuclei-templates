@@ -1,6 +1,9 @@
 id: yonyou-u8-crm-tb-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: UFIDA U8 CRM fillbacksetting.php - SQL Injection
   author: s4e-io
   severity: high

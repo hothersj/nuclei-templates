@@ -1,6 +1,9 @@
 id: wordpress-joinchat-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Joinchat - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

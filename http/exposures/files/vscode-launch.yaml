@@ -1,6 +1,10 @@
 id: vscode-launch
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
   name: Visual Studio Code launch.json Exposure
   author: DhiyaneshDK
   severity: low

@@ -1,6 +1,10 @@
 id: intermapper-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: InterMapper - Exposure
   author: pussycat0x
   severity: high

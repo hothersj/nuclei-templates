@@ -14,7 +14,10 @@ info:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
     cvss-score: 9.8
     cve-id: CVE-2020-21224
-    cwe-id: CWE-88
+    cwe-id:
+      - CWE-78
+      - CWE-88
+      - CWE-306
     cpe: cpe:2.3:a:inspur:clusterengine:*:*:*:*:*:*:*:*
   metadata:
     max-request: 1

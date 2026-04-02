@@ -1,6 +1,11 @@
 id: unauth-redis-insight
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: RedisInsight - Unauthenticated Access
   author: ggranjus
   severity: high

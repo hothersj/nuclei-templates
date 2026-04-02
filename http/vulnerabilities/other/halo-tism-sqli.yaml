@@ -1,6 +1,9 @@
 id: halo-tism-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Halo ITSM - Pre-Authentication SQL Injection
   author: rootxharsh,iamnoooob,pdresearch
   severity: critical

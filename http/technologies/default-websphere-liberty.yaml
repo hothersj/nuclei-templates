@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:ibm:websphere_liberty:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     verified: true
     max-request: 1

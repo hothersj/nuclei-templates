@@ -1,6 +1,9 @@
 id: django-debug-config-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Django Debug Configuration Enabled
   author: dhiyaneshDK,hackergautam
   severity: medium

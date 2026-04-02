@@ -1,6 +1,11 @@
 id: pa11y-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Pa11y Dashboard Exposure
   author: tess
   severity: low

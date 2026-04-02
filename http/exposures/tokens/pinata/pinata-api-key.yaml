@@ -1,6 +1,10 @@
 id: pinata-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-540
   name: Pinata API Key - Expose
   author: 0xpugal
   severity: info

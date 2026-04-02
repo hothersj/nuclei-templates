@@ -1,6 +1,9 @@
 id: wp-duracelltomi-google-tag-manager-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin Google Tag Manager - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

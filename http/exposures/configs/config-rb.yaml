@@ -1,6 +1,10 @@
 id: config-rb
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: Ruby Configuration File - Detect
   author: DhiyaneshDK
   severity: unknown

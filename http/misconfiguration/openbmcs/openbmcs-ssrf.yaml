@@ -11,7 +11,9 @@ info:
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:N/A:N
     cvss-score: 6.8
-    cwe-id: CWE-918
+    cwe-id:
+      - CWE-99
+      - CWE-918
   metadata:
     max-request: 1
     shodan-query: http.favicon.hash:1550906681

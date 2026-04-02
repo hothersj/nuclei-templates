@@ -11,6 +11,9 @@ info:
     - https://royduineveld.nl/magento-cacheleak-exploit/
   classification:
     cpe: cpe:2.3:a:magento:magento:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,11 @@
 id: eyelock-nano-lfd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: EyeLock nano NXT 3.5 - Arbitrary File Retrieval
   author: geeknik
   severity: high

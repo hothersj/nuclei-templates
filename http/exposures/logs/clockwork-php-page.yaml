@@ -1,6 +1,10 @@
 id: clockwork-php-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Clockwork PHP page exposure
   author: organiccrap
   severity: high

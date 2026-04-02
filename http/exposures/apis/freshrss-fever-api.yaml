@@ -1,6 +1,11 @@
 id: freshrss-fever-api
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: FreshRSS Fever API - Exposure
   author: ritikchaddha
   severity: low

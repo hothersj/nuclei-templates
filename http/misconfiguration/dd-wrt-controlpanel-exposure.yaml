@@ -1,6 +1,10 @@
 id: dd-wrt-controlpanel-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: DD-WRT Control Panel - Exposure
   author: DhiyaneshDk
   severity: low

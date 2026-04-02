@@ -1,6 +1,9 @@
 id: huatian-oa-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Huatian Power OA 8000 - SQL Injection
   author: ritikchaddha
   severity: high

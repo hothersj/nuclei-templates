@@ -1,6 +1,10 @@
 id: xss-uri-reflected
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Reflected XSS
   author: nadino,geeknik,matejsmycka
   severity: low

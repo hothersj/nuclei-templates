@@ -10,6 +10,8 @@ info:
     - https://portswigger.net/web-security/jwt/algorithm-confusion
   classification:
     cpe: cpe:2.3:a:jwt_project:jwt:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-538
   metadata:
     verified: true
     max-request: 1

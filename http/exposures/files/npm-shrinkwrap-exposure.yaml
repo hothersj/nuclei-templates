@@ -10,6 +10,10 @@ info:
     - https://docs.npmjs.com/cli/v9/configuring-npm/npm-shrinkwrap-json
   classification:
     cpe: cpe:2.3:a:npmjs:npm:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 1

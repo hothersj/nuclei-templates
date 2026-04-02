@@ -1,6 +1,11 @@
 id: dahua-icc-backdoor-user
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-288
+      - CWE-798
   name: Dahua Intelligent IoT - Information Disclosure
   author: DhiyaneshDk
   severity: high

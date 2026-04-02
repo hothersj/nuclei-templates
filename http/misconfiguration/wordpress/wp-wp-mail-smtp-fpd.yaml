@@ -1,6 +1,9 @@
 id: wp-wp-mail-smtp-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress WP Mail SMTP - Full Path Disclosure
   author: ritikchaddha
   severity: low

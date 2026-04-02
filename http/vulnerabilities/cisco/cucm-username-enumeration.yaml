@@ -1,6 +1,11 @@
 id: cucm-username-enumeration
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: Cisco Unified Communications Manager - User Enumeration
   author: manasmbellani,Morgan Robertson
   severity: medium

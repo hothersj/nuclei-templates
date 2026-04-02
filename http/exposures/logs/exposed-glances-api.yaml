@@ -1,6 +1,10 @@
 id: exposed-glances-api
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Exposed Glances API
   author: princechaddha
   severity: low

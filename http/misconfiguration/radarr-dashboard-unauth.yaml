@@ -1,6 +1,11 @@
 id: radarr-dashboard-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Radarr Dashboard - Unauthenticated
   author: ProjectDiscoveryAI
   severity: medium

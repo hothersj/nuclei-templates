@@ -1,6 +1,11 @@
 id: springboot-heapdump
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Spring Boot Actuator - Heap Dump Detection
   author: that_juan_,dwisiswant0,wdahlenb
   severity: critical

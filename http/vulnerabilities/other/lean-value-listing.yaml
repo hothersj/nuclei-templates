@@ -1,6 +1,11 @@
 id: lean-value-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-548
+      - CWE-552
   name: LVS Lean Value Management System Business - Directory Listing
   author: pussycat0x
   severity: low

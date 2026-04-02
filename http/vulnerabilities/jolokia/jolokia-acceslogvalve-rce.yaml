@@ -1,6 +1,11 @@
 id: jolokia-acceslogvalve-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-73
+      - CWE-94
   name: Jolokia write to RCE valve
   author: pathtaga
   severity: critical

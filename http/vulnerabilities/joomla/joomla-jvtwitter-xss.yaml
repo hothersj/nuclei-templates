@@ -1,6 +1,10 @@
 id: joomla-jvtwitter-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Joomla JVTwitter - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

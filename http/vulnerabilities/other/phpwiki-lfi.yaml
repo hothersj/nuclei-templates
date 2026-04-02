@@ -1,6 +1,10 @@
 id: phpwiki-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: phpwiki 1.5.4 - Cross-Site Scripting/Local File Inclusion
   author: 0x_Akoko
   severity: high

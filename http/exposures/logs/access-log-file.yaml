@@ -1,6 +1,11 @@
 id: access-log-file
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Publicly accessible access-log file
   author: sheikhrishad
   severity: low

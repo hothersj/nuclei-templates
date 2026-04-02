@@ -1,6 +1,10 @@
 id: wp-sfwd-lms-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress Plugin Sfwd-lms Listing
   author: pussycat0x
   severity: info

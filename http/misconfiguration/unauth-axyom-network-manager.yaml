@@ -1,6 +1,12 @@
 id: unauth-axyom-network-manager
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Unauthenticated Axyom Network Manager
   author: pussycat0x
   severity: high

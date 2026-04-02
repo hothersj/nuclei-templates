@@ -1,6 +1,10 @@
 id: unauthenticated-glances
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Glances Unauthenticated Panel
   author: remonsec
   severity: low

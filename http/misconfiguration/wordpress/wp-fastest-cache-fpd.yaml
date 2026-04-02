@@ -1,6 +1,10 @@
 id: wp-fastest-cache-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress WP Fastest Cache Plugin - Full Path Disclosure
   author: 0x_Akoko
   severity: info

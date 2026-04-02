@@ -1,6 +1,10 @@
 id: azuredeploy-json
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: Azure Resource Manager Template - File Exposure
   author: DhiyaneshDk
   severity: medium

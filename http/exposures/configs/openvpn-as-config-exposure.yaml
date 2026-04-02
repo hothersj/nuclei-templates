@@ -1,6 +1,11 @@
 id: openvpn-as-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: OpenVPN Access Server - Configuration Exposure
   author: 0x_Akoko
   severity: high

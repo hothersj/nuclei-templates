@@ -9,6 +9,11 @@ info:
     - https://twitter.com/GodfatherOrwa/status/1701392754251563477
   classification:
     cpe: cpe:2.3:a:phpldapadmin_project:phpldapadmin:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-79
+      - CWE-80
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 9

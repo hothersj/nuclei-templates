@@ -1,6 +1,11 @@
 id: roundcube-installer-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-862
   name: Roundcube Webmail Installer - Exposure
   author: theamanrawat
   severity: high

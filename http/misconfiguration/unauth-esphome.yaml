@@ -1,6 +1,11 @@
 id: unauth-esphome
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: ESPHome Web Server access - Unauthenticated Access
   author: pussycat0x
   severity: high

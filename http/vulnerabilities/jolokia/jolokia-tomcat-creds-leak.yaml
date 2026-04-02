@@ -1,6 +1,12 @@
 id: jolokia-tomcat-creds-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-306
+      - CWE-522
+      - CWE-862
   name: Jolokia <= 1.7.1 Information Leakage
   author: pathtaga
   severity: critical

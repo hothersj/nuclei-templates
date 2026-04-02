@@ -1,6 +1,11 @@
 id: discord-webhook
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
+      - CWE-922
   name: Discord Webhook Disclosure
   author: Ice3man, apapedulimu
   severity: info

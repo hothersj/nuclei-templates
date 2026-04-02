@@ -1,6 +1,11 @@
 id: awstats-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-538
+      - CWE-548
   name: AWStats Listing
   author: tess
   severity: low

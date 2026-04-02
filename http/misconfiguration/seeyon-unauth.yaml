@@ -1,6 +1,11 @@
 id: seeyon-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-288
+      - CWE-639
   name: Seeyon Unauthorised Access
   author: pikpikcu
   severity: high

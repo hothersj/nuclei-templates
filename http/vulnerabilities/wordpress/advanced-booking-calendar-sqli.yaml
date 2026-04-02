@@ -1,6 +1,9 @@
 id: advanced-booking-calendar-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Advanced Booking Calendar < 1.6.2 - SQL Injection
   author: theamanrawat
   severity: critical

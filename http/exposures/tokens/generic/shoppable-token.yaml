@@ -1,6 +1,9 @@
 id: shoppable-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
   name: Shoppable Service Auth Token
   author: philippedelteil
   severity: unknown

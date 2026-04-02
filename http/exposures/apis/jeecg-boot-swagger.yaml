@@ -7,6 +7,9 @@ info:
   description: Jeecg Swagger Bootstrap UI exposed.
   classification:
     cpe: cpe:2.3:a:jeecg:jeecg-boot:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

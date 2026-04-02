@@ -1,6 +1,10 @@
 id: yibao-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-94
   name: Yibao OA System - SQL Injection
   author: DhiyaneshDK
   severity: high

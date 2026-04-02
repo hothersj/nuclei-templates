@@ -1,6 +1,11 @@
 id: mlflow-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Mlflow - Unauthenticated Access
   author: pussycat0x
   severity: high

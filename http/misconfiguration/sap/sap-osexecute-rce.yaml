@@ -1,6 +1,10 @@
 id: sap-osexecute-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-306
   name: SAPControl OSExecute - Remote Code Execution (RCE)
   author: LRVT,l4rm4nd
   severity: critical

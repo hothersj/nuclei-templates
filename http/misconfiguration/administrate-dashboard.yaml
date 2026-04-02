@@ -1,6 +1,11 @@
 id: administrate-dashboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Administrate Dashboard Exposure
   author: DhiyaneshDk
   severity: high

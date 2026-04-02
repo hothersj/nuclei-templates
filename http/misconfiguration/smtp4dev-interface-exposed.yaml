@@ -1,6 +1,10 @@
 id: smtp4dev-interface-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SMTP4Dev Interface - Exposed
   author: DhiyaneshDk
   severity: high

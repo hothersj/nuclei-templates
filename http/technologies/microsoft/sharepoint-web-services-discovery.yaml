@@ -1,6 +1,9 @@
 id: sharepoint-web-services-discovery
 
 info:
+  classification:
+    cwe-id:
+      - CWE-651
   name: Microsoft SharePoint - Web Services Discovery
   author: 0x_Akoko
   severity: info

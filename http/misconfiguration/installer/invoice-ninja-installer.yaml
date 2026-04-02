@@ -1,6 +1,11 @@
 id: invoice-ninja-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Invoice Ninja Setup Page - Exposure
   author: DhiyaneshDK
   severity: high

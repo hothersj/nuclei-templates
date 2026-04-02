@@ -1,6 +1,9 @@
 id: wp-intuitive-custom-post-order-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin Intuitive Custom Post Order - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

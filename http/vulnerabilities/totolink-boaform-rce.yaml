@@ -9,7 +9,9 @@ info:
   reference:
     - https://github.com/fizz-is-on-the-way/Iot_vuls/blob/main/N150RT/RCE_formWsc/README.md
   classification:
-    cwe-id: CWE-78
+    cwe-id:
+      - CWE-77
+      - CWE-78
   metadata:
     max-request: 2
     product: TOTOLINK

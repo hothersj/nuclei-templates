@@ -1,6 +1,10 @@
 id: wp-qards-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress Plugin Qards
   author: pussycat0x
   severity: info

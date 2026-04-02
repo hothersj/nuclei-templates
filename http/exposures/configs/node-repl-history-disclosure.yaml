@@ -1,6 +1,11 @@
 id: node-repl-history-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Node.js REPL History Disclosure
   author: pussycat0x
   severity: low

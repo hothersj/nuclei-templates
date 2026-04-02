@@ -1,6 +1,10 @@
 id: doppler-scim-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: Doppler SCIM Token
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: fcm-server-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-319
   name: FCM Server Key
   author: absshax
   severity: high

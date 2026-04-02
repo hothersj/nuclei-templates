@@ -1,6 +1,11 @@
 id: wp-haberadam-idor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-639
+      - CWE-862
   name: WordPress Themes Haberadam JSON API - IDOR and Path Disclosure
   author: pussycat0x
   severity: low

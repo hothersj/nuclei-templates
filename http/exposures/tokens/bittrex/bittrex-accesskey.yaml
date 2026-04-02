@@ -1,6 +1,11 @@
 id: bittrex-accesskey
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
+      - CWE-522
   name: Bittrex Access Key
   author: DhiyaneshDK
   severity: info

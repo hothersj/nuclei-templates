@@ -41,6 +41,10 @@ info:
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
     cvss-score: 7.5
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     max-request: 89
   tags: files,database,exposure,sqlite,sqlite3,fuzz,sqli,vuln

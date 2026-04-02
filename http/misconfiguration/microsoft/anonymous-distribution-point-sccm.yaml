@@ -1,6 +1,12 @@
 id: anonymous-distribution-point-sccm
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Microsoft SCCM - Anonymous Distribution Point Access
   author: matejsmycka
   severity: medium

@@ -1,6 +1,11 @@
 id: sap-netweaver-webgui
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: SAP NetWeaver WebGUI Detection
   author: randomstr1ng
   severity: info

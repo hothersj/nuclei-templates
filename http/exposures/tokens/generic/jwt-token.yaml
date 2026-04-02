@@ -1,6 +1,10 @@
 id: jwt-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: JWT Token Disclosure
   author: Ice3man
   severity: unknown

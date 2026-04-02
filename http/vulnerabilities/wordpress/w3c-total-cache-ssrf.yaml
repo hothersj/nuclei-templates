@@ -1,6 +1,11 @@
 id: w3c-total-cache-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-73
+      - CWE-99
+      - CWE-918
   name: Wordpress W3C Total Cache <= 0.9.4 - Server Side Request Forgery (SSRF)
   author: random_robbie
   severity: medium

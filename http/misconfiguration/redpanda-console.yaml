@@ -1,6 +1,10 @@
 id: redpanda-console
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Redpanda Console - Exposure
   author: kh4sh3i
   severity: medium

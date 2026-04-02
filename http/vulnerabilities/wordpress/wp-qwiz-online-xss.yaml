@@ -1,6 +1,10 @@
 id: wp-qwiz-online-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Qwiz Online Quizzes And Flashcards <= 3.36 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

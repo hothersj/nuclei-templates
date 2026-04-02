@@ -1,6 +1,11 @@
 id: dahua-icc-getclassvalue-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-94
+      - CWE-470
   name: Dahua 'GetClassValue' - Remote Code Execution
   author: ProjectDiscoveryAI
   severity: critical

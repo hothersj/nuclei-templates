@@ -1,6 +1,11 @@
 id: piwik-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Piwik Installer Exposure
   author: DhiyaneshDk
   severity: low

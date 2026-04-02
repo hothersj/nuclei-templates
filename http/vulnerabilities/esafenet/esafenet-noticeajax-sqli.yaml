@@ -1,6 +1,9 @@
 id: esafenet-noticeajax-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Esafenet CDG NoticeAjax - Sql Injection
   author: adeljck
   severity: high

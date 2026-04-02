@@ -1,6 +1,11 @@
 id: nps-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-359
   name: NPS - Authentication Bypass
   author: SleepingBag945
   severity: high

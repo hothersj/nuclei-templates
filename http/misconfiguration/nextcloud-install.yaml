@@ -1,6 +1,11 @@
 id: nextcloud-install
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Nextcloud Exposed Installation
   author: skeltavik
   severity: high

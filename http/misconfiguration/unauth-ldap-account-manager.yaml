@@ -7,6 +7,11 @@ info:
   description: LDAP Account Manager is exposed to external users.
   classification:
     cpe: cpe:2.3:a:ldap-account-manager:ldap_account_manager:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,10 @@
 id: kube-api-deployments
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Kube API Deployments
   author: sharath
   severity: info

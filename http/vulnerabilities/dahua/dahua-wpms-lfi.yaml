@@ -1,6 +1,10 @@
 id: dahua-wpms-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Dahua Smart Park Management Platform - Arbitary File Read
   author: DhiyaneshDk
   severity: high

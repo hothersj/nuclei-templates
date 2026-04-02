@@ -1,6 +1,11 @@
 id: craftcms-debug-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-306
+      - CWE-862
   name: CraftCMS Debug Methods Exposed
   author: 0x_Akoko
   severity: medium

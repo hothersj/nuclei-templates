@@ -1,6 +1,10 @@
 id: enjoyrmis-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: EnjoyRMIS - SQL Injection
   author: s4e-io
   severity: high

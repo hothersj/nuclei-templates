@@ -1,6 +1,10 @@
 id: wp-email-subscribers-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress Plugin Email Subscribers Listing
   author: pussycat0x
   severity: low

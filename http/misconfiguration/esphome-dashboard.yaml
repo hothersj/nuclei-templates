@@ -8,6 +8,10 @@ info:
     ESPHome Dashboard exposes the secrets like wifi password,api keys and internal logs, it also allows users to make changes through the dashboard.
   classification:
     cpe: cpe:2.3:a:esphome:esphome:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,9 @@
 id: wordpress-storefront-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Storefront Theme - Full Path Disclosure
   author: pussycat0x
   severity: low

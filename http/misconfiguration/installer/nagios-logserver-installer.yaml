@@ -1,6 +1,11 @@
 id: nagios-logserver-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Nagios Log Server - Install
   author: ritikchaddha
   severity: high

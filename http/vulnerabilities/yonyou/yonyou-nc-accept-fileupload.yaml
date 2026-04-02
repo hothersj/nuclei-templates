@@ -11,6 +11,9 @@ info:
     - https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&chksm=c184c6a1f6f34fb788437557f0e7708c74b16928e5973772db09b12067f10cf28b108701f67a&idx=1&lang=zh_CN&mid=2247488118&sn=16217c422eafc656df5fcacee9aa2153&token=857848930#rd
   classification:
     cpe: cpe:2.3:a:yonyou:ufida-nc:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-73
+      - CWE-434
   metadata:
     verified: true
     max-request: 2

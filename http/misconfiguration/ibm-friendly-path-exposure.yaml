@@ -9,6 +9,12 @@ info:
     - https://clarkvoss.medium.com/how-to-harpon-big-blue-c163722638d8
   classification:
     cpe: cpe:2.3:a:ibm:websphere_portal:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-213
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     max-request: 5
     vendor: ibm

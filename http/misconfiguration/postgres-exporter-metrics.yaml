@@ -1,6 +1,10 @@
 id: postgres-exporter-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Postgres Exporter Metrics
   author: DhiyaneshDk
   severity: low

@@ -10,6 +10,8 @@ info:
     - https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/
   classification:
     cpe: cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

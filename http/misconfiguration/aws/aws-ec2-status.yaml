@@ -1,6 +1,10 @@
 id: aws-ec2-status
 
 info:
+  classification:
+    cwe-id:
+      - CWE-552
+      - CWE-862
   name: Amazon EC2 Status
   author: DhiyaneshDk
   severity: info

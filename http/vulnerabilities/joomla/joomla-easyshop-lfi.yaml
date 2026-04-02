@@ -1,6 +1,11 @@
 id: joomla-easyshop-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Joomla! Component Easy Shop 1.2.3 - Local File Inclusion
   author: ritikchaddha
   severity: high

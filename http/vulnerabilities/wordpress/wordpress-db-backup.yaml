@@ -1,6 +1,11 @@
 id: wordpress-db-backup
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-548
+      - CWE-552
   name: WordPress DB Backup
   author: dwisiswant0
   severity: medium

@@ -1,6 +1,9 @@
 id: google-floc-disabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
   name: Google FLoC Disabled
   author: geeknik
   severity: info

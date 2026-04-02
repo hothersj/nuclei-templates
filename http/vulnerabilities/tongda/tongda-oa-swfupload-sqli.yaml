@@ -1,6 +1,9 @@
 id: tongda-oa-swfupload-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Tongda OA v11.5 swfupload_new.php - SQL Injection
   author: SleepingBag945
   severity: high

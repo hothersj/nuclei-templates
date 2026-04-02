@@ -9,6 +9,11 @@ info:
     - https://spa-cart.com/
   classification:
     cpe: cpe:2.3:a:spa-cart:spa-cart:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     max-request: 1
     vendor: spa-cart

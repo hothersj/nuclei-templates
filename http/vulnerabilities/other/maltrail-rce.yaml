@@ -1,6 +1,10 @@
 id: maltrail-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Maltrail <= v0.54 - Unauthenticated OS Command Injection
   author: pussycat0x
   severity: critical

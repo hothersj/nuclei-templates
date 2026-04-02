@@ -1,6 +1,10 @@
 id: atlassian-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: Atlassian API Token
   author: DhiyaneshDK
   severity: info

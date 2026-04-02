@@ -10,6 +10,8 @@ info:
     - https://github.com/n8n-io/n8n
   classification:
     cpe: cpe:2.3:a:n8n:n8n:*:*:*:*:*:node.js:*:*
+    cwe-id:
+      - CWE-201
   metadata:
     max-request: 1
     vendor: n8n

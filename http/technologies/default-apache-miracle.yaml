@@ -1,6 +1,11 @@
 id: default-apache-miracle
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Default Apache Miracle Linux Web Server Page
   author: DhiyaneshDK
   severity: info

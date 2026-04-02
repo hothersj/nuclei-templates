@@ -7,6 +7,8 @@ info:
   description: Airflow Debug Trace enabled.
   classification:
     cpe: cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

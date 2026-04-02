@@ -6,6 +6,9 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:creativedream_file_uploader_project:creativedream_file_uploader:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-434
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

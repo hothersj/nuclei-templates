@@ -1,6 +1,11 @@
 id: nginx-api-traversal
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Nginx Plus Rest API - Traversal
   author: encodedguy
   severity: high

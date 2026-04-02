@@ -8,6 +8,11 @@ info:
     QloApps Installation Assistant panel exposure.
   classification:
     cpe: cpe:2.3:a:webkul:qloapps:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,10 @@
 id: wp-prostore-open-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-601
+      - CWE-610
   name: WordPress ProStore <1.1.3 - Open Redirect
   author: 0x_Akoko
   severity: low

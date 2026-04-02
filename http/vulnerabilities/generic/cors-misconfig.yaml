@@ -1,6 +1,10 @@
 id: cors-misconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-346
+      - CWE-942
   name: CORS Misconfiguration
   author: nadino,g4l1t0,convisoappsec,pdteam,breno_css,nodauf,amirmsafari
   severity: info

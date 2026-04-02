@@ -1,6 +1,9 @@
 id: wp-rank-math-seo-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress SEO Plugin Rank Math - Full Path Disclosure
   author: ritikchaddha,DhiyaneshDK
   severity: low

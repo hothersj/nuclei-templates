@@ -1,6 +1,10 @@
 id: kubelet-stats
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Kubelet Stats
   author: sharath
   severity: info

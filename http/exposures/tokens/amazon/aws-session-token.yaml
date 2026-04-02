@@ -1,6 +1,10 @@
 id: aws-session-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: AWS Session Token
   author: DhiyaneshDK
   severity: info

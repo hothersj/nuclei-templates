@@ -1,6 +1,10 @@
 id: espeasy-mega-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: ESPEasy Mega Panel Exposure
   author: ritikchaddha
   severity: high

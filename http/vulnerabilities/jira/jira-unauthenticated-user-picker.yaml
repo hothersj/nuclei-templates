@@ -6,6 +6,10 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:atlassian:jira_data_center:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   metadata:
     max-request: 1
     vendor: atlassian

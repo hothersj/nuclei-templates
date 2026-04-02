@@ -1,6 +1,11 @@
 id: yarn-lock
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Yarn Lock File Disclosure
   author: oppsec,noraj
   severity: info

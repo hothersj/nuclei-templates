@@ -1,6 +1,10 @@
 id: kingdee-erp-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-502
   name: Kingdee OA Yunxingkong kdsvc - Remote Code Execution
   author: SleepingBag945
   severity: critical

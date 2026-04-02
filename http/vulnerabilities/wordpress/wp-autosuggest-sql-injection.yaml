@@ -1,6 +1,9 @@
 id: wp-autosuggest-sql-injection
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: WP AutoSuggest 0.24 - SQL Injection
   author: theamanrawat
   severity: critical

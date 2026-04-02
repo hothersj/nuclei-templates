@@ -1,6 +1,11 @@
 id: unauthenticated-lansweeper
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Unauthenticated Lansweeper Instance
   author: divya_mudgal
   severity: high

@@ -7,6 +7,8 @@ info:
   description: TYPO3 Debug Mode is enabled.
   classification:
     cpe: cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
   metadata:
     verified: true
     max-request: 1

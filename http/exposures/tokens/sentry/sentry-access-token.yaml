@@ -1,6 +1,11 @@
 id: sentry-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-540
+      - CWE-798
   name: Sentry Access Token
   author: DhiyaneshDK
   severity: info

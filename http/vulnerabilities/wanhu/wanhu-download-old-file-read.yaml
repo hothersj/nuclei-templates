@@ -1,6 +1,11 @@
 id: wanhu-download-old-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Wanhu OA download_old.jsp - Arbitrary File Read
   author: SleepingBag945
   severity: high

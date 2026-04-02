@@ -1,6 +1,10 @@
 id: jira-unauthenticated-installed-gadgets
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Jira Unauthenticated Installed gadgets
   author: philippedelteil
   severity: info

@@ -11,6 +11,10 @@ info:
     - https://github.com/zan8in/afrog/blob/main/v2/pocs/afrog-pocs/vulnerability/kongsoft-vgm-antivirus-wall-rce.yaml
   classification:
     cpe: cpe:2.3:a:kingsoft:kingsoft_antivirus:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   metadata:
     verified: true
     max-request: 1

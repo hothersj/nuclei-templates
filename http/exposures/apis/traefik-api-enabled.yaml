@@ -1,6 +1,10 @@
 id: traefik-api-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Traefik API - enabled
   author: DhiyaneshDK
   severity: low

@@ -1,6 +1,13 @@
 id: wordpress-emergency-script
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: WordPress Emergency Script
   author: dwisiswant0
   severity: info

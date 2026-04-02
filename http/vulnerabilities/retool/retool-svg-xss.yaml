@@ -1,6 +1,10 @@
 id: retool-svg-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Retool < 3.88 - SVG Cross-Site Scripting
   author: iamnoooob,iamnoooob,pdresearch
   severity: high

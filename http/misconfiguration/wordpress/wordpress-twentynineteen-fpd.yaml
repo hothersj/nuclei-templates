@@ -1,6 +1,9 @@
 id: wordpress-twentynineteen-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Twenty Nineteen - Full Path Disclosure
   author: pussycat0x
   severity: low

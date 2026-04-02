@@ -1,6 +1,12 @@
 id: aem-querybuilder-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-639
+      - CWE-862
   name: AEM QueryBuilder JSON Exposure - Bypass
   author: tess,assetnote
   severity: critical

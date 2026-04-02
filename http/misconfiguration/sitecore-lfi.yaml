@@ -1,6 +1,10 @@
 id: sitecore-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Sitecore 9.3 - Webroot File Read
   author: DhiyaneshDK
   severity: high

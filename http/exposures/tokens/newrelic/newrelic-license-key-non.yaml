@@ -1,6 +1,10 @@
 id: newrelic-license-key-non
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: New Relic License Key (non-suffixed)
   author: DhiyaneshDK
   severity: info

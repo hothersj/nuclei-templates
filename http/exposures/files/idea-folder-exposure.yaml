@@ -1,6 +1,10 @@
 id: idea-folder-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Public .idea Folder containing files with sensitive data
   author: martincodes-de
   severity: info

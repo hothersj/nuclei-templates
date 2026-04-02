@@ -1,6 +1,11 @@
 id: jolokia-logback-jndi-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-99
+      - CWE-913
   name: Jolokia Logback JNDI - Remote Code Execution
   author: SleepingBag945
   severity: high

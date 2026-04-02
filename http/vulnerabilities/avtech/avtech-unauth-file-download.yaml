@@ -1,6 +1,11 @@
 id: avtech-unauth-file-download
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
+      - CWE-306
   name: AVTECH Video Surveillance Product - Unauthenticated File Download
   author: ritikchaddha
   severity: high

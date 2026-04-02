@@ -1,6 +1,11 @@
 id: simatic-dashboard-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Siemens SIMATIC 300 Dashboard - Exposed
   author: Th3l0newolf
   severity: high

@@ -1,6 +1,11 @@
 id: sumologic-access-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-538
+      - CWE-798
   name: Sumologic Access ID
   author: DhiyaneshDK
   severity: info

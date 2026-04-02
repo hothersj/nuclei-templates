@@ -10,6 +10,10 @@ info:
     - https://github.com/PeiQi0/PeiQi-WIKI-Book/blob/main/docs/redteam/vulnerability/unauthorized/ClickHouse%208123%E7%AB%AF%E5%8F%A3.md?plain=1
   classification:
     cpe: cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-285
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

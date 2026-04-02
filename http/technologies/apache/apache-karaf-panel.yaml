@@ -6,6 +6,11 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:apache:karaf:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

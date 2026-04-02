@@ -1,6 +1,11 @@
 id: wanhuoa-downloadservlet-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Wanhu OA DownloadServlet - Remote File Disclosure
   author: wpsec
   severity: high

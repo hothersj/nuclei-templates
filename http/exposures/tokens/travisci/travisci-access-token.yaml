@@ -1,6 +1,10 @@
 id: travisci-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-522
   name: TravisCI Access Token
   author: DhiyaneshDK
   severity: info

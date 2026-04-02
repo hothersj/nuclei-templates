@@ -1,6 +1,10 @@
 id: azure-functions-hostjson-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Azure Functions host.json Configuration Exposure
   author: pussycat0x
   severity: medium

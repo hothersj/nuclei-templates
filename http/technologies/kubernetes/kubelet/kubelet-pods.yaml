@@ -1,6 +1,10 @@
 id: kubelet-pods
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Kubelet Scan
   author: sharath
   severity: info

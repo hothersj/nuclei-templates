@@ -1,6 +1,11 @@
 id: taiwanese-travel-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Taiwanese Travel - Local File Inclusion
   author: r3Y3r53
   severity: high

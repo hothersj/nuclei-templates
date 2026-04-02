@@ -1,6 +1,12 @@
 id: python-setup-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Python Setup Configuration - Exposure
   author: DhiyaneshDk
   severity: low

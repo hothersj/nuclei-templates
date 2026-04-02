@@ -7,6 +7,9 @@ info:
   description: Searches for sensitive directories present in the mstore-api plugin.
   classification:
     cpe: cpe:2.3:a:inspireui:mstore_api:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-548
+      - CWE-552
   metadata:
     max-request: 1
     vendor: inspireui

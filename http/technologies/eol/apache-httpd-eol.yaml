@@ -1,6 +1,9 @@
 id: apache-httpd-eol
 
 info:
+  classification:
+    cwe-id:
+      - CWE-1104
   name: Apache HTTP Server End-of-Life - Detect
   author: Shivam Kamboj
   severity: info

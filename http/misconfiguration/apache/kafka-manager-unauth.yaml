@@ -1,6 +1,12 @@
 id: kafka-manager-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Kafka Manager Panel - Unauthorized Access
   author: Paper-Pen
   severity: low

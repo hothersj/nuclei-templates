@@ -1,6 +1,9 @@
 id: wanhu-documentedit-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: WanhuOA DocumentEdit.jsp - SQL Injection
   author: SleepingBag945
   severity: high

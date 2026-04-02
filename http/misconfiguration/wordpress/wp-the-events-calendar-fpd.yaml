@@ -1,6 +1,10 @@
 id: wp-the-events-calendar-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: WordPress The Events Calendar - Full Path Disclosure
   author: ritikchaddha
   severity: low

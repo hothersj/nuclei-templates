@@ -1,6 +1,11 @@
 id: te-cl-http-smuggling
 
 info:
+  classification:
+    cwe-id:
+      - CWE-138
+      - CWE-444
+      - CWE-501
   name: Basic TE.CL - HTTP Request Smuggling
   author: pdteam,akincibor
   severity: low

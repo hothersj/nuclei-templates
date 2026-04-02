@@ -1,6 +1,10 @@
 id: zzcms-register-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Zzcms `register_nodb.php` - Cross Site Scripting
   author: 3th1c_yuk1
   severity: medium

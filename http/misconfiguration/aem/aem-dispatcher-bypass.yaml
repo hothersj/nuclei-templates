@@ -1,6 +1,11 @@
 id: aem-dispatcher-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Adobe Experience Manager - Dispatcher Bypass
   author: DhiyaneshDK,assetnote
   severity: medium

@@ -1,6 +1,10 @@
 id: fastcgi-test-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: FastCGI Test Page
   author: DhiyaneshDk
   severity: info

@@ -1,6 +1,11 @@
 id: filebrowser-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: File Browser Dashboard - Unauthenticated Access
   author: ritikchaddha
   severity: medium

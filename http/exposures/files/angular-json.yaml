@@ -6,6 +6,10 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:angularjs:angular:*:*:*:*:node.js:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 4

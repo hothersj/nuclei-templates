@@ -7,6 +7,10 @@ info:
   description: Nagios XI is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:nagios:nagios_xi:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

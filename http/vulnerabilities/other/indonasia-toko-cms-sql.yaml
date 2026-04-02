@@ -1,6 +1,10 @@
 id: indonasia-toko-cms-sql
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-287
   name: Indonasia Toko CMS - SQL Injection
   author: r3Y3r53
   severity: high

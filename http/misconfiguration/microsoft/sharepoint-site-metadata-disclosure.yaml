@@ -1,6 +1,10 @@
 id: sharepoint-site-metadata-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Microsoft SharePoint - Site Metadata Disclosure
   author: 0x_Akoko
   severity: low

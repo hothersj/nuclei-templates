@@ -1,6 +1,10 @@
 id: sap-public-admin
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SAP ICM Admin Web Interface
   author: t3l3machus
   severity: low

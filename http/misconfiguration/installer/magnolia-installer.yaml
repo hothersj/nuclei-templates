@@ -9,6 +9,11 @@ info:
     - https://www.magnolia-cms.com/
   classification:
     cpe: cpe:2.3:a:magnolia-cms:magnolia_cms:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

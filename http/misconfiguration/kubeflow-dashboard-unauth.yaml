@@ -1,6 +1,11 @@
 id: kubeflow-dashboard-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Kubeflow Unauth
   author: dhiyaneshDk
   severity: high

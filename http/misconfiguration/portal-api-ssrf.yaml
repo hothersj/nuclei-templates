@@ -1,6 +1,11 @@
 id: portal-api-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-99
+      - CWE-610
+      - CWE-918
   name: Portal API - Server Side Request Forgery
   author: ishowtess
   severity: high

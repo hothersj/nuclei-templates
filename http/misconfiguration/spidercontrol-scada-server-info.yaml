@@ -1,6 +1,9 @@
 id: spidercontrol-scada-server-info
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: SpiderControl SCADA Web Server - Sensitive Information Exposure
   author: geeknik
   severity: high

@@ -1,6 +1,10 @@
 id: idocview-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: IDoc View - Arbitrary File Read
   author: DhiyaneshDK
   severity: high

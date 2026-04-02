@@ -9,6 +9,9 @@ info:
     - https://www.slideshare.net/0ang3el/hacking-aem-sites
   classification:
     cpe: cpe:2.3:a:adobe:acs_aem_commons:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-200
+      - CWE-862
   metadata:
     max-request: 1
     vendor: adobe

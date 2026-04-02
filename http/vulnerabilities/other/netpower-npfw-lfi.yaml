@@ -1,6 +1,10 @@
 id: netpower-npfw-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Netpower NPFW - Local File Inclusion
   author: ritikchaddha
   severity: high

@@ -1,6 +1,10 @@
 id: easypost-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: Easypost API Token
   author: DhiyaneshDK
   severity: info

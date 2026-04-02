@@ -1,6 +1,10 @@
 id: wp-image-widget-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-209
   name: Image Widget - Full Path Disclosure
   author: theamanrawat
   severity: low

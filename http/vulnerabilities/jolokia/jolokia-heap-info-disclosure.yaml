@@ -1,6 +1,9 @@
 id: jolokia-heap-info-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: Jolokia Java Heap Information Disclosure
   author: milo2012
   severity: info

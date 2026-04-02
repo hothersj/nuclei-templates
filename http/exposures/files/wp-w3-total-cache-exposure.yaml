@@ -1,6 +1,10 @@
 id: wp-w3-total-cache-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-548
   name: WordPress W3 Total Cache - Cache Files Exposure
   author: pussycat0x
   severity: high

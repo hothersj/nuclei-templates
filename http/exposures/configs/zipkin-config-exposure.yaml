@@ -1,6 +1,10 @@
 id: zipkin-config-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
   name: Zipkin Configuration - Exposure
   author: theamanrawat
   severity: low

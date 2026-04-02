@@ -1,6 +1,11 @@
 id: qizhi-fortressaircraft-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-94
+      - CWE-306
   name: Qizhi Fortressaircraft Unauthorized Access
   author: ritikchaddha
   severity: high

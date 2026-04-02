@@ -1,6 +1,10 @@
 id: mcafee-epo-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: McAfee ePolicy Orchestrator - Arbitrary File Upload
   author: dwisiswant0
   severity: high

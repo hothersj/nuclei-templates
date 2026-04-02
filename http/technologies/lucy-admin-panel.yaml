@@ -1,6 +1,12 @@
 id: lucy-admin-panel
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   name: Lucy Security Admin Panel
   author: ritikchaddha
   severity: info

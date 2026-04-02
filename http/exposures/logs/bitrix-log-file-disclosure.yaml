@@ -12,7 +12,10 @@ info:
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
     cvss-score: 5.3
-    cwe-id: CWE-532
+    cwe-id:
+      - CWE-312
+      - CWE-532
+      - CWE-538
   metadata:
     verified: true
     max-request: 2

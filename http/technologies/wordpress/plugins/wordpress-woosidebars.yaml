@@ -1,6 +1,9 @@
 id: wordpress-woosidebars
 
 info:
+  classification:
+    cwe-id:
+      - CWE-1104
   name: WooSidebars Detection
   author: ricardomaia
   severity: info

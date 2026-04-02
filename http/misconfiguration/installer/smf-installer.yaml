@@ -7,6 +7,11 @@ info:
   description: SMF is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:simplemachines:simple_machine_forum:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -1,6 +1,10 @@
 id: php-debugbar-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
   name: Php Debug Bar - Exposure
   author: ritikchaddha,pdteam,DhiyaneshDk,geeknik
   severity: high

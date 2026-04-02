@@ -1,6 +1,11 @@
 id: slack-user-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-538
+      - CWE-552
   name: Slack User token disclosure
   author: Ice3man,DhiyaneshDK
   severity: high

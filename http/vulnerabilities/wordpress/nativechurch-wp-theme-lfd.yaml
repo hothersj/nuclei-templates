@@ -1,6 +1,11 @@
 id: nativechurch-wp-theme-lfd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: WordPress NativeChurch Theme - Local File Inclusion
   author: 0x_Akoko
   severity: high

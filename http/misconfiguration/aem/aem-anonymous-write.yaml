@@ -15,6 +15,9 @@ info:
     - https://github.com/0ang3el/aem-hacker/blob/master/aem_hacker.py
   classification:
     cpe: cpe:2.3:a:adobe:experience_manager:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     vendor: adobe

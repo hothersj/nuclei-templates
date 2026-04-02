@@ -1,6 +1,10 @@
 id: scalingo-api-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-522
   name: Scalingo API Token
   author: DhiyaneshDK
   severity: info

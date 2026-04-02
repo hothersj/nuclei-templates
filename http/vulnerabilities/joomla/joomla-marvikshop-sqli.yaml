@@ -1,6 +1,9 @@
 id: joomla-marvikshop-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Joomla MarvikShop ShoppingCart 3.4 - Sql Injection
   author: r3Y3r53
   severity: high

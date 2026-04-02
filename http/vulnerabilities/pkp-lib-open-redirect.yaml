@@ -10,6 +10,10 @@ info:
     - https://github.com/pkp/pkp-lib/issues/7575
   classification:
     cpe: cpe:2.3:a:public_knowledge_project:open_journal_systems:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-138
+      - CWE-601
+      - CWE-807
   metadata:
     max-request: 1
     vendor: public_knowledge_project

@@ -1,6 +1,10 @@
 id: git-logs-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-312
   name: Git Logs Disclosure
   author: NullFuzz
   severity: info

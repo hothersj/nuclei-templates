@@ -1,6 +1,11 @@
 id: comai-ras-cookie-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-290
+      - CWE-639
   name: Comai RAS System Cookie - Authentication Override
   author: SleepingBag945
   severity: high

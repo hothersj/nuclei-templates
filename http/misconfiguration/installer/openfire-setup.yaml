@@ -8,6 +8,10 @@ info:
     Checks for the presence of a Openfire Setup Page.
   classification:
     cpe: cpe:2.3:a:igniterealtime:openfire:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

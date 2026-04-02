@@ -6,6 +6,10 @@ info:
   severity: medium
   classification:
     cpe: cpe:2.3:a:helm:helm:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

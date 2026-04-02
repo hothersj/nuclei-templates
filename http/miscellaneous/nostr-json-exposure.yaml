@@ -1,6 +1,10 @@
 id: nostr-json-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-552
   name: Well-Known Nostr JSON
   author: rxerium
   severity: info

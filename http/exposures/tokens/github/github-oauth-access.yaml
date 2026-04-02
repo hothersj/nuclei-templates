@@ -1,6 +1,11 @@
 id: github-oauth-access
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
+      - CWE-922
   name: GitHub OAuth Access Token
   author: DhiyaneshDK
   severity: info

@@ -10,6 +10,10 @@ info:
     - https://pandorafms.com/en/
   classification:
     cpe: cpe:2.3:a:pandorafms:pandora_fms:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

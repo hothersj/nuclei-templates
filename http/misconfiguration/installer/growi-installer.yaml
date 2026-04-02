@@ -8,6 +8,10 @@ info:
     Checks for the presence of a GROWI Installer.
   classification:
     cpe: cpe:2.3:a:weseek:growi:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

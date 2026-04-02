@@ -1,6 +1,10 @@
 id: unauthenticated-netdata
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Unauthenticated Netdata
   author: dhiyaneshDk
   severity: medium

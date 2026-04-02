@@ -9,7 +9,9 @@ info:
     - https://www.awstats.org/docs/awstats_setup.html
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-219
+      - CWE-552
   metadata:
     max-request: 4
   tags: config,exposure,awstats,vuln

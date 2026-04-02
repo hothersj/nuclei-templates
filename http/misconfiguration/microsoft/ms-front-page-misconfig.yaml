@@ -1,6 +1,11 @@
 id: ms-front-page-misconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Microsoft FrontPage Configuration - Exposure
   author: JTeles,pikpikcu
   severity: low

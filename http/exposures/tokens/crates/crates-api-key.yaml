@@ -1,6 +1,10 @@
 id: crates-api-key
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-522
   name: Crates.io API Key
   author: DhiyaneshDK
   severity: info

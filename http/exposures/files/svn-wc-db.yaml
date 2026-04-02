@@ -11,6 +11,9 @@ info:
     - https://infosecwriteups.com/indias-aadhar-card-source-code-disclosure-via-exposed-svn-wc-db-c05519ea7761
   classification:
     cpe: cpe:2.3:a:apache:subversion:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-219
+      - CWE-552
   metadata:
     verified: true
     max-request: 2

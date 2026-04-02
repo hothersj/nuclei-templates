@@ -1,6 +1,10 @@
 id: fine-report-v9-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-434
   name: FineReport v9 Arbitrary File Overwrite
   author: SleepingBag945
   severity: critical

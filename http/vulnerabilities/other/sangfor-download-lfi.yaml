@@ -1,6 +1,11 @@
 id: sangfor-download-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Sangfor Application download.php - Arbitary File Read
   author: DhiyaneshDk
   severity: high

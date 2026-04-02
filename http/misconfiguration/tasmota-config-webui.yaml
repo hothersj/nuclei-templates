@@ -9,6 +9,9 @@ info:
     - https://github.com/arendst/Tasmota
   classification:
     cpe: cpe:2.3:o:tasmota_project:tasmota:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

@@ -8,6 +8,10 @@ info:
     Celery Flower was able to be accessed with no authentication requirements in place.
   classification:
     cpe: cpe:2.3:a:flower_project:flower:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   metadata:
     max-request: 1
     vendor: flower_project

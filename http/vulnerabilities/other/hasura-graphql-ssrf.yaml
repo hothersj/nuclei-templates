@@ -1,6 +1,11 @@
 id: hasura-graphql-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-99
+      - CWE-610
+      - CWE-918
   name: Hasura GraphQL Engine - Server Side Request Forgery
   author: princechaddha
   severity: high

@@ -1,6 +1,11 @@
 id: 3cx-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: 3CX Config - File Disclosure
   author: DhiyaneshDk
   severity: low

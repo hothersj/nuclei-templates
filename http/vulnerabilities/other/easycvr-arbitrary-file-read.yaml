@@ -1,6 +1,11 @@
 id: easycvr-arbitrary-file-read
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: EasyCVR Video Management - Arbitrary File Read
   author: s4e-io
   severity: high

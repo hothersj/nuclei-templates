@@ -1,6 +1,10 @@
 id: geovision-geowebserver-lfi-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: GeoVision Geowebserver <= 5.3.3 - Local File Inclusion / Cross-Site Scripting
   author: shamo0
   severity: high

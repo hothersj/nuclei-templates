@@ -8,6 +8,9 @@ info:
     - https://github.com/graphql/graphql-playground
   classification:
     cpe: cpe:2.3:a:graphql:playground:*:*:*:*:node.js:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

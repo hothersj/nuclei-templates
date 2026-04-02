@@ -1,6 +1,9 @@
 id: yonyou-grp-u8-xxe
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Yonyou UFIDA GRP-u8 - XXE
   author: SleepingBag945
   severity: critical

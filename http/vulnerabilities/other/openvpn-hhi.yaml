@@ -1,6 +1,11 @@
 id: openvpn-hhi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-601
+      - CWE-807
   name: OpenVPN Host Header Injection
   author: twitter.com/Dheerajmadhukar
   severity: info

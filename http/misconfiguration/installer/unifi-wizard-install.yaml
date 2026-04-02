@@ -1,6 +1,11 @@
 id: unifi-wizard-install
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: UniFi Wizard Installer
   author: DhiyaneshDk
   severity: high

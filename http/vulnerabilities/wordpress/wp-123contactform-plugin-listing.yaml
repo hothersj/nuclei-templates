@@ -1,6 +1,10 @@
 id: wp-123contactform-plugin-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: WordPress 123ContactForm Plugin Directory Listing
   author: pussycat0x
   severity: info

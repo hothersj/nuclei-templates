@@ -8,7 +8,10 @@ info:
   reference:
     - https://www.teradici.com/
   classification:
-    cwe-id: CWE-200
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   metadata:
     max-request: 1
   tags: tech,pcoip,discovery

@@ -1,6 +1,10 @@
 id: dlink-nas-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: D-Link NAS `sc_mgr.cgi` - Remote Code Execution
   author: adeljck
   severity: critical

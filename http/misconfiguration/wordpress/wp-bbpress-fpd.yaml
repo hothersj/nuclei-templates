@@ -1,6 +1,9 @@
 id: wp-bbpress-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress bbPress Plugin - Full Path Disclosure
   author: 0x_Akoko
   severity: info

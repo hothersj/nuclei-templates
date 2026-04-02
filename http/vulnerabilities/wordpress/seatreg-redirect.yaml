@@ -1,6 +1,9 @@
 id: seatreg-redirect
 
 info:
+  classification:
+    cwe-id:
+      - CWE-601
   name: WordPress Plugin ‘SeatReg’ - Open Redirect
   author: Mariam Tariq
   severity: medium

@@ -13,6 +13,9 @@ info:
     - https://nacos.io/zh-cn/docs/auth.html
   classification:
     cpe: cpe:2.3:a:alibaba:nacos:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-321
   metadata:
     verified: true
     max-request: 2

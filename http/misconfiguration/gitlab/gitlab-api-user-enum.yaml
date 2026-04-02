@@ -1,6 +1,12 @@
 id: gitlab-api-user-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-285
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: GitLab - User Information Disclosure Via Open API
   author: Suman_Kar
   severity: medium

@@ -1,6 +1,10 @@
 id: snyk-api-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-538
   name: Snyk API Token
   author: DhiyaneshDK
   severity: info

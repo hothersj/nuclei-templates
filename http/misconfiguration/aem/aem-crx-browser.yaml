@@ -1,6 +1,10 @@
 id: aem-crx-browser
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Adobe AEM CRX Browser Exposure
   author: dhiyaneshDk
   severity: unknown

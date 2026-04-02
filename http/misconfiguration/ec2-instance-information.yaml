@@ -1,6 +1,9 @@
 id: ec2-instance-information
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
   name: EC2 Instance Information
   author: DhiyaneshDk
   severity: low

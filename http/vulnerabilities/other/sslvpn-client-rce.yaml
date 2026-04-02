@@ -1,6 +1,10 @@
 id: sslvpn-client-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: SSL VPN Client - Remote Code Execution
   author: DhiyaneshDK
   severity: critical

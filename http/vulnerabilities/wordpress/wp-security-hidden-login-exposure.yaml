@@ -1,6 +1,11 @@
 id: wp-security-hidden-login-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: WordPress All-in-One Security <=4.4.1 - Hidden Login Page Exposure
   author: theamanrawat
   severity: medium

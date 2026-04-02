@@ -1,6 +1,10 @@
 id: gitpod-dockerfile-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-922
   name: Gitpod Dockerfile - Exposure
   author: theamanrawat
   severity: info

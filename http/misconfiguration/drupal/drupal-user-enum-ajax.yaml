@@ -1,6 +1,10 @@
 id: drupal-user-enum-ajax
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-862
   name: Drupal User Enumration [Ajax]
   author: 0w4ys
   severity: info

@@ -1,6 +1,11 @@
 id: unauthenticated-tensorboard
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Tensorflow Tensorboard - Unauthenticated Access
   author: dhiyaneshDk
   severity: high

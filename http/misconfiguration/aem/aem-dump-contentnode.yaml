@@ -9,6 +9,10 @@ info:
     - https://www.slideshare.net/0ang3el/hacking-aem-sites
   classification:
     cpe: cpe:2.3:a:adobe:experience_manager_cloud_service:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 2
     vendor: adobe

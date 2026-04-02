@@ -7,6 +7,9 @@ info:
   description: Atlassian JIRA is susceptible to the Installation page exposure due to misconfiguration.
   classification:
     cpe: cpe:2.3:a:atlassian:jira:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 2

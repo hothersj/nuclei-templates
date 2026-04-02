@@ -1,6 +1,11 @@
 id: brightsign-dsdws-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-99
+      - CWE-610
+      - CWE-918
   name: BrightSign Digital Signage Diagnostic Web Server 8.2.26 Unauthenticated - SSRF
   author: 0x_Akoko
   severity: medium

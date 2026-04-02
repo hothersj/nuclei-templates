@@ -1,6 +1,10 @@
 id: springboot-autoconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Detect Springboot autoconfig Actuator
   author: pussycat0x
   severity: low

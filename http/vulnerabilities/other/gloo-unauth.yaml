@@ -1,6 +1,12 @@
 id: gloo-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Unauthenticated Gloo UI
   author: dhiyaneshDk
   severity: high

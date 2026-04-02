@@ -1,6 +1,9 @@
 id: prometheus-flags
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: Prometheus flags API endpoint
   author: geeknik
   severity: info

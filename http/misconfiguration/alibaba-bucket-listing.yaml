@@ -1,6 +1,12 @@
 id: alibaba-bucket-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-548
+      - CWE-552
+      - CWE-862
   name: Alibaba Cloud OSS Bucket - Public Listing Enabled
   author: 0x_Akoko
   severity: unknown

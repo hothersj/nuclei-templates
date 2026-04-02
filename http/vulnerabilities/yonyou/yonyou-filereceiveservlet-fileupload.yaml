@@ -1,6 +1,10 @@
 id: yonyou-filereceiveservlet-fileupload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-434
   name: Yonyou NC FileReceiveServlet - Aribitrary File Upload
   author: bjxsec
   severity: critical

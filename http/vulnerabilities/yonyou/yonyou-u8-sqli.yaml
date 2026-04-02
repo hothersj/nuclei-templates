@@ -1,6 +1,9 @@
 id: yonyou-u8-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Yonyou U8 bx_historyDataCheck - SQL Injection
   author: xianke
   severity: high

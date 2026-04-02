@@ -1,6 +1,10 @@
 id: prometheus-targets
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-862
   name: Prometheus targets API endpoint
   author: geeknik
   severity: info

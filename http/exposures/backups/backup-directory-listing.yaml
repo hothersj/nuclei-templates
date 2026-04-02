@@ -1,6 +1,10 @@
 id: backup-directory-listing
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: Backup Directory Listing - Detect
   author: DhiyaneshDK
   severity: low

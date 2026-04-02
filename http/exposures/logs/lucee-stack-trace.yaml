@@ -1,6 +1,10 @@
 id: lucee-stack-trace
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-537
   name: Lucee Stack Trace Error
   author: dhiyaneshDK
   severity: low

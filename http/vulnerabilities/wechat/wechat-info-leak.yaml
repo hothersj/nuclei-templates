@@ -10,6 +10,10 @@ info:
     - https://github.com/Threekiii/Awesome-POC/blob/f7869eb69bad66d177a88df4cebfe584691651ce/%E5%85%B6%E4%BB%96%E6%BC%8F%E6%B4%9E/%E8%85%BE%E8%AE%AF%20%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%20agentinfo%20%E4%BF%A1%E6%81%AF%E6%B3%84%E6%BC%8F%E6%BC%8F%E6%B4%9E.md
   classification:
     cpe: cpe:2.3:a:tencent:wechat:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

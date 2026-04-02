@@ -1,6 +1,11 @@
 id: turbo-website-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Turbo Website Reviewer Installer Panel
   author: tess
   severity: high

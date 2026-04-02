@@ -1,6 +1,9 @@
 id: wp-twentysixteen-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Twenty Sixteen - Full Path Disclosure
   author: theamanrawat
   severity: low

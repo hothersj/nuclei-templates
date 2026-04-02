@@ -1,6 +1,9 @@
 id: cpas-managment-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: CPAS Management System - SQL Injection
   author: s4e-io
   severity: high

@@ -1,6 +1,9 @@
 id: wp-w3-total-cache-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress W3 Total Cache - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

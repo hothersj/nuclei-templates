@@ -1,6 +1,10 @@
 id: dragonfly-public-signup
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: DragonFly Public - Signup Enabled
   author: DhiyaneshDK
   severity: high

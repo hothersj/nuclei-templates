@@ -7,6 +7,10 @@ info:
   description: CodeIgniter error debug are enabled.
   classification:
     cpe: cpe:2.3:a:codeigniter:codeigniter:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-209
+      - CWE-213
+      - CWE-756
   metadata:
     verified: true
     max-request: 1

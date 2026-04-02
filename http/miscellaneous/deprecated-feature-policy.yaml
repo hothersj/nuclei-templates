@@ -1,6 +1,9 @@
 id: deprecated-feature-policy
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
   name: Deprecated Feature-Policy Header - Detection
   author: ritikchaddha
   severity: info

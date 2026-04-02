@@ -1,6 +1,11 @@
 id: bravia-signage
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: BRAVIA Signage - Exposure
   author: DhiyaneshDK
   severity: medium

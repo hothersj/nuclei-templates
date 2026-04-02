@@ -1,6 +1,10 @@
 id: alibaba-accesskey-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-523
   name: Alibaba Access Key ID
   author: DhiyaneshDK
   severity: info

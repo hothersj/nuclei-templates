@@ -1,6 +1,10 @@
 id: servicenow-stats-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: ServiceNow Stats Page - Detection
   author: cham423
   severity: info

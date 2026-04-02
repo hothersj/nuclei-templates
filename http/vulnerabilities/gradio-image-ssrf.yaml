@@ -11,7 +11,8 @@ info:
   classification:
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N
     cvss-score: 8.6
-    cwe-id: CWE-918
+    cwe-id:
+      - CWE-918
     cpe: cpe:2.3:a:gradio_project:gradio:*:*:*:*:*:python:*:*
   metadata:
     verified: true

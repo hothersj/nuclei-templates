@@ -1,6 +1,11 @@
 id: elmah-log-file
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-532
+      - CWE-538
   name: ELMAH Exposure
   author: shine,idealphase
   severity: high

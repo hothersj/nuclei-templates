@@ -1,6 +1,10 @@
 id: unauth-munin
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Munin Monitoring Dashboard - Exposure
   author: 0x_Akoko
   severity: medium

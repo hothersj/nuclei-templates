@@ -1,6 +1,11 @@
 id: mixed-active-content
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-419
+      - CWE-830
   name: Mixed Active Content
   author: Liwermor
   severity: info

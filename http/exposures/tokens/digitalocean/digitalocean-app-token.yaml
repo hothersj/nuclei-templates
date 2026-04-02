@@ -1,6 +1,10 @@
 id: digitalocean-app-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
+      - CWE-319
   name: DigitalOcean Application Access Token
   author: DhiyaneshDK
   severity: info

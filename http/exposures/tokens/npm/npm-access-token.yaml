@@ -1,6 +1,11 @@
 id: npm-access-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-538
+      - CWE-922
   name: NPM Access Token (fine-grained)
   author: DhiyaneshDK
   severity: high

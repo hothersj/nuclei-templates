@@ -1,6 +1,9 @@
 id: wp-maintenance-mode-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress WP Maintenance Mode - Full Path Disclosure
   author: ritikchaddha
   severity: low

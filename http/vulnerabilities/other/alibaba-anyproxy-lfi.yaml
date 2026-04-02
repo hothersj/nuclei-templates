@@ -1,6 +1,11 @@
 id: alibaba-anyproxy-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Alibaba Anyproxy fetchBody File - Path Traversal
   author: DhiyaneshDk
   severity: high

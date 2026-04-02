@@ -1,6 +1,11 @@
 id: tongda-getway-rfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-23
+      - CWE-73
+      - CWE-98
   name: Tongda OA v11.8 getway.php - Remote File Inclution
   author: SleepingBag945,pussycat0x
   severity: critical

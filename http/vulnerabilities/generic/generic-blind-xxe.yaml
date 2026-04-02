@@ -1,6 +1,10 @@
 id: generic-blind-xxe
 
 info:
+  classification:
+    cwe-id:
+      - CWE-91
+      - CWE-611
   name: Generic Blind XXE
   author: geeknik
   severity: high

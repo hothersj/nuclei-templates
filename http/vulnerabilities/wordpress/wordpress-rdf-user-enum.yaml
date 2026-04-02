@@ -1,6 +1,10 @@
 id: wordpress-rdf-user-enum
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-538
   name: Wordpress RDF User Enumeration
   author: r3dg33k
   severity: info

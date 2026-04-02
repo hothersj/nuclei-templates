@@ -1,6 +1,10 @@
 id: sap-getenvironment-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: SAPControl GetEnvironment - Disclosure
   author: LRVT,l4rm4nd
   severity: medium

@@ -1,6 +1,9 @@
 id: php-eol
 
 info:
+  classification:
+    cwe-id:
+      - CWE-1104
   name: PHP End-of-Life - Detect
   author: Shivam Kamboj
   severity: info

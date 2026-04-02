@@ -1,6 +1,9 @@
 id: wp-mailchimp-for-wp-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Mailchimp for WordPress Plugin - Full Path Disclosure
   author: 0x_Akoko
   severity: info

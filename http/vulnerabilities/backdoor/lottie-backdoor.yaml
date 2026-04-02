@@ -1,6 +1,10 @@
 id: lottie-backdoor
 
 info:
+  classification:
+    cwe-id:
+      - CWE-829
+      - CWE-830
   name: Lottie Player - Backdoor
   author: nagli-wiz
   severity: critical

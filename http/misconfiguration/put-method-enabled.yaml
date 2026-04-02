@@ -1,6 +1,10 @@
 id: put-method-enabled
 
 info:
+  classification:
+    cwe-id:
+      - CWE-434
+      - CWE-552
   name: PUT Method Enabled
   author: xElkomy
   severity: high

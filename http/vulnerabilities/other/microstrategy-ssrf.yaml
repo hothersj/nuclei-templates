@@ -1,6 +1,10 @@
 id: microstrategy-ssrf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-610
+      - CWE-918
   name: MicroStrategy tinyurl - Server-Side Request Forgery (Blind)
   author: organiccrap
   severity: high

@@ -1,6 +1,10 @@
 id: ruijie-nbr-fileupload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
   name: Ruijie NBR fileupload.php - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

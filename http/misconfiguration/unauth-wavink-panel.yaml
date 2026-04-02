@@ -1,6 +1,10 @@
 id: unauth-wavink-panel
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Wavlink Panel - Unauthenticated Access
   author: princechaddha
   severity: high

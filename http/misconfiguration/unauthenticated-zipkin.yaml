@@ -1,6 +1,10 @@
 id: unauthenticated-zipkin
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Zipkin Discovery
   author: dhiyaneshDk
   severity: high

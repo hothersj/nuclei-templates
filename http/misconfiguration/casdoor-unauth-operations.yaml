@@ -1,6 +1,11 @@
 id: casdoor-unauth-operations
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Casdoor <=v1.811.0 - Unauthenticated SCIM Operations
   author: iamnoooob,rootxharsh,pdresearch
   severity: critical

@@ -1,6 +1,10 @@
 id: yonyou-u8-crm-fileupload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
   name: UFIDA U8-CRM getemaildata - Arbitary File Upload
   author: SleepingBag945,pussycat0x
   severity: critical

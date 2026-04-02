@@ -9,7 +9,9 @@ info:
   reference:
     - https://0x00sec.org/t/genieacs-and-the-tale-of-default-jwt-secret/32738
   classification:
-    cwe-id: CWE-798
+    cwe-id:
+      - CWE-287
+      - CWE-798
     cpe: cpe:2.3:a:genieacs:genieacs:*:*:*:*:*:*:*:*
   metadata:
     verified: true

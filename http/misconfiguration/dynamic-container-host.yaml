@@ -1,6 +1,9 @@
 id: dynamic-container-host
 
 info:
+  classification:
+    cwe-id:
+      - CWE-501
   name: Dynamics Container Host - Detect
   author: DhiyaneshDk
   severity: low

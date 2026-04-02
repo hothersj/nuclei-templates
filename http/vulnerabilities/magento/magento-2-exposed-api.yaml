@@ -9,6 +9,9 @@ info:
     - https://support.hypernode.com/en/ecommerce/magento-2/how-to-protect-the-magento-2-api
   classification:
     cpe: cpe:2.3:a:magento:magento:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     max-request: 3
     vendor: magento

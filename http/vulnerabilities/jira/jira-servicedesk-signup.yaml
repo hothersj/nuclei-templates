@@ -10,7 +10,10 @@ info:
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
     cvss-score: 6.1
-    cwe-id: CWE-287
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
     cpe: cpe:2.3:a:atlassian:jira_service_management:*:*:*:*:*:*:*:*
   metadata:
     max-request: 4

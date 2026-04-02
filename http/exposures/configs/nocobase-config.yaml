@@ -1,6 +1,10 @@
 id: nocobase-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Nocobase - Config
   author: icarot
   severity: medium

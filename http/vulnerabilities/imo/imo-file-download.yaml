@@ -1,6 +1,10 @@
 id: imo-file-download
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: IMO - Arbitrary File Download
   author: ritikchaddha
   severity: high

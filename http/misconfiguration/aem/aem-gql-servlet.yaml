@@ -9,6 +9,11 @@ info:
     - https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/index.html?org/apache/jackrabbit/commons/query/GQL.html
   classification:
     cpe: cpe:2.3:a:adobe:experience_manager:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-552
+      - CWE-862
   metadata:
     max-request: 29
     vendor: adobe

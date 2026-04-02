@@ -1,6 +1,10 @@
 id: cache-poisoning-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-80
   name: Cache Poisoning - Stored XSS
   author: melbadry9,xelkomy,akincibor
   severity: high

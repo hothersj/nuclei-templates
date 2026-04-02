@@ -1,6 +1,9 @@
 id: flutterwave-publickey
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Flutterwave Public Key
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,9 @@
 id: express-stack-trace
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Express Stack Trace
   author: DhiyaneshDk
   severity: low

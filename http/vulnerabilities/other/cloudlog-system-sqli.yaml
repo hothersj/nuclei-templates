@@ -1,6 +1,10 @@
 id: cloudlog-system-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Cloudlog System - SQL Injection
   author: s4e-io
   severity: high

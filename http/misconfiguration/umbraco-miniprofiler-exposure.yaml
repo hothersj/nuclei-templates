@@ -1,6 +1,9 @@
 id: umbraco-miniprofiler-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Umbraco Mini Profiler - Exposure
   author: theamanrawat
   severity: low

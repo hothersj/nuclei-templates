@@ -1,6 +1,11 @@
 id: stylelint-ignore-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Stylelint - Ignore File Disclosure
   author: ritikchaddha
   severity: info

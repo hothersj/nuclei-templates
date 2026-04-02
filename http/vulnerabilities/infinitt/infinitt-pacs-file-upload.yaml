@@ -1,6 +1,9 @@
 id: infinitt-pacs-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-434
   name: Infinitt PACS System - Arbitary File Upload
   author: adeljck
   severity: critical

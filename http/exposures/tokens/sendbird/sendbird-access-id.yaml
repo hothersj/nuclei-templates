@@ -1,6 +1,10 @@
 id: sendbird-access-id
 
 info:
+  classification:
+    cwe-id:
+      - CWE-540
+      - CWE-798
   name: SendBird Access ID
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: gitlab-pipeline-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: GitLab Pipeline Trigger Token
   author: DhiyaneshDK
   severity: info

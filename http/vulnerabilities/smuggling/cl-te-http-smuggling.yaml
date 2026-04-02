@@ -1,6 +1,10 @@
 id: cl-te-http-smuggling
 
 info:
+  classification:
+    cwe-id:
+      - CWE-138
+      - CWE-444
   name: Basic CL.TE - HTTP request smuggling
   author: pdteam,akincibor
   severity: low

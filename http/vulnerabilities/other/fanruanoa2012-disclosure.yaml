@@ -1,6 +1,10 @@
 id: fanruanoa2012-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-862
   name: Fanruan Report 2012 Information Disclosure
   author: YanYun
   severity: high

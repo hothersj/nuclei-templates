@@ -1,6 +1,10 @@
 id: lvm-exporter-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: LVM Exporter Metrics
   author: DhiyaneshDk
   severity: low

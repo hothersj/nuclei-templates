@@ -1,6 +1,11 @@
 id: mapbox-token-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-540
+      - CWE-798
   name: Mapbox Token Disclosure
   author: Devang-Solanki
   severity: medium

@@ -1,6 +1,12 @@
 id: dlink-n300-backup
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
+      - CWE-922
   name: DSL-124 Wireless N300 ADSL2+ - Backup File Disclosure
   author: DhiyaneshDk
   severity: high

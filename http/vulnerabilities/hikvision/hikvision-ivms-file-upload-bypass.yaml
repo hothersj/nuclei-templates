@@ -1,6 +1,11 @@
 id: hikvision-ivms-file-upload-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
+      - CWE-639
   name: Hikvison iVMS - File Upload Bypass
   author: SleepingBag945
   severity: critical

@@ -1,6 +1,10 @@
 id: oob-param-based-interaction
 
 info:
+  classification:
+    cwe-id:
+      - CWE-610
+      - CWE-918
   name: Parameter Based Generic OOB Interaction
   author: pdteam
   severity: info

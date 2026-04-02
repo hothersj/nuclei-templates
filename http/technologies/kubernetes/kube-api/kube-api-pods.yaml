@@ -1,6 +1,10 @@
 id: kube-api-pods
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Kube API Pods
   author: sharath
   severity: info

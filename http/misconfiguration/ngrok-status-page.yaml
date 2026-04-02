@@ -1,6 +1,10 @@
 id: ngrok-status-page
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Ngrok Status Page
   author: pussycat0x
   severity: low

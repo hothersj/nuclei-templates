@@ -1,6 +1,11 @@
 id: squid-analysis-report-generator
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-538
+      - CWE-552
   name: Squid Analysis Report Generator
   author: geeknik
   severity: high

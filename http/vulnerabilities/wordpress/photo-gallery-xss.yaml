@@ -12,6 +12,9 @@ info:
     - https://wordpress.org/plugins/photo-gallery/advanced/
   classification:
     cpe: cpe:2.3:a:10web:photo_gallery:*:*:*:*:wordpress:*:*:*
+    cwe-id:
+      - CWE-79
+      - CWE-83
   metadata:
     verified: true
     max-request: 2

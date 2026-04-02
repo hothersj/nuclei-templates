@@ -1,6 +1,11 @@
 id: zhiyuan-oa-unauthorized
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-306
+      - CWE-862
   name: Zhiyuan Oa Unauthorized
   author: pikpikcu
   severity: low

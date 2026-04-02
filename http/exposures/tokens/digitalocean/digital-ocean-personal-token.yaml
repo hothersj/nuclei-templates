@@ -1,6 +1,10 @@
 id: digital-ocean-personal-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-319
+      - CWE-522
   name: DigitalOcean Personal Access Token
   author: DhiyaneshDK
   severity: info

@@ -1,6 +1,10 @@
 id: security-txt
 
 info:
+  classification:
+    cwe-id:
+      - CWE-359
+      - CWE-538
   name: security.txt File
   author: bad5ect0r,noraj
   severity: info

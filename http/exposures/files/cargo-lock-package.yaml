@@ -1,6 +1,11 @@
 id: cargo-lock-package
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-538
+      - CWE-552
   name: Cargo Lock Packages Disclosure
   author: DhiyaneshDk
   severity: info

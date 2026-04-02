@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:github:github:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-213
   metadata:
     verified: true
     max-request: 1

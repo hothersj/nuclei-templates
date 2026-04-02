@@ -1,6 +1,10 @@
 id: joomla-solidres-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Joomla Solidres 2.13.3 - Cross-Site Scripting
   author: r3Y3r53
   severity: medium

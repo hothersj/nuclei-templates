@@ -1,6 +1,11 @@
 id: ruckus-unleashed-install
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Ruckus Unleashed Exposed Installation
   author: ritikchaddha
   severity: high

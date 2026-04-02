@@ -1,6 +1,10 @@
 id: ingress-nginx-valid-admission
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Kubernetes Ingress-Nginx Valid AdmissionReview - Detection
   author: burso
   severity: unknown

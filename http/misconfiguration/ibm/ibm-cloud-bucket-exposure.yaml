@@ -1,6 +1,12 @@
 id: ibm-cloud-bucket-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-548
+      - CWE-552
+      - CWE-862
   name: IBM Cloud Object Storage - Bucket Exposure
   author: 0x_Akoko
   severity: unknown

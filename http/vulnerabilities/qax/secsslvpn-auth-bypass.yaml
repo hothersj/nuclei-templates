@@ -1,6 +1,10 @@
 id: secsslvpn-auth-bypass
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-290
   name: Secure Access Gateway SecSSLVPN - Authentication Bypass
   author: SleepingBag945
   severity: high

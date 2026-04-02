@@ -1,6 +1,9 @@
 id: mta-sts-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
   name: Well-Known MTA-STS Policy
   author: rxerium
   severity: info

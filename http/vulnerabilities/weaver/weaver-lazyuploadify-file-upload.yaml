@@ -1,6 +1,10 @@
 id: weaver-lazyuploadify-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
   name: OA E-Office LazyUploadify - Arbitrary File Upload
   author: SleepingBag945
   severity: critical

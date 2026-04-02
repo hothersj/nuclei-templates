@@ -1,6 +1,11 @@
 id: fortra-filecatalyst-anonymous-access
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Fortra FileCatalyst - Anonymous Access
   author: ritikchaddha
   severity: low

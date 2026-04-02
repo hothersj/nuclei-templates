@@ -1,6 +1,10 @@
 id: blazor-boot
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: Blazor Boot File Disclosure
   author: freakyclown
   severity: info

@@ -1,6 +1,9 @@
 id: onion-website-supported
 
 info:
+  classification:
+    cwe-id:
+      - CWE-201
   name: Onion Website Supported via Onion-Location Header
   author: rxerium
   severity: info

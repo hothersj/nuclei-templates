@@ -1,6 +1,11 @@
 id: sony-bravia-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   name: Sony BRAVIA Digital Signage 1.7.8 System API Information Disclosure
   author: geeknik
   severity: low

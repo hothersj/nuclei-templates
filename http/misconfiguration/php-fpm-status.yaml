@@ -1,6 +1,9 @@
 id: php-fpm-status
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: PHP-FPM Status
   author: geeknik
   severity: unknown

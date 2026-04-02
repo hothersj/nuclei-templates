@@ -1,6 +1,10 @@
 id: prestashop-cartabandonmentpro-file-upload
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-434
   name: Prestashop Cart Abandonment Pro File Upload
   author: MaStErChO
   severity: critical

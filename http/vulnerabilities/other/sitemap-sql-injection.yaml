@@ -1,6 +1,10 @@
 id: sitemap-sql-injection
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Sitemap - SQL Injection
   author: Aravind,j4vaovo
   severity: high

@@ -12,6 +12,10 @@ info:
     - https://github.com/zan8in/afrog/blob/main/pocs/afrog-pocs/vulnerability/thinkphp-v6-file-write.yaml
   classification:
     cpe: cpe:2.3:a:thinkphp:thinkphp:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-23
+      - CWE-73
+      - CWE-434
   metadata:
     verified: true
     max-request: 2

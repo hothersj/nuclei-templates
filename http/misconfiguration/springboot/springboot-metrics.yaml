@@ -1,6 +1,10 @@
 id: springboot-metrics
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Springboot Actuator Metrics - Exposure
   author: pussycat0x,TheZakMan
   severity: low

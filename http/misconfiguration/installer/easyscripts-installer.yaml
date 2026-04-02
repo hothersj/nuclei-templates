@@ -1,6 +1,11 @@
 id: easyscripts-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Easyscripts Installer
   author: theamanrawat
   severity: high

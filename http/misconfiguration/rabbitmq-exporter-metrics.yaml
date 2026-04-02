@@ -7,6 +7,9 @@ info:
   description: RabbitMQ Exporter is exposed.
   classification:
     cpe: cpe:2.3:a:vmware:rabbitmq:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

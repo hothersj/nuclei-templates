@@ -1,6 +1,10 @@
 id: ektron-blog-xmlrpc-xxe
 
 info:
+  classification:
+    cwe-id:
+      - CWE-611
+      - CWE-918
   name: Ektron CMS Blogs xmlrpc.aspx - XML External Entity Injection
   author: pussycat0x
   severity: high

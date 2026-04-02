@@ -11,6 +11,9 @@ info:
     - https://labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/
   classification:
     cpe: cpe:2.3:a:selenium:selenium:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

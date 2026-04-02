@@ -9,6 +9,10 @@ info:
     - https://blog.aquasec.com/python-ransomware-jupyter-notebook
   classification:
     cpe: cpe:2.3:a:jupyter:notebook:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     max-request: 1
     vendor: jupyter

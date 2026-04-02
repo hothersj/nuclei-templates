@@ -1,6 +1,11 @@
 id: shell-history
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Shell History
   author: pentest_swissky,geeknik
   severity: low

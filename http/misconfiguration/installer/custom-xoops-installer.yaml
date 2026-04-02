@@ -10,6 +10,10 @@ info:
     - https://www.exploit-db.com/ghdb/1115
   classification:
     cpe: cpe:2.3:a:xoops:xoops:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

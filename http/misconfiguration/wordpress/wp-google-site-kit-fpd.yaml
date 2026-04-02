@@ -1,6 +1,10 @@
 id: wp-google-site-kit-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
+      - CWE-756
   name: WordPress Plugin Site Kit by Google - Full Path Disclosure
   author: 0x_Akoko,DhiyaneshDK
   severity: info

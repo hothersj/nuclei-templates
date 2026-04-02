@@ -1,6 +1,10 @@
 id: qdpm-info-leak
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-260
   name: qdPM 9.2 - DB Credentials Exposure
   author: gy741
   severity: high

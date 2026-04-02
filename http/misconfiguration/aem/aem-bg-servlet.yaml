@@ -8,6 +8,9 @@ info:
     - https://www.slideshare.net/0ang3el/hunting-for-security-bugs-in-aem-webapps-129262212
   classification:
     cpe: cpe:2.3:a:adobe:experience_manager:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-430
+      - CWE-862
   metadata:
     max-request: 1
     vendor: adobe

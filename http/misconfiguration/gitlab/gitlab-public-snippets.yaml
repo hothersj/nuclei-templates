@@ -1,6 +1,11 @@
 id: gitlab-public-snippets
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: GitLab public snippets
   author: pdteam
   severity: info

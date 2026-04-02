@@ -1,6 +1,10 @@
 id: aspcms-commentlist-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-359
   name: AspCMS commentList.asp - SQL Injection
   author: SleepingBag945
   severity: high

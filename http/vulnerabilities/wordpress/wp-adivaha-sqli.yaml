@@ -1,6 +1,9 @@
 id: wp-adivaha-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: WordPress adivaha Travel Plugin 2.3 - SQL Injection
   author: theamanrawat
   severity: high

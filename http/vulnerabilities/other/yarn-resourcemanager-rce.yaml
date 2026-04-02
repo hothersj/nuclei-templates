@@ -1,6 +1,10 @@
 id: yarn-resourcemanager-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Apache Hadoop YARN ResourceManager - Remote Code Execution
   author: pdteam
   severity: low

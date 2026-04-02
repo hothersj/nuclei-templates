@@ -1,6 +1,10 @@
 id: cerio-dt-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: CERIO-DT Interface - Command Execution
   author: pussycat0x
   severity: critical

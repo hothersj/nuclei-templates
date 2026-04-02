@@ -11,7 +11,9 @@ info:
   reference:
     - https://wpscan.com/vulnerability/88a57716-6e8b-4e98-884d-5534074c601a/
   classification:
-    cwe-id: CWE-79
+    cwe-id:
+      - CWE-79
+      - CWE-83
     cvss-metrics: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N
     cvss-score: 6.1
   metadata:

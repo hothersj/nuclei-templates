@@ -1,6 +1,9 @@
 id: mybb-full-path-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: MyBB - Full Path Disclosure
   author: 0x_Akoko
   severity: low

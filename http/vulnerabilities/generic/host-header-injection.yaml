@@ -1,6 +1,11 @@
 id: host-header-injection
 
 info:
+  classification:
+    cwe-id:
+      - CWE-116
+      - CWE-138
+      - CWE-807
   name: Host Header Injection
   author: princechaddha
   severity: info

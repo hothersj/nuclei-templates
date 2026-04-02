@@ -1,6 +1,11 @@
 id: odbc-connection-string
 
 info:
+  classification:
+    cwe-id:
+      - CWE-256
+      - CWE-312
+      - CWE-538
   name: ODBC Connection String
   author: DhiyaneshDK
   severity: info

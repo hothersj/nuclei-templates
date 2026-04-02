@@ -10,6 +10,9 @@ info:
     - https://www.enumerated.ie/servicenow-data-exposure
   classification:
     cpe: cpe:2.3:a:servicenow:servicenow:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-425
+      - CWE-863
   metadata:
     verified: true
     max-request: 54

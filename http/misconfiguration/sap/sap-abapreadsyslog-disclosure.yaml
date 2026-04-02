@@ -1,6 +1,11 @@
 id: sap-abapreadsyslog-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-359
+      - CWE-862
   name: SAPControl ABAPReadSyslog - Disclosure
   author: LRVT,l4rm4nd
   severity: medium

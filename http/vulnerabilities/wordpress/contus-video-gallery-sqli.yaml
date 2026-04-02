@@ -1,6 +1,9 @@
 id: contus-video-gallery-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: WordPress Video Gallery <= 2.8 - SQL Injection
   author: theamanrawat
   severity: critical

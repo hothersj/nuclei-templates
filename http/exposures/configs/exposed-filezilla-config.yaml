@@ -1,6 +1,11 @@
 id: exposed-filezilla-config
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-538
+      - CWE-552
   name: Exposed FileZilla Configuration File - Exposure
   author: pussycat0x
   severity: medium

@@ -1,6 +1,10 @@
 id: jinhe-oa-c6-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-73
   name: Jinhe OA C6 download.jsp - Arbitary File Read
   author: SleepingBag945
   severity: high

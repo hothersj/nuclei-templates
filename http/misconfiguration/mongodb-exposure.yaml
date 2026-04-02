@@ -1,6 +1,10 @@
 id: mongodb-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: MongoDB Exposure
   author: DhiyaneshDk
   severity: info

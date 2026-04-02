@@ -1,6 +1,9 @@
 id: wp-cf7-data-source-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Data Source for Contact Form 7 - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

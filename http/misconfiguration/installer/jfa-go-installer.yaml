@@ -1,6 +1,10 @@
 id: jfa-go-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: jfa-go Setup Page - Exposure
   author: DhiyaneshDK
   severity: high

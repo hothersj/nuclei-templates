@@ -1,6 +1,10 @@
 id: pingsheng-electronic-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-138
   name: Pingsheng Electronic Reservoir Supervision Platform - Sql Injection
   author: s4e-io
   severity: high

@@ -1,6 +1,10 @@
 id: slack-app-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: Slack App Token
   author: DhiyaneshDK
   severity: info

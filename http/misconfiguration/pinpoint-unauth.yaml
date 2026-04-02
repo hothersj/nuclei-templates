@@ -1,6 +1,10 @@
 id: pinpoint-unauth
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: PinPoint Unauth
   author: dhiyaneshDk
   severity: high

@@ -1,6 +1,10 @@
 id: castel-digital-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
+      - CWE-287
   name: Castel Digital - Authentication Bypass
   author: s4e-io
   severity: high

@@ -1,6 +1,10 @@
 id: alfacgiapi-wordpress
 
 info:
+  classification:
+    cwe-id:
+      - CWE-548
+      - CWE-552
   name: alfacgiapi
   author: pussycat0x
   severity: low

@@ -1,6 +1,11 @@
 id: cache-poisoning
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-138
+      - CWE-444
   name: Cache Poisoning Detection
   author: melbadry9,xelkomy,akincibor,dogasantos
   severity: low

@@ -1,6 +1,9 @@
 id: springboot-actuators-jolokia-xxe
 
 info:
+  classification:
+    cwe-id:
+      - CWE-611
   name: Spring Boot Actuators (Jolokia) XXE
   author: dwisiswant0,ipanda
   severity: high

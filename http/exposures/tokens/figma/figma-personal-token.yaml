@@ -1,6 +1,11 @@
 id: figma-personal-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-540
+      - CWE-922
   name: Figma Personal Access Token
   author: DhiyaneshDK
   severity: info

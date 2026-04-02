@@ -8,6 +8,10 @@ info:
     Detects if path Appconfigs of Apache Pinot web application is exposed, getting internal information about the configuration made.
   classification:
     cpe: cpe:2.3:a:apache:pinot:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 1
     verified: true

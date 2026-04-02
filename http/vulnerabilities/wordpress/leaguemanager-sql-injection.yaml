@@ -1,6 +1,9 @@
 id: leaguemanager-sql-injection
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: LeagueManager <= 3.9.11 - SQL Injection
   author: theamanrawat
   severity: critical

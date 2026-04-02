@@ -7,6 +7,10 @@ info:
   description: Internal information is exposed in elasticsearch to external users.
   classification:
     cpe: cpe:2.3:a:elasticsearch:elasticsearch:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-201
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 4

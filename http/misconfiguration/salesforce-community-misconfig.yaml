@@ -1,6 +1,10 @@
 id: salesforce-community-misconfig
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Salesforce Community Misconfiguration
   author: domwhewell-sage
   severity: medium

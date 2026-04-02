@@ -1,6 +1,11 @@
 id: jinhe-oa-c6-upload-lfi
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-73
   name: Jinhe OA_C6_UploadFileDownLoadnew - Arbitrary File Read
   author: pussycat0x
   severity: high

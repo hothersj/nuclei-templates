@@ -1,6 +1,10 @@
 id: hongfan-ioffice-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-78
+      - CWE-89
   name: Hongfan OA ioAssistance.asmx - Remote Code Execution
   author: SleepingBag945
   severity: high

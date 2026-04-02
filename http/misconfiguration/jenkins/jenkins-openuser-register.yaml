@@ -10,6 +10,9 @@ info:
     - https://www.acunetix.com/vulnerabilities/web/jenkins-open-user-registration/
   classification:
     cpe: cpe:2.3:a:jenkins:jenkins:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

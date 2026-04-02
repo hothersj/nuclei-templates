@@ -1,6 +1,10 @@
 id: seeyon-oa-fastjson-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-502
   name: Seeyon OA Fastjson Remote Code Execution
   author: SleepingBag945
   severity: critical

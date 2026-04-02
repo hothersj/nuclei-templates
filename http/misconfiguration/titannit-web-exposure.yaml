@@ -1,6 +1,11 @@
 id: titannit-web-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: TitanNit Web Control - Exposure
   author: DhiyaneshDk
   severity: medium

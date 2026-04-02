@@ -9,6 +9,10 @@ info:
     - https://github.com/detectify/ugly-duckling/blob/master/modules/crowdsourced/putty-private-key-disclosure.json
   classification:
     cpe: cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-522
+      - CWE-538
+      - CWE-922
   metadata:
     verified: true
     max-request: 8

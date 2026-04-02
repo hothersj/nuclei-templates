@@ -14,6 +14,9 @@ info:
     cvss-score: 7.5
     epss-percentile: 0.36659
     cpe: cpe:2.3:a:gradio_project:gradio:*:*:*:*:python:*:*:*
+    cwe-id:
+      - CWE-610
+      - CWE-918
   metadata:
     verified: true
     max-request: 2

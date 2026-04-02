@@ -10,7 +10,10 @@ info:
     - https://www.exploit-db.com/exploits/47875
   classification:
     cvss-score: 7.5
-    cwe-id: CWE-22
+    cwe-id:
+      - CWE-22
+      - CWE-23
+      - CWE-35
     cpe: cpe:2.3:a:voyager_project:voyager:*:*:*:*:*:*:*:*
   metadata:
     verified: true

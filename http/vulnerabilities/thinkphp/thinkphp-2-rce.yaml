@@ -1,6 +1,10 @@
 id: thinkphp-2-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-94
+      - CWE-95
   name: ThinkPHP 2/3 - Remote Code Execution
   author: dr_set
   severity: critical

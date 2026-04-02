@@ -1,6 +1,10 @@
 id: binom-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-552
   name: Binom Installer Exposure
   author: tess
   severity: high

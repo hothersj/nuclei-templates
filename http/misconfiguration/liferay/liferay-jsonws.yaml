@@ -10,6 +10,10 @@ info:
     - https://liferay.dev/blogs/-/blogs/securing-the-api-jsonws-ui?_com_liferay_blogs_web_portlet_BlogsPortlet_showFlags=true&scroll=_com_liferay_blogs_web_portlet_BlogsPortlet_discussionContainer
   classification:
     cpe: cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

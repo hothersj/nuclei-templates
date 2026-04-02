@@ -1,6 +1,11 @@
 id: ibarn-installer
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: iBarn Installer - Exposure
   author: ritikchaddha
   severity: high

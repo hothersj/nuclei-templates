@@ -1,6 +1,10 @@
 id: wp-wpstatistics-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-532
   name: WordPress Plugin WP Statistics Error Log Disclosure
   author: DhiyaneshDk
   severity: medium

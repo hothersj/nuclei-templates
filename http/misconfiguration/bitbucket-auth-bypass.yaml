@@ -10,6 +10,10 @@ info:
     - https://github.com/Threekiii/Awesome-POC/blob/master/Web%E5%BA%94%E7%94%A8%E6%BC%8F%E6%B4%9E/Atlassian%20Bitbucket%20%E7%99%BB%E5%BD%95%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E.md
   classification:
     cpe: cpe:2.3:a:atlassian:bitbucket_data_center:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-288
+      - CWE-862
   metadata:
     verified: true
     max-request: 1

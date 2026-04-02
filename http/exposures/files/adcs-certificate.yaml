@@ -1,6 +1,9 @@
 id: adcs-certificate
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
   name: Microsoft AD CS Web Enrollment - Detect
   author: pastaga,defte,atomiczsec
   severity: info

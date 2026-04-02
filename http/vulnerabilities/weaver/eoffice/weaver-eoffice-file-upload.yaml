@@ -10,6 +10,9 @@ info:
     - https://github.com/RCEraser/cve/blob/main/Weaver.md
   classification:
     cpe: cpe:2.3:a:weaver:e-office:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-73
+      - CWE-434
   metadata:
     verified: true
     max-request: 2

@@ -1,6 +1,11 @@
 id: blog-designer-pack-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-22
+      - CWE-88
+      - CWE-94
   name: News & Blog Designer Pack < 3.4.2 - Remote Code Execution
   author: iamnoooob,rootxharsh,pdresearch
   severity: critical

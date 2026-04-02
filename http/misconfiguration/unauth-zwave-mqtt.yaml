@@ -1,6 +1,11 @@
 id: unauth-zwave-mqtt
 
 info:
+  classification:
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-862
   name: Unauthenticated ZWave To MQTT Console
   author: geeknik
   severity: low

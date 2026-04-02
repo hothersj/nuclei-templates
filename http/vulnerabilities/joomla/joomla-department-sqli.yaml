@@ -1,6 +1,9 @@
 id: joomla-department-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Joomla `departments` - SQL Injection
   author: ritikchaddha
   severity: high

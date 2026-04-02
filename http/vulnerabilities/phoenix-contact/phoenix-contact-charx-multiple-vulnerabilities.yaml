@@ -1,6 +1,10 @@
 id: phoenix-contact-charx-multiple-vulnerabilities
 
 info:
+  classification:
+    cwe-id:
+      - CWE-425
+      - CWE-862
   name: Phoenix Contact CHARX SEC-3XXX AC Controller < 1.7.3 - Multiple Vulnerabilities
   author: inokii
   severity: critical

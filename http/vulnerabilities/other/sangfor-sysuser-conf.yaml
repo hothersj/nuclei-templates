@@ -1,6 +1,12 @@
 id: sangfor-sysuser-conf
 
 info:
+  classification:
+    cwe-id:
+      - CWE-260
+      - CWE-306
+      - CWE-552
+      - CWE-862
   name: Sangfor Application sys_user.conf Account Password Leakage
   author: DhiyaneshDk
   severity: high

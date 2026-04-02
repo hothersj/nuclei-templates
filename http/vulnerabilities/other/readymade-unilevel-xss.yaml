@@ -1,6 +1,10 @@
 id: readymade-unilevel-xss
 
 info:
+  classification:
+    cwe-id:
+      - CWE-79
+      - CWE-83
   name: Readymade Unilevel Ecommerce MLM - Cross-Site Scripting
   author: s4e-io
   severity: high

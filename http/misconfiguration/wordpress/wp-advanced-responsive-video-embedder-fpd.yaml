@@ -1,6 +1,11 @@
 id: wp-advanced-responsive-video-embedder-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: WordPress Advanced Responsive Video Embedder - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

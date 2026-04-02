@@ -1,6 +1,10 @@
 id: apachespark-ui-exposed
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Apache Spark Application UI - Exposed
   author: ritikchaddha
   severity: medium

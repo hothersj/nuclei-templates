@@ -1,6 +1,11 @@
 id: weaviate-exposure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-213
+      - CWE-306
+      - CWE-862
   name: Weaviate - Exposure
   author: DhiyaneshDk
   severity: low

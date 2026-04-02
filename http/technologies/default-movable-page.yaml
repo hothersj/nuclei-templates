@@ -6,6 +6,8 @@ info:
   severity: info
   classification:
     cpe: cpe:2.3:a:sixapart:movable_type:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-538
   metadata:
     max-request: 1
     shodan-query: title:"Welcome to Movable Type"

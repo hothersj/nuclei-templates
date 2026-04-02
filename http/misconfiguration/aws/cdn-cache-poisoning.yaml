@@ -1,6 +1,10 @@
 id: cdn-cache-poisoning
 
 info:
+  classification:
+    cwe-id:
+      - CWE-15
+      - CWE-642
   name: Misconfigured CDN Cache Poisoning via X-Amz-Server-Side-Encryption Header
   author: 0xcharan
   severity: unknown

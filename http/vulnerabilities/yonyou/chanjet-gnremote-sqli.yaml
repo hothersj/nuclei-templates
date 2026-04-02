@@ -1,6 +1,9 @@
 id: chanjet-gnremote-sqli
 
 info:
+  classification:
+    cwe-id:
+      - CWE-89
   name: Changjietong Remote Communication GNRemote.dll - SQL Injection
   author: SleepingBag945
   severity: high

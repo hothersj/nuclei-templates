@@ -1,6 +1,11 @@
 id: webalizer-xtended-stats
 
 info:
+  classification:
+    cwe-id:
+      - CWE-200
+      - CWE-219
+      - CWE-552
   name: Webalizer Xtended Statistics Exposed
   author: ritikchaddha
   severity: low

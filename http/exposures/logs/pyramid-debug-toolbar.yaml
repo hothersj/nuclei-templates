@@ -1,6 +1,9 @@
 id: pyramid-debug-toolbar
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Pyramid Debug Toolbar
   author: geeknik
   severity: medium

@@ -1,6 +1,10 @@
 id: github-refresh
 
 info:
+  classification:
+    cwe-id:
+      - CWE-312
+      - CWE-522
   name: GitHub Refresh Token
   author: DhiyaneshDK
   severity: info

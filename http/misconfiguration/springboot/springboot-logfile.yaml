@@ -1,6 +1,10 @@
 id: springboot-logfile
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: Detects Springboot Logfile Actuator
   author: DhiyaneshDK
   severity: low

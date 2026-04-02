@@ -1,6 +1,10 @@
 id: aspnetcore-dev-env
 
 info:
+  classification:
+    cwe-id:
+      - CWE-11
+      - CWE-209
   name: ASP.NET Core Development Environment - Exposure
   author: Mys7ic
   severity: info

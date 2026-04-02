@@ -1,6 +1,10 @@
 id: wp-members-log-disclosure
 
 info:
+  classification:
+    cwe-id:
+      - CWE-538
+      - CWE-922
   name: WordPress Members Plugin - Debug/Error Log Disclosure
   author: ritikchaddha
   severity: low

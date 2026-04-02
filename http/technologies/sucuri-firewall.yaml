@@ -1,6 +1,9 @@
 id: sucuri-firewall
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: Sucuri Website Firewall - Not Configured
   author: pussycat0x
   severity: info

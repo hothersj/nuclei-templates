@@ -1,6 +1,10 @@
 id: wordpress-affiliatewp-log
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-532
   name: WordPress Plugin "AffiliateWP -- Allowed Products" Log Disclosure
   author: dhiyaneshDK
   severity: low

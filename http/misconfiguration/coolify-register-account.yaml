@@ -1,6 +1,10 @@
 id: coolify-register-account
 
 info:
+  classification:
+    cwe-id:
+      - CWE-306
+      - CWE-862
   name: Coolify Register User Account - Enabled
   author: DhiyaneshDk
   severity: medium

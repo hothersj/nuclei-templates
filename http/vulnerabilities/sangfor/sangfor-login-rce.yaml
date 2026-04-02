@@ -1,6 +1,10 @@
 id: sangfor-login-rce
 
 info:
+  classification:
+    cwe-id:
+      - CWE-77
+      - CWE-78
   name: Sangfor Application Login - Remote Command Execution
   author: SleepingBag945
   severity: critical

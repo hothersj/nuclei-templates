@@ -1,6 +1,10 @@
 id: readme-md
 
 info:
+  classification:
+    cwe-id:
+      - CWE-219
+      - CWE-552
   name: README.md file disclosure
   author: ambassify
   severity: info

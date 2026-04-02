@@ -1,6 +1,9 @@
 id: seized-site
 
 info:
+  classification:
+    cwe-id:
+      - CWE-552
   name: Seized Site
   author: rxerium
   severity: info

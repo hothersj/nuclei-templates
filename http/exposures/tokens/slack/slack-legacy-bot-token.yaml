@@ -1,6 +1,11 @@
 id: slack-legacy-bot-token
 
 info:
+  classification:
+    cwe-id:
+      - CWE-522
+      - CWE-538
+      - CWE-922
   name: Slack Legacy Bot Token
   author: DhiyaneshDK
   severity: info

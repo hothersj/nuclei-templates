@@ -1,6 +1,9 @@
 id: wp-hello-dolly-fpd
 
 info:
+  classification:
+    cwe-id:
+      - CWE-209
   name: WordPress Plugin Hello Dolly - Full Path Disclosure
   author: DhiyaneshDk
   severity: low

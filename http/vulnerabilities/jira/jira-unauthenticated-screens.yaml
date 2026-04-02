@@ -8,6 +8,11 @@ info:
     - https://developer.atlassian.com/cloud/jira/platform/rest/v2/api-group-screens/#api-rest-api-2-screens-get
   classification:
     cpe: cpe:2.3:a:atlassian:jira_data_center:*:*:*:*:*:*:*:*
+    cwe-id:
+      - CWE-287
+      - CWE-306
+      - CWE-425
+      - CWE-862
   metadata:
     max-request: 1
     vendor: atlassian
